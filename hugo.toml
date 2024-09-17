@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://example.com"
+baseURL = "https://evn.li"
 languageCode = 'en-us'
 title = 'SIOA 2025'
 theme = "hugo-bearcub"
