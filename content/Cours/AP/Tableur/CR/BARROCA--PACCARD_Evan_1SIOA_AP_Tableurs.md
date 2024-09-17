@@ -28,3 +28,25 @@ Pour calculer le montant de la TVA a 19,6 % nous effectuons la commande suivan
 ```
 
 Puis pour calculer le prix TTC nous additionnons les deux valeurs ;
+```
+=D6 +D7
+= prix HT + montant TVA
+```
+
+Le prix de vente d'un article est de 143,5€ ttc
+Le taux de TVA est de 19,6%
+
+![image info](pictures/tabl1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
