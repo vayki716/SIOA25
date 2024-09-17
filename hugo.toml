@@ -37,7 +37,7 @@ enableRobotsTXT = true
   description = "Work in progress"
 
   # The path to your favicon
-  favicon = "images/favicon.ico"
+  favicon = "/favicon.ico"
 
   # These images will show up when services want to generate a preview of a link
   # to your site. Ignored if `generateSocialCard = true`. For more information
