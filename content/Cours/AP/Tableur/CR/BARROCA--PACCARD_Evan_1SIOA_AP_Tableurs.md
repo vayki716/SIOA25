@@ -29,7 +29,7 @@ Pour calculer le montant de la TVA a 19,6 % nous effectuons la commande suivan
 
 Puis pour calculer le prix TTC nous additionnons les deux valeurs ;
 ```
-=D6 +D7
+= D6 +D7
 = prix HT + montant TVA
 ```
 
@@ -38,12 +38,31 @@ Le taux de TVA est de 19,6%
 
 ![image info](pictures/tabl1.png)
 
+Pour calculer le montant de la TVA a partir du prix TTC de l’article nous effectuons la commande suivante ;
+```
+= D15 - (D15/(1+0,196))
+= prix ttc – ( prix ttc / ( 1 + 0.196 ) )
+```
 
+Puis pour calculer le prix HT de l’article nous soustrayons la TVA au prix TTC ; 
+```
+= D15 -D14
+= prix TTC – prix TVA
+```
 
+# Exercice 2 :
 
+MANQUE LE GRAPHIQUE
 
+Pour calculer les moyennes des eleves il est possible d’utiliser la formule par defaut pour calculer une moyenne c’est a dire AVERAGE(__:__), puis il suffira de la descendre pour calculer le reste des moyennes ;
 
+```
+=AVERAGE(E11:H12)
+```
 
+Puis pour calculer le minimum nous utiliserons egallement une formule par defaut (MIN(__ :__), de meme pour la formule MAX(__ :__) qui permet d’obtenir le maximum. 
+
+Enfin pour obtenir le nombre de notes superieurs ou egalles a 0 il faut utiliser la formule COUNTIF( __ :__ ; « condition a verifier » ) ;
 
 
 
