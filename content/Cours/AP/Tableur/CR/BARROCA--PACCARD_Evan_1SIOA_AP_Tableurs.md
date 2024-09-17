@@ -125,6 +125,6 @@ Pour le total SOLDES ;
 
 Pour afficher le solde en rouge il faut selectionner la case et lui ajouter une condition qui lorsque le montant est inferieur a 0 transforme la case en rouge et s'il est negatif la transforme en vert.
 
-# Exercice 4 :
+# Exercice 5 :
 
 
