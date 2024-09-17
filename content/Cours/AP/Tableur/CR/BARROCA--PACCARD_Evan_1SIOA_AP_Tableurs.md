@@ -19,7 +19,7 @@ draft = false
 Le prix de vente d'un article est de 263€ ht
 Le taux de TVA est de 19,6%
 
-![image info](,/public/images/pictures/tabl1.png)
+![image info](AP/tabl1.png)
 
 Pour calculer le montant de la TVA a 19,6 % nous effectuons la commande suivante ; 
 ```
@@ -36,7 +36,7 @@ Puis pour calculer le prix TTC nous additionnons les deux valeurs ;
 Le prix de vente d'un article est de 143,5€ ttc
 Le taux de TVA est de 19,6%
 
-![image info](/public/images/pictures/tabl1.png)
+![image info](/AP/tabl1.png)
 
 Pour calculer le montant de la TVA a partir du prix TTC de l’article nous effectuons la commande suivante ;
 ```
