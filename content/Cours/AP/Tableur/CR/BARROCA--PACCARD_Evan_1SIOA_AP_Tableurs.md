@@ -76,6 +76,36 @@ Si l’on souhaite limiter le nombre de décimales il suffit d’utiliser l'icon
 
 ![image info](/AP/tabl5.png)
 
+Pour le prix total HT ;
+```
+= (nombre * prix unitaire HT)
+```
+
+Pour la TVA a 7% ; 
+```
+= (prix total HT * 0.07)
+```
+
+Pour le prix total TTC ; 
+```
+=SUM(prix total HT, TVA)
+```
+
+Pour le Total TTC ;
+```
+=SUM(de tout les prix totaux TTC)
+```
+
+Les resultats des prix totaux sont donc les suivants :
+- TVA 7% : 150,87
+- TVA 5.5% : 148,755
+- TVA 19.6% : 168,636
+
+
+# Exercice 4 :
+
+![image info](/AP/tabl5.png)
+
 Apres avoir remplis le tableau avec des valeurs il faut integrer des formules de calcule ;
 
 Pour le total RECETTES ; 
@@ -94,5 +124,7 @@ Pour le total SOLDES ;
 ```
 
 Pour afficher le solde en rouge il faut selectionner la case et lui ajouter une condition qui lorsque le montant est inferieur a 0 transforme la case en rouge et s'il est negatif la transforme en vert.
+
+# Exercice 4 :
 
 
