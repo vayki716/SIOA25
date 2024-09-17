@@ -74,7 +74,7 @@ Si l’on souhaite limiter le nombre de décimales il suffit d’utiliser l'icon
 
 # Exercice 3 :
 
-![image info](/AP/tabl5.png)
+![image info](/AP/tabl6.png)
 
 Pour le prix total HT ;
 ```
