@@ -54,6 +54,7 @@ Puis pour calculer le prix HT de l’article nous soustrayons la TVA au prix TTC
 
 MANQUE LE GRAPHIQUE
 
+![image info](/AP/tabl3.png)
 ![image info](/AP/tabl4.png)
 
 Pour calculer les moyennes des eleves il est possible d’utiliser la formule par defaut pour calculer une moyenne c’est a dire AVERAGE(__:__), puis il suffira de la descendre pour calculer le reste des moyennes ;
@@ -72,5 +73,26 @@ Enfin pour obtenir le nombre de notes superieurs ou egalles a 0 il faut utiliser
 Si l’on souhaite limiter le nombre de décimales il suffit d’utiliser l'icone .OO avec une petite croix.
 
 # Exercice 3 :
+
+![image info](/AP/tabl5.png)
+
+Apres avoir remplis le tableau avec des valeurs il faut integrer des formules de calcule ;
+
+Pour le total RECETTES ; 
+```
+=SUM(Salaires, Alocations, Bourses, Divers)
+```
+
+Pour le total DEPENSES ;
+```
+=SUM(Loyer, Taxe... Imprevus)
+```
+
+Pour le total SOLDES ;
+```
+=(RECETTES - DEPENSES)
+```
+
+Pour afficher le solde en rouge il faut selectionner la case et lui ajouter une condition qui lorsque le montant est inferieur a 0 transforme la case en rouge et s'il est negatif la transforme en vert.
 
 
