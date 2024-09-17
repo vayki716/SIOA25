@@ -19,7 +19,7 @@ draft = false
 Le prix de vente d'un article est de 263€ ht
 Le taux de TVA est de 19,6%
 
-![image info](AP/tabl1.png)
+![image info](/AP/tabl1.png)
 
 Pour calculer le montant de la TVA a 19,6 % nous effectuons la commande suivante ; 
 ```
@@ -36,7 +36,7 @@ Puis pour calculer le prix TTC nous additionnons les deux valeurs ;
 Le prix de vente d'un article est de 143,5€ ttc
 Le taux de TVA est de 19,6%
 
-![image info](/AP/tabl1.png)
+![image info](/AP/tabl2.png)
 
 Pour calculer le montant de la TVA a partir du prix TTC de l’article nous effectuons la commande suivante ;
 ```
@@ -54,6 +54,8 @@ Puis pour calculer le prix HT de l’article nous soustrayons la TVA au prix TTC
 
 MANQUE LE GRAPHIQUE
 
+![image info](/AP/tabl4.png)
+
 Pour calculer les moyennes des eleves il est possible d’utiliser la formule par defaut pour calculer une moyenne c’est a dire AVERAGE(__:__), puis il suffira de la descendre pour calculer le reste des moyennes ;
 
 ```
@@ -63,9 +65,12 @@ Pour calculer les moyennes des eleves il est possible d’utiliser la formule pa
 Puis pour calculer le minimum nous utiliserons egallement une formule par defaut (MIN(__ :__), de meme pour la formule MAX(__ :__) qui permet d’obtenir le maximum. 
 
 Enfin pour obtenir le nombre de notes superieurs ou egalles a 0 il faut utiliser la formule COUNTIF( __ :__ ; « condition a verifier » ) ;
+```
+=COUNTIF(__ :__ ; « condition a verifier » )
+=COUNTIF(E12:E21 ; ">=10")
+```
+Si l’on souhaite limiter le nombre de décimales il suffit d’utiliser l'icone .OO avec une petite croix.
 
-
-
-
+# Exercice 3 :
 
 
