@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AP on SIOA 2025</title>
+    <link>http://localhost:1313/cours/ap/</link>
+    <description>Recent content in AP on SIOA 2025</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Azamat (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 13 Sep 2024 22:52:58 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cours/ap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>document markdown</title>
+      <link>http://localhost:1313/cours/ap/document-markdown/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/ap/document-markdown/</guid>
+      <description>Version PDF&#xA;Compte-rendu du TP X : Titre du compte-rendu Objectifs Permulcens flebile simul Iura tum nepotis causa motus Diva virtus Acrota. Tamen condeturque saxa Pallorque num et ferarum Question 1 Lorem markdownum Letoia, et alios: figurae flectentem annis aliquid Peneosque ab esse, obstat gravitate. Obscura atque coniuge, per de coniunx, sibi medias commentaque virgine anima tamen comitemque petis, sed. In Amphion vestros hamos ire arceor mandere spicula, in licet aliquando.</description>
+      <content:encoded><![CDATA[<p><a href="https://lajoliverie-my.sharepoint.com/:b:/g/personal/ebarrocapaccard_la-joliverie_com/Ed-E_EC-RvhOvNdcUvAcCu8BV47x_SjzRisqEWDSfXjeEQ?e=jRaxux" download>Version PDF</a></p>
+<h1 id="compte-rendu-du-tp-x--titre-du-compte-rendu">Compte-rendu du TP X : Titre du compte-rendu</h1>
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Permulcens flebile simul</li>
+<li>Iura tum nepotis causa motus</li>
+<li>Diva virtus Acrota.</li>
+<li>Tamen condeturque saxa Pallorque num et ferarum</li>
+</ul>
+<h1 id="question-1">Question 1</h1>
+<p>Lorem markdownum Letoia, et alios: figurae flectentem annis aliquid Peneosque ab
+esse, obstat gravitate. Obscura atque coniuge, per de coniunx, sibi <strong>medias
+commentaque virgine</strong> anima tamen comitemque petis, sed. In Amphion vestros
+hamos ire arceor mandere spicula, in licet aliquando.</p>
+
+
+
+
+
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="ln">1</span><span class="cl"><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Example</span><span class="w"> </span><span class="kd">implements</span><span class="w"> </span><span class="n">LoremIpsum</span><span class="w"> </span><span class="p">{</span><span class="w">
+</span></span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="w">	</span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+</span></span></span><span class="line"><span class="ln">3</span><span class="cl"><span class="w">		</span><span class="k">if</span><span class="p">(</span><span class="n">args</span><span class="p">.</span><span class="na">length</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">2</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+</span></span></span><span class="line"><span class="ln">4</span><span class="cl"><span class="w">			</span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">&#34;Lorem ipsum dolor sit amet&#34;</span><span class="p">);</span><span class="w">
+</span></span></span><span class="line"><span class="ln">5</span><span class="cl"><span class="w">		</span><span class="p">}</span><span class="w">
+</span></span></span><span class="line"><span class="ln">6</span><span class="cl"><span class="w">	</span><span class="p">}</span><span class="w"> </span><span class="c1">// Obscura atque coniuge, per de coniunx</span><span class="w">
+</span></span></span><span class="line"><span class="ln">7</span><span class="cl"><span class="w"></span><span class="p">}</span></span></span></code></pre></div><p>Porrigitur et Pallas nuper longusque cratere habuisse sepulcro pectore fertur.
+Laudat ille auditi; vertitur iura tum nepotis causa; motus. Diva virtus! Acrota
+destruitis vos iubet quo et classis excessere Scyrumve spiro subitusque mente
+Pirithoi abstulit, lapides.</p>
+<h2 id="lydia-caelo-recenti-haerebat-lacerum-ratae-at">Lydia caelo recenti haerebat lacerum ratae at</h2>
+<p>Te concepit pollice fugit vias alumno <strong>oras</strong> quam potest
+<a href="http://example.com#rursus">rursus</a> optat. Non evadere orbem equorum, spatiis,
+vel pede inter si.</p>
+<ol>
+<li>De neque iura aquis</li>
+<li>Frangitur gaudia mihi eo umor terrae quos</li>
+<li>Recens diffudit ille tantum</li>
+</ol>
+<p>\begin{equation}\label{eq:neighbor-propability}
+p_{ij}(t) = \frac{\ell_j(t) - \ell_i(t)}{\sum_{k \in N_i(t)}^{} \ell_k(t) - \ell_i(t)}
+\end{equation}</p>
+<p>Tamen condeturque saxa Pallorque num et ferarum promittis inveni lilia iuvencae
+adessent arbor. Florente perque at condeturque saxa et ferarum promittis tendebat. Armos nisi obortas refugit me.</p>
+<blockquote>
+<p>Et nepotes poterat, se qui. Euntem ego pater desuetaque aethera Maeandri, et
+<a href="http://example.com#Dardanio_geminaque">Dardanio geminaque</a> cernit. Lassaque poenas
+nec, manifesta $\pi r^2$ mirantia captivarum prohibebant scelerato gradus unusque
+dura.</p>
+</blockquote>
+<ul>
+<li>Permulcens flebile simul</li>
+<li>Iura tum nepotis causa motus diva virtus Acrota. Tamen condeturque saxa Pallorque num et ferarum promittis inveni lilia iuvencae adessent arbor. Florente perque at ire arcum.</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

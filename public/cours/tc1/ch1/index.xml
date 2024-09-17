@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CH1 on SIOA 2025</title>
+    <link>http://localhost:1313/cours/tc1/ch1/</link>
+    <description>Recent content in CH1 on SIOA 2025</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Azamat (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 13 Sep 2024 22:52:58 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cours/tc1/ch1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cours 1 - Système d’Exploitation (SE) &amp; Operating System (OS)</title>
+      <link>http://localhost:1313/cours/tc1/ch1/cours-1---syst%C3%A8me-dexploitation-se--operating-system-os/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/tc1/ch1/cours-1---syst%C3%A8me-dexploitation-se--operating-system-os/</guid>
+      <description>Un Systeme d&amp;rsquo;Exploitation (Operating System en anglais) est une interface qui traduit le language de la machine pour l&amp;rsquo;humain afin de lui permettre d&amp;rsquo;utiliser plus facilement l&amp;rsquo;ordinateur (d&amp;rsquo;un point de vue Hardware).&#xA;Un Processus est un programme en cours d&amp;rsquo;execution.&#xA;Role du SE Un SE gère l&amp;rsquo;allocation, l&amp;rsquo;utilisation et le partage des ressources matérielles telles que : Processeur, Mémoire, espace disque, périphériques.&#xA;Principales fonctions d&amp;rsquo;un SE La gestion des processus La gestion de la mémoire centrale La gestion des fichiers et des répertoires La gestion des entrées/sorties Classification des systemes d&amp;rsquo;exploitation Mono Utilisateur - Mono Tache Le processus execute une tache d&amp;rsquo;un utilisateur a la fois.</description>
+      <content:encoded><![CDATA[<p>Un <span style="color:blue"><em>Systeme d&rsquo;Exploitation</em></span> (Operating System en anglais) est une interface qui traduit le language de la machine pour l&rsquo;humain afin de lui permettre d&rsquo;utiliser plus facilement l&rsquo;ordinateur (d&rsquo;un point de vue Hardware).</p>
+<p>Un Processus est un programme en cours d&rsquo;execution.</p>
+<h2 id="role-du-se">Role du SE</h2>
+<p>Un SE gère l&rsquo;allocation, l&rsquo;utilisation et le partage des ressources matérielles telles que : Processeur, Mémoire, espace disque, périphériques.</p>
+<h3 id="principales-fonctions-dun-se">Principales fonctions d&rsquo;un SE</h3>
+<ul>
+<li>La gestion des processus</li>
+<li>La gestion de la mémoire centrale</li>
+<li>La gestion des fichiers et des répertoires</li>
+<li>La gestion des entrées/sorties</li>
+</ul>
+<h2 id="classification-des-systemes-dexploitation">Classification des systemes d&rsquo;exploitation</h2>
+<h3 id="mono-utilisateur---mono-tache">Mono Utilisateur - Mono Tache</h3>
+<p>Le processus execute une tache d&rsquo;un utilisateur a la fois.</p>
+<h3 id="mono-utilisateur---multitaches">Mono Utilisateur - Multitaches</h3>
+<p>Le processus execute plusieurs taches d&rsquo;un utilisateur a la fois.</p>
+<h3 id="mono-multiutilisateurs---multitaches">Mono Multiutilisateurs - Multitaches</h3>
+<p>Le processus execute plusieurs taches de plusieurs utilisateurs a la fois.</p>
+<h3 id="mono-processeur">Mono Processeur</h3>
+<p>Le SE ne prends en charge qu&rsquo;un seul ?processus?</p>
+<h3 id="multi-processeurs">Multi Processeurs</h3>
+<p>Le SE prend en charge plusieurs ?processus?</p>
+<h3 id="un-se-multitaches-peut-etre-">Un SE Multitaches peut etre :</h3>
+<ul>
+<li>
+<p>Non Preemptif (ou Cooperatif) =</p>
+</li>
+<li>
+<p>Soit Preemptif</p>
+</li>
+</ul>
+<h3 id="multithreads">Multithreads</h3>
+<p>Chaque processus peut etre decompose.</p>
+<p>Le SE gere le temps d&rsquo;execution non seulement entre differents processus, mais aussi entre les threads d&rsquo;un meme processus.</p>
+<h3 id="platforme-materielle">Platforme Materielle</h3>
+<p>Une platforme materielle est un type de processeur &hellip;</p>
+<h3 id="mono-platforme">Mono-Platforme</h3>
+<p>Une SE est dit Mono-Platforme &hellip;</p>
+<h3 id="multi-platformes">Multi-Platformes</h3>
+<p>Un SE est dit Multi-Platformes &hellip;</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="http://localhost:1313/images/favicon.ico" />
+<title>SIOA 2025</title>
+<meta name="title" content="SIOA 2025" />
+<meta name="description" content="Changelog All notable changes to this project are documented in this file. On the releases page you can see all released versions of the Eisvogel template and download the latest version.
+2.4.2 - 2023-11-25 Merge changes from the pandoc default LaTeX template from version 3.1.9 (f7d8b62). Merge changes from the pandoc default LaTeX template from version 3.1.8 (2d42e04) (#364, David Mehren). Add fix for table-use-row-colors which previously stopped working (#301, Chris Fenner)." />
+<meta name="author" content="" />
+<meta name="keywords" content="" />
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="Changelog All notable changes to this project are documented in this file. On the releases page you can see all released versions of the Eisvogel template and download the latest version.
+2.4.2 - 2023-11-25 Merge changes from the pandoc default LaTeX template from version 3.1.9 (f7d8b62). Merge changes from the pandoc default LaTeX template from version 3.1.8 (2d42e04) (#364, David Mehren). Add fix for table-use-row-colors which previously stopped working (#301, Chris Fenner)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/cours/latex/changelog/" />
+
+<meta property="og:image" content="http://localhost:1313/images/social_card_bg_hu24b6b25ef60ca259d3d1b88ebbfdfb28_6698_20fc79e99bd4f72760bc47f73f4613f5.webp"/><meta property="article:section" content="cours" />
+
+<meta property="og:site_name" content="SIOA 2025" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://localhost:1313/images/social_card_bg_hu24b6b25ef60ca259d3d1b88ebbfdfb28_6698_20fc79e99bd4f72760bc47f73f4613f5.webp"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="Changelog All notable changes to this project are documented in this file. On the releases page you can see all released versions of the Eisvogel template and download the latest version.
+2.4.2 - 2023-11-25 Merge changes from the pandoc default LaTeX template from version 3.1.9 (f7d8b62). Merge changes from the pandoc default LaTeX template from version 3.1.8 (2d42e04) (#364, David Mehren). Add fix for table-use-row-colors which previously stopped working (#301, Chris Fenner)."/>
+
+
+
+<meta itemprop="name" content="">
+<meta itemprop="description" content="Changelog All notable changes to this project are documented in this file. On the releases page you can see all released versions of the Eisvogel template and download the latest version.
+2.4.2 - 2023-11-25 Merge changes from the pandoc default LaTeX template from version 3.1.9 (f7d8b62). Merge changes from the pandoc default LaTeX template from version 3.1.8 (2d42e04) (#364, David Mehren). Add fix for table-use-row-colors which previously stopped working (#301, Chris Fenner).">
+
+<meta itemprop="wordCount" content="1426">
+
+<meta itemprop="image" content="http://localhost:1313/images/social_card_bg_hu24b6b25ef60ca259d3d1b88ebbfdfb28_6698_20fc79e99bd4f72760bc47f73f4613f5.webp"/>
+
+
+<meta itemprop="keywords" content="" />
+
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  
+  <link href="/original.min.css" rel="stylesheet">
+
+  
+
+  
+
+  
+
+  <style>
+    body {
+      font-family: Verdana, sans-serif;
+      margin: auto;
+      padding: 20px;
+      max-width: 720px;
+      text-align: left;
+      background-color: #f4f4f4;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      line-height: 1.5;
+      color: #1a1c2c;
+    }
+  
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #1a1c2c;
+    }
+  
+    a {
+      color: #38b764;
+       
+    }
+  
+    .title {
+      text-decoration: none;
+      border: 0;
+    }
+  
+    .title span {
+      font-weight: 400;
+    }
+  
+    nav a {
+      margin-right: 10px;
+      color: #38b764;
+    }
+  
+    textarea {
+      width: 100%;
+      font-size: 16px;
+    }
+  
+    input {
+      font-size: 16px;
+    }
+  
+    content {
+      line-height: 1.6;
+    }
+  
+    table {
+      width: 100%;
+    }
+  
+    img {
+      max-width: 100%;
+    }
+  
+    code {
+      padding: 2px 5px;
+      background-color: #f2f2f2;
+    }
+  
+    pre code {
+      color: #222;
+      display: block;
+      padding: 20px;
+      white-space: pre-wrap;
+      font-size: 14px;
+      overflow-x: auto;
+    }
+  
+    div.highlight pre {
+      background-color: initial;
+      color: initial;
+    }
+  
+    div.highlight code {
+      background-color: unset;
+      color: unset;
+    }
+  
+    blockquote {
+      border-left: 1px solid #999;
+      color: #222;
+      padding-left: 20px;
+      font-style: italic;
+    }
+  
+    footer {
+      padding: 25px;
+      text-align: center;
+    }
+  
+    .helptext {
+      color: #777;
+      font-size: small;
+    }
+  
+    .errorlist {
+      color: #eba613;
+      font-size: small;
+    }
+  
+     
+    ul.blog-posts {
+      list-style-type: none;
+      padding: unset;
+    }
+  
+    ul.blog-posts li {
+      display: flex;
+    }
+  
+    ul.blog-posts li span {
+      flex: 0 0 130px;
+    }
+  
+    ul.blog-posts li a:visited {
+      color: #38b764;
+    }
+  
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #333;
+        color: #ddd;
+      }
+  
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      strong,
+      b {
+        color: #eee;
+      }
+  
+      a {
+        color: #8cc2dd;
+      }
+  
+      code {
+        background-color: #777;
+      }
+  
+      pre code {
+        color: #ddd;
+      }
+  
+      blockquote {
+        color: #ccc;
+      }
+  
+      textarea,
+      input {
+        background-color: #252525;
+        color: #ddd;
+      }
+  
+      .helptext {
+        color: #aaa;
+      }
+    }
+  
+  
+  </style>
+  </head>
+
+<body>
+  <header><a class="skip-link" href="#main-content">Skip to main content</a>
+
+<a href="/" class="title"><h1>SIOA 2025</h1></a>
+<nav>
+  <a href="/">Home</a>
+
+  <a href="/cours/">Cours</a>
+
+  <a href="/agenda/">Agenda</a>
+
+  <a href="/stages/">Stages</a>
+
+  <a href="/online-privacy/">Online Privacy</a>
+
+
+
+
+
+
+
+
+</nav>
+</header>
+  <main id="main-content">
+
+<h1></h1>
+<p class="byline">
+  <time datetime='0001-01-01' pubdate>
+    0001-01-01
+  </time>
+  
+</p>
+
+<content>
+  <h1 id="changelog">Changelog</h1>
+<p>All notable changes to this project are documented in this file. On the <a href="https://github.com/Wandmalfarbe/pandoc-latex-template/releases/">releases page</a> you can see all released versions of the Eisvogel template and download the <a href="https://github.com/Wandmalfarbe/pandoc-latex-template/releases/latest">latest version</a>.</p>
+<h2 id="242---2023-11-25"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v2.4.1...v2.4.2">2.4.2</a> - 2023-11-25</h2>
+<ul>
+<li>Merge changes from the pandoc default LaTeX template from version 3.1.9 (<a href="https://github.com/jgm/pandoc-templates/commit/f7d8b629330074a4400d1f2795b101d14491c968">f7d8b62</a>).</li>
+<li>Merge changes from the pandoc default LaTeX template from version 3.1.8 (<a href="https://github.com/jgm/pandoc-templates/commit/2d42e04cbd65dd36c4469156b00f636e7f31623e">2d42e04</a>) (#364, David Mehren).</li>
+<li>Add fix for <code>table-use-row-colors</code> which previously stopped working (#301, Chris Fenner).</li>
+</ul>
+<h2 id="241---2023-09-06"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v2.4.0...v2.4.1">2.4.1</a> - 2023-09-06</h2>
+<ul>
+<li>Merge changes from the pandoc default LaTeX template from version 3.1.7 (as of 2023-08-31, <a href="https://github.com/jgm/pandoc-templates/blob/8a5b381c156c974b485197208c6dc86fce94b5c3/default.latex">8a5b381</a>).</li>
+</ul>
+<h2 id="240---2023-04-17"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v2.3.0...v2.4.0">2.4.0</a> - 2023-04-17</h2>
+<ul>
+<li>Merge changes from the pandoc default LaTeX template (as of 2023-03-29, <a href="https://github.com/jgm/pandoc/blob/a5159c2c505cd9a87856877b3287aa0b88e4e0ba/data/templates/default.latex">a5159c2</a>).</li>
+<li>Fix placement of float figures (tables, images, etc.). Float figures should now appear
+exactly where they are included. The option <code>float-placement-figure</code> is also restored.</li>
+<li>Remove Travis CI build</li>
+<li>Fix wrong font sizes on the title page. The problem went away on its own, likely because
+of an updated LaTeX package.</li>
+</ul>
+<h2 id="230---2023-03-13"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v2.2.0...v2.3.0">2.3.0</a> - 2023-03-13</h2>
+<p>The Eisvogel template is now available in the Docker image <a href="https://hub.docker.com/r/pandoc/extra">pandoc/extra</a>!
+For more Information refer to the <a href="https://github.com/Wandmalfarbe/pandoc-latex-template#docker-image">documentation in the Readme</a> or
+the <a href="https://hub.docker.com/r/pandoc/extra">documentation on docker hub</a>.</p>
+<ul>
+<li>Merge changes from the pandoc default LaTeX template (as of 2023-03-10, <a href="https://github.com/jgm/pandoc/blob/9b04036f6b0745c6ce0cb027683e94b648da3a9c/data/templates/default.latex">9b04036</a>).
+<ul>
+<li>Add <code>CJKsansfont</code> and <code>CJKmonofont</code> for XeLaTeX. <code>CJKsansfont</code> and <code>CJKmonofont</code> will be set
+for XeLaTeX only if <code>CJKmainfont</code> is also provided (#328, Yudong Jin).</li>
+</ul>
+</li>
+<li>Add documentation in the README on how to use the <code>pandoc/extra</code> docker image (#319, damien clochard).</li>
+<li>Fix wrong literate of characters <code>è</code> and <code>È</code> in listings. The character <code>è</code> was wrongly
+converted to <code>é</code> and <code>È</code> to <code>É</code> (#324, damien clochard).</li>
+</ul>
+<h2 id="220---2023-01-22"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v2.1.0...v2.2.0">2.2.0</a> - 2023-01-22</h2>
+<ul>
+<li>Merge changes from the pandoc default LaTeX template (as of 2023-01-13, <a href="https://github.com/jgm/pandoc/blob/909ced5153e2c7cefd5018c39f83231824940fb8/data/templates/default.latex">909ced5</a>).
+<ul>
+<li>This change adds support for pandoc 3.</li>
+</ul>
+</li>
+</ul>
+<h2 id="210---2022-12-04"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v2.0.0...v2.1.0">2.1.0</a> - 2022-12-04</h2>
+<ul>
+<li>Merge changes from the pandoc default LaTeX template (as of 2022-11-19, <a href="https://github.com/jgm/pandoc/blob/144bf90ab92b517dd721baf80f121f86187ccd61/data/templates/default.latex">144bf90ab9</a>).</li>
+<li>Restructure the examples. Any example folder now contains at least the following files:
+<ul>
+<li><code>document.md</code>: the Markdown document to convert to a PDF</li>
+<li><code>document.pdf</code>: the resulting PDF document</li>
+<li><code>build.sh</code>: a shell script to convert the document <code>document.md</code> with pandoc. This script might call pandoc with additional arguments (e.g. filters or template variables).</li>
+<li><code>preview.png</code>: a PNG image of the resulting PDF document intended as a quick preview</li>
+</ul>
+</li>
+<li>Use the Koma-Script package <code>scrlayer-scrpage</code> for the headers and footers instead of the package <code>fancyhdr</code> (#174, khaveesh).
+<ul>
+<li>Fix a header and footer bug when using <code>oneside</code> introduced by the migration to <code>scrlayer-scrpage</code> (#248, ret2src).</li>
+<li>Restore pagestyle <code>plain</code> for chapters (#275). Headers and footers are removed from chapter pages, as it has been before the migration to <code>scrlayer-scrpage</code>.</li>
+</ul>
+</li>
+<li>Correct the examples and documentation (#239, mprobson), (#261, supcik).</li>
+<li>Exclude title page from page count (#230, shmalebx9).</li>
+<li>Make code-block-font-size not affect inline listings (#229, LudvigHz).</li>
+<li>Rename the Eisvogel template variable <code>logo</code> to <code>titlepage-logo</code>.
+<ul>
+<li><code>logo</code> is already used by beamer, and one might want to use both
+formats (beamer and latex) without the logo appearing as a
+background image on beamer slides.</li>
+</ul>
+</li>
+<li>Add an example for a table of contents (#283).</li>
+</ul>
+<h2 id="200---2021-01-31"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.6.1...v2.0.0">2.0.0</a> - 2021-01-31</h2>
+<p><strong>This release includes breaking changes.</strong></p>
+<ul>
+<li>
+<p>Merged changes from the pandoc default LaTeX template.</p>
+</li>
+<li>
+<p>Fix broken travis build by modifying the <code>--resource-path</code></p>
+<p>When specifying the resource path via <code>--resource-path</code> the template will be searched there since pandoc 2.9.2.1.
+To fix the broken travis build (<code>Could not find data file templates/eisvogel.latex</code>) the current working directory <code>.</code> is included in the resource path for pandoc to find the template again.</p>
+<p>For more information visit the pandoc issue <a href="https://github.com/jgm/pandoc/issues/6618">https://github.com/jgm/pandoc/issues/6618</a>.</p>
+</li>
+<li>
+<p>Rename template to <code>eisvogel.latex</code> after release (#182). There is no need for renaming the template file after the download.</p>
+<p>This is a breaking change because there will be no file <code>eisvogel.latex</code> in the released artifacts anymore.</p>
+</li>
+<li>
+<p>Option <code>logo-width</code> has no hard coded unit <code>pt</code> anymore (#221).</p>
+<p>The width of the logo can be specified with various units e.g. <code>pt</code>, <code>in</code>, <code>mm</code>.</p>
+<p>This is a breaking change because a previously specified <code>logo-width</code> without a unit needs a unit now. If there is no unit LaTeX will emit an error <code>Illegal unit of measure (pt inserted)</code> and no document will be created.</p>
+<p>The default value for <code>logo-width</code> has also changed from <code>100pt</code> to <code>35mm</code>.</p>
+</li>
+</ul>
+<h2 id="161---2020-11-26"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.6.0...v1.6.1">1.6.1</a> - 2020-11-26</h2>
+<ul>
+<li>Merged changes from the pandoc default LaTeX template (<a href="https://github.com/jgm/pandoc/blob/master/data/templates/default.latex)">https://github.com/jgm/pandoc/blob/master/data/templates/default.latex)</a>.
+<ul>
+<li>This merge should fix a compilation error when using tables because of the missing <code>calc</code> package.</li>
+</ul>
+</li>
+</ul>
+<h2 id="160---2020-11-02"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.5.0...v1.6.0">1.6.0</a> - 2020-11-02</h2>
+<ul>
+<li>Merged changes from the pandoc default LaTeX template (<a href="https://github.com/jgm/pandoc/blob/master/data/templates/default.latex)">https://github.com/jgm/pandoc/blob/master/data/templates/default.latex)</a>.
+<ul>
+<li>This merge should fix problems related to using CSL bibliographies (#201).</li>
+</ul>
+</li>
+<li>Added documentation about common errors to the readme.</li>
+<li>The command <code>\thedate</code> can be used in the source document or metadata fields (#163).</li>
+</ul>
+<h2 id="150---2020-06-14"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.4.0...v1.5.0">1.5.0</a> - 2020-06-14</h2>
+<ul>
+<li>Create release assets with and without version number for easy access (#175).</li>
+<li>Added example <code>boxes-with-pandoc-latex-environment-and-tcolorbox</code> This example shows how to render beautiful boxes with the filter <code>pandoc-latex-environment</code> and the package <code>tcolorbox</code>.</li>
+<li>Fix LaTeX installation problems on Travis by installing everything manually.</li>
+<li>Fixed a couple of LuaLaTeX warnings (#169, khaveesh)</li>
+<li>Mention required LaTeX package for option <code>footnotes-disable-backlinks</code> in the Readme (#148, salim-b).</li>
+<li>Remove <code>graphicx</code> dependency (#149, noraj). Please see <a href="https://github.com/jgm/pandoc/issues/5848">https://github.com/jgm/pandoc/issues/5848</a> for the full discussion.</li>
+</ul>
+<h2 id="140---2020-02-02"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.3.1...v1.4.0">1.4.0</a> - 2020-02-02</h2>
+<ul>
+<li>Added support for a page background (#138, evildead).
+<ul>
+<li>The variable <code>page-background</code> specifies the path to a background image for any page. The background image is scaled to cover the entire page.</li>
+<li>The variable <code>page-background-opacity</code> specifies the background image opacity.</li>
+</ul>
+</li>
+<li>Added an example on how to generate admonition boxes (#115). The example demonstrates the use of the filter <code>pandoc-latex-environments</code> to create custom admonition boxes with the <code>awesomebox</code> package.</li>
+<li>Added an example on how to compile Chinese documents (#140).</li>
+<li>Added a section on <em>required LaTeX packages</em> to the readme (#141). The section explains how to install the required packages with TeX Live and MiKtEX.</li>
+<li>Corrected the command <code>tlmgr</code> in <code>README.md</code> (#143).</li>
+</ul>
+<h2 id="131---2019-12-08"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.3.0...v1.3.1">1.3.1</a> - 2019-12-08</h2>
+<ul>
+<li>Fixed wrong margins when not using the titlepage option (#135).</li>
+</ul>
+<h2 id="130---2019-10-26"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.2.4...v1.3.0">1.3.0</a> - 2019-10-26</h2>
+<ul>
+<li>Clarified the location of the pandoc templates directory in the readme.</li>
+<li>Added missing <code>$endif$</code> that caused a compilation failure (#125, 0az).</li>
+<li>Merged changes from the pandoc default LaTeX template.</li>
+<li>Fixed a bug where specifying a font via <code>mainfont</code> when using pdfLaTeX would not apply the default font Source Sans Pro.</li>
+<li>Improve formatting of footnotes with the variables <code>footnotes-pretty</code> and <code>footnotes-disable-backlinks</code> (#107, salim-b).</li>
+<li>Added the variable <code>code-block-font-size</code> to change the font size for code blocks via the supplied LaTeX command (#123, #17).</li>
+<li>Improve Japanese dummy text (#86, JKPOKE)</li>
+<li>Added an example on how to change header and footer (#109).</li>
+<li>Added example backgrounds to the titlepage example.</li>
+<li>Added support for background images on the title page with the variable <code>titlepage-background</code> (#31, #41).</li>
+<li>Disabled striped tables per default. Enable them with the variable <code>table-use-row-colors: true</code> (#29).</li>
+<li>Updated listings definition for Java which is the default language when using listings. This means that more keywords such as <code>var</code> from Java 10 are highlighted.</li>
+<li>Added support for additional keyword colors when using <code>listings</code> for syntax highlighting. The support depends on the used language. Some languages like <code>motorola68k</code>, <code>x86masm</code>, <code>inform</code>, <code>llvm</code>, <code>lua</code>, <code>metapost</code>, <code>mupad</code>, <code>ocl</code>, <code>python</code>, <code>verrilog</code>, <code>basic</code>, <code>cil</code>, <code>fortran</code> and <code>hansl</code> will have additional colors for some keywords.</li>
+<li>Fixed: Long lines in code blocks (verbatim environment) wrap automatically (#2).</li>
+</ul>
+<h2 id="124---2019-06-16"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.2.3...v1.2.4">1.2.4</a> - 2019-06-16</h2>
+<ul>
+<li>Fixed: The template now compiles with the output format <code>beamer</code> (#99). The styling for the generated slides is currently not customized.</li>
+</ul>
+<h2 id="123---2019-06-12"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.2.2...v1.2.3">1.2.3</a> - 2019-06-12</h2>
+<ul>
+<li>Fixed: Code blocks were too close to the text above.</li>
+<li>Fixed: The default float placement of figures can be changed with the variable <code>float-placement-figure</code>.</li>
+<li>Changed: Merged changes from the pandoc default LaTeX template.</li>
+<li>Added: A changelog is available as <code>CHANGELOG.md</code>.</li>
+<li>Changed: Updated installation instructions in the README with new XDG support (#89, Andrew Zhou).</li>
+</ul>
+<h2 id="122---2019-04-09"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.2.1...v1.2.2">1.2.2</a> - 2019-04-09</h2>
+<ul>
+<li>Merged changes from the pandoc default LaTeX template.</li>
+<li>Fixed: Support custom values for <code>secnumdepth</code> and <code>toc-depth</code> (#87, Juan Grigera).</li>
+</ul>
+<h2 id="121---2019-03-10"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.2.0...v1.2.1">1.2.1</a> - 2019-03-10</h2>
+<ul>
+<li>Removed double inclusion of package <code>xcolor</code> and cleaned up some comments.</li>
+<li>Removed unused <code>\captionsetup[longtable]</code>.</li>
+<li>Moved listing colors to the listings block in the template.</li>
+<li>Changed the top and bottom spacing of listings.</li>
+<li>Merged changes from the pandoc default LaTeX template.</li>
+<li>Changed the release script to also create a <code>tar.gz</code> archive.</li>
+</ul>
+<h2 id="120---2019-03-03"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/1.1.0...v1.2.0">1.2.0</a> - 2019-03-03</h2>
+<ul>
+<li>Fixed curly quotes in code listings under XeTeX engine (#79, Andrew Hodgkinson).</li>
+<li>Merged changes from the pandoc default LaTeX template <code>default.latex</code>.</li>
+<li>Updated the installation instructions in the README and moved the release script to the <code>tools</code> folder.</li>
+</ul>
+<h2 id="110---2019-02-17"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/compare/v1.0.0...1.1.0">1.1.0</a> - 2019-02-17</h2>
+<ul>
+<li>Defined a default pagestyle to make it easier to change the pagestyle on certain pages or define a custom one (#77).</li>
+<li>Add support for <code>first-chapter</code> variable in case it&rsquo;s desirable for a book not to begin with chapter 1 (#74, umanovskis).</li>
+</ul>
+<h2 id="100---2018-12-07"><a href="https://github.com/Wandmalfarbe/pandoc-latex-template/releases/tag/v1.0.0">1.0.0</a> - 2018-12-07</h2>
+<ul>
+<li>First release of the template as a ZIP file with the examples.</li>
+</ul>
+
+</content>
+<p>
+  
+</p>
+
+
+
+
+  </main>
+  <footer><small>
+  Azamat (CC BY 4.0) | Made with <a href="https://github.com/clente/hugo-bearcub">Bear Cub</a>
+</small></footer>
+
+    
+</body>
+
+</html>
