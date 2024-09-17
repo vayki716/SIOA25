@@ -1,5 +1,5 @@
 +++
-title = "TDO (Partie 2)"
+title = "TD0 (Partie 2)"
 date = 2024-09-13T22:52:58+02:00
 draft = false 
 +++
@@ -8,54 +8,20 @@ draft = false
 
 ## Objectifs
 
-- Permulcens flebile simul
-- Iura tum nepotis causa motus 
-- Diva virtus Acrota. 
-- Tamen condeturque saxa Pallorque num et ferarum
+- Decouverte des principes de base des Bases de Donnees
+- Decouverte des principales commandes SQL
 
-# Question 1
+# Partie 2 : Exploitation de la base de données
 
-Lorem markdownum Letoia, et alios: figurae flectentem annis aliquid Peneosque ab
-esse, obstat gravitate. Obscura atque coniuge, per de coniunx, sibi **medias
-commentaque virgine** anima tamen comitemque petis, sed. In Amphion vestros
-hamos ire arceor mandere spicula, in licet aliquando.
+## 2.1 Les requêtes monotables
 
-```java
-public class Example implements LoremIpsum {
-	public static void main(String[] args) {
-		if(args.length < 2) {
-			System.out.println("Lorem ipsum dolor sit amet");
-		}
-	} // Obscura atque coniuge, per de coniunx
-}
-```
+### Exécuter la requête « Liste des établissements scolaires de Charente ». Sous quelle forme se présente le résultat de cette requête ?
 
-Porrigitur et Pallas nuper longusque cratere habuisse sepulcro pectore fertur.
-Laudat ille auditi; vertitur iura tum nepotis causa; motus. Diva virtus! Acrota
-destruitis vos iubet quo et classis excessere Scyrumve spiro subitusque mente
-Pirithoi abstulit, lapides.
+Cette requete renvoie un tableau avec seulement les informations recherchees ; 
+INSERER TABLEAU ICI
 
-## Lydia caelo recenti haerebat lacerum ratae at
+### Observer le langage SQL :
 
-Te concepit pollice fugit vias alumno **oras** quam potest
-[rursus](http://example.com#rursus) optat. Non evadere orbem equorum, spatiis,
-vel pede inter si.
 
-1. De neque iura aquis
-2. Frangitur gaudia mihi eo umor terrae quos
-3. Recens diffudit ille tantum
 
-\begin{equation}\label{eq:neighbor-propability}
-    p_{ij}(t) = \frac{\ell_j(t) - \ell_i(t)}{\sum_{k \in N_i(t)}^{} \ell_k(t) - \ell_i(t)}
-\end{equation}
-
-Tamen condeturque saxa Pallorque num et ferarum promittis inveni lilia iuvencae
-adessent arbor. Florente perque at condeturque saxa et ferarum promittis tendebat. Armos nisi obortas refugit me.
-
-> Et nepotes poterat, se qui. Euntem ego pater desuetaque aethera Maeandri, et
-[Dardanio geminaque](http://example.com#Dardanio_geminaque) cernit. Lassaque poenas
-nec, manifesta $\pi r^2$ mirantia captivarum prohibebant scelerato gradus unusque
-dura.
-
-- Permulcens flebile simul
-- Iura tum nepotis causa motus diva virtus Acrota. Tamen condeturque saxa Pallorque num et ferarum promittis inveni lilia iuvencae adessent arbor. Florente perque at ire arcum.
+### Étudier la syntaxe et le résultat de la requête. Quels sont les opérateurs relationnels utilisés ? A votre avis, que veux dire le mot ‘LIKE’ en langage SQL ?
