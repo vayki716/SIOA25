@@ -29,7 +29,7 @@ Cette commande affiche le contenu de la racine Root du disque.
 
 Cette commande affiche egallement le contenu de la racine Root du disque, ainsi que des informations concernant les droits, la taille, la date et autres de chaque fichier ou repertoire.
 
-###Sortir de la session root avec la commande : exit
+### Sortir de la session root avec la commande : exit
 
 ```
 exit
@@ -40,7 +40,27 @@ exit
 [ebarroca@localhost ~]$
 ```
 
-### Exécutez les commandes suivantes et essayez d'en interpréter le résultat :
+### Exécutez les commandes suivantes et essayez d'en interpréter le résultat : 
+### Notez les résultats, ils vous serviront plus tard …
+
+- ls .. 
+btssio ebarroca
+
+- ls ../..
+afs bin boot dev ect home lib lib64 media mnt opt proc root run sbin srv sys tmp usr var
+
+- ls .
+Cette commande ne renvoie rien car le repertoire /home/ebarroca est vide.
+
+- ls ../home/pnom
+ls: cannot access '../home/ebarroca': No such file or directory
+Dans ce cas, nous voyons qu'il est impossible pour l'ordinateur d'acceder de cet facon a notre repertoire 'ebarroca', on peux par exemple utiliser la commande "ls ../../home/ebarroca" pour regler ce probleme, ou simplement "ls ." .
+
+- ls ~
+Cette commande ne renvoie rien car le repertoire /home/ebarroca est vide.
+
+- ls /
+afs bin boot dev ect home lib lib64 media mnt opt proc root run sbin srv sys tmp usr var
 
 ### A quoi sert le double-point .. ? 	A quoi sert le point seul . ?
 
@@ -52,52 +72,56 @@ Le resultat est le "Working Directory" c'est a dire le repertoire ou l'utilisate
 
 ## Partie 2 : utilisation de la commande cd
 
-### Quel est l'effet de la commande  cd Documents ?
-
-La commande cd Documents nous emene dans le repertoire Documents que nous venons de creer a l'aide de la commande suivante ;
+### Exécutez la commande mkdir Documents pour créer un nouveau répertoire nommé Documents  dans votre espace de travail.
 ```
 $ mkdir Documents
 ```
+
+### Exécutez la commande cd Documents puis la commande pwd et, tant que l'on y est ls
+```
+$ cd Documents
+$ pwd
+$ ls
+```
+
+### Quel est l'effet de la commande  cd Documents ?
+
+La commande cd Documents nous emene dans le repertoire Documents que nous venons de creer. 
+
 ### A quoi sert la commande pwd ?
 
 La commande pwd sert a afficher le repertoire ou l'utilisateur se situe actuellement.
 
-### Quel est l'effet de la commande cd .. ?
+### Exécutez la commande cd .. puis la commande pwd et, là aussi ls. Quel est l'effet de la commande cd .. ?
+```
+$ cd ..
+$ pwd
+$ ls
+```
 
 La commande cd .. nous fais remonter d'un niveau dans la hierarchie des repertoires.
 
-
-
-
-
-
-Puis il suffit d'installer le logiciel a l'aide de cette commande :
-
+### Avec la commande mkdir, créez un répertoire MesCours dans le répertoire Documents
 ```
-sudo apt install codium
+$ mkdir MesCours
 ```
 
-Une fois le logiciel installer on peut le lancer :
-
+### Exécutez la commande cd MesCours puis la commande pwd. Conclusion ?
 ```
-codium
-```
-
-## Paramettrer un EDI 
-
-### Langue
-
-A notre arrive sur le logiciel la langue par defaut est probablement l'Anglais. Pou changer ce paramettre dans Visual Studio Code il suffit d'appuyer sur F1 et de saisir Display Language puis de choisir Install Aditional Languages et de selectionner French Language. 
-
-### Tests
-
-Pour verifier que les fonctionalitees de bases marchent, on peut essayer de creer le programme suivant en Python :
-
-```
-print('Hello World')
+$ cd MesCours
+$ pwd
 ```
 
-Cependant il est probable d'obtenir un message d'erreur indiquant que python n'est pas encore installe. Pour installer python il faut telecharger son extenstion depuis l'onglet Extensions dans VS Code : https://open-vsx.org/vscode/item?itemName=ms-python.python
 
-Une fois cette operation realisee il suffit de relancer le programme original qui affichera donc Hello World dans la console. 
+### Exécutez la commande cd ../.. puis la commande pwd. Conclusion ? Exécutez la commande cd  Documents/MesCours puis la commande pwd, ensuite cd, enfin pwd. Quel est l'effet de la commande cd utilisée seule ?
+```
+$ cd ../..
+$ pwd
+```
 
+```
+$ cd Documents/MesCours
+$ pwd
+$ cd
+$ pwd
+```
