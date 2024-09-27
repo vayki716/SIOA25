@@ -1,11 +1,11 @@
 +++
-title = 'TP2'
+title = 'TP1'
 date = 2024-09-13T22:52:58+02:00
 draft = false
 +++
 <a href="" download>Version PDF</a>
 
-# Compte-rendu du TP 2 : Variables, affectations, Entrées et Sorties standard
+# Compte-rendu du TP 1 : Variables, affectations, Entrées et Sorties standard
 
 ## Objectifs
 

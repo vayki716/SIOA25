@@ -1,5 +1,5 @@
 ---
-title: "2024/2025 — BTS SIO : 1SIOA TC2-1 — TP1 "
+title: "2024/2025 — BTS SIO : 1SIOA TC2-2 — TP1 "
 author: [Evan Barroca -- Paccard]
 date: "2024-10-24"
 subject: "Markdown"
