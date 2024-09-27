@@ -32,5 +32,8 @@ On utilise ici les operateurs relationels de %, le mot LIKE peut etre compare a 
 
 Cela permet de verifier a la fois que l'etablissement et bien un college ou un lycee ET qu'il est situe dans le departement de Charente, tout cela dans une seule requete.
 
-### 2. En vous aidant du schéma relationnel et du mémento SQL fournis en annexes, écrire les
-requêtes suivantes en SQL puis les exécuter avec le SGBD.
+### 2. En vous aidant du schéma relationnel et du mémento SQL fournis en annexes, écrire les requêtes suivantes en SQL puis les exécuter avec le SGBD.
+
+SELECT num, mom, rue
+FROM CLIENT
+WHERE CP like '16%';
