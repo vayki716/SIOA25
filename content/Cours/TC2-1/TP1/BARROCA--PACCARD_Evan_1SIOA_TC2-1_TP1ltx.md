@@ -1,5 +1,5 @@
 ---
-title: "2024/2025 — BTS SIO : 1SIOA TC2-2 — TP2 "
+title: "2024/2025 — BTS SIO : 1SIOA TC2-1 — TP1 "
 author: [Evan Barroca -- Paccard]
 date: "2024-10-24"
 subject: "Markdown"
@@ -7,7 +7,7 @@ keywords: []
 lang: "fr"
 ...
 
-# Compte-rendu du TP 2 : Variables, affectations, Entrées et Sorties standard
+# Compte-rendu du TP 1 : Variables, affectations, Entrées et Sorties standard
 
 ## Objectifs
 
