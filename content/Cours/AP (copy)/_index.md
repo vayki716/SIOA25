@@ -1,5 +1,5 @@
 ---
-title: "Cult. Eco. Jur. et Man."
+title: "CEJM"
 menu: ""
-weight: 6
+weight: 7
 ---
