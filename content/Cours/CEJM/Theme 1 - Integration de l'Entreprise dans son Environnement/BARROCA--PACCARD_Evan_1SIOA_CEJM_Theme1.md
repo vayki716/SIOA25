@@ -13,3 +13,16 @@ draft = false
 ### A - Notion d'agent economique
 
 Un agent economique est un individu ou groupe d'individu, personne physique ou morale
+
+#### Categories principales d'agents economiques
+
+- Menages
+- Entreprises
+- Banques
+- Administration Publiques
+- Assosiations
+- Reste du Monde
+
+#### Entreprise
+
+
