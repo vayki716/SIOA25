@@ -5,3 +5,14 @@ draft = false
 +++
 
 {{< embed-pdf url="./testpdf/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" >}}
+
+{{< embed-pdf url="/testpdf/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" >}}
+
+{{< embed-pdf url="testpdf/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" >}}
+
+{{< embed-pdf url="./public/testpdf/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" >}}
+
+{{< embed-pdf url="/public/testpdf/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" >}}
+
+
+# there should be a pdf here
