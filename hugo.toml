@@ -2,9 +2,12 @@
 baseURL = "https://evn.li"
 languageCode = 'en-us'
 title = 'SIOA 2025'
-theme = "hugo-bearcub"
+#theme = "hugo-bearcub"
 copyright = "Azamat (CC BY 4.0)"
 defaultContentLanguage = "en"
+
+theme = ["hugo-embed-pdf-shortcode", "hugo-bearcub"]
+enableInlineShortcodes = true
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
