@@ -6,7 +6,7 @@ draft = false
 
 {{< googlePdfReader "1aT99DGOU0OXbN7R3wImuRbPOSwRQJuGr" "Mission 2" >}}
 
-{{< pdfReader "https://evn.li/cours/tc3/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" >}}
+{{< pdfReader "/static/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" >}}
 
 {{< pdfReader "/testpdf/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" >}}
 
