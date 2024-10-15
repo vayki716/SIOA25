@@ -6,7 +6,5 @@ draft = false
 
 {{< pdfReader "BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" >}}
 
-{{< download "BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" >}}
-
 
 # there should be a pdf here
