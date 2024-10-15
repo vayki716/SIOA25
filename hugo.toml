@@ -80,6 +80,8 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
 unsafe = true
 
+[params.carouselHomepage]
+enable = false  # default is true
 
   # Author metadata. This is mostly used for the RSS feed of your site, but the
   # email is also added to the footer of each post. You can hide the "reply to"
