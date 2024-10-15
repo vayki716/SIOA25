@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog de [Votre Nom]</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Si vous avez un fichier CSS -->
+</head>
+<body>
+
+    <!-- En-tête de la page -->
+    <header>
+        <h1 style="font-size: 40px;">Mon blog</h1>
+        <nav>
+            <ul>
+                <li><a href="#presentation">Présentation</a></li>
+                <li><a href="#competences">Compétences</a></li>
+                <li><a href="#projets">Projets</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Section Présentation -->
+   
+    <section id="presentation">
+        
+        <h2>Présentation</h2>
+        <img src="profile.jpg" alt="Image de profil" width="500" height="500">
+        <p>
+            Bonjour, je suis actuellement étudiant en BTS SIO et j'apprends la programmation 
+            afin de devenir développeur web. J'ai une passion pour les technologies et je suis particulièrement
+            intéressé par l'utilisation créative des nouvelles technologies.
+        </p>
+        
+        
+    <br></br><br></br><br></br><br></br><br></br>
+
+    <!-- Section Compétences -->
+    <section id="competences">
+        <h2>Compétences</h2>
+
+        <ul>
+            <li>HTML<div class="circle per-95">
+                <div class="inner">95%</div>
+              </div></li>
+          <li>CSS<div class="circle per-60">
+            <div class="inner">60%</div>
+          </div></li>
+          <li>Python<div class="circle per-65">
+            <div class="inner">65%</div>
+        </div></li>
+        <li>SQL<div class="circle per-75">
+        <div class="inner">75%</div>
+      </div></li>
+        </ul>
+    </section>
+
+    <!-- Section Projets -->
+    <section id="projets">
+        <h2>Projets</h2>
+        <article>
+            <h3 style="font-size: 35px;">Projet 1: Mon Premier Projet</h3>
+            
+            <p style=" text-align: left;"> 
+                <figure>
+                    <img src="projet1.jpg" alt="Capture d'écran du projet" width="300">
+                    <figcaption>Photo de mon projet.</figcaption>
+                </figure>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis neque purus, ut cursus risus mattis eu. Vestibulum sodales nec mauris quis imperdiet. Vestibulum venenatis enim eu ex cursus rhoncus. In hac habitasse platea dictumst. Aenean quis eleifend sapien. Donec ut ultricies augue. Praesent vulputate, leo ut rutrum aliquet, velit libero ultrices erat, vel faucibus libero urna at dolor. Nam eleifend odio risus, semper iaculis ex porttitor ac. Nulla nec sem eu purus ullamcorper ultrices. Fusce rhoncus dapibus mi.
+
+                Cras tempus ante id ligula faucibus rhoncus. Fusce at fringilla nunc. Etiam ut imperdiet urna. Nunc vel ultricies turpis. Donec ultricies magna sed eros viverra convallis. Pellentesque rutrum velit ut sapien egestas convallis. Aenean aliquam mattis est, vitae pellentesque dui euismod ut. Phasellus pretium ornare metus id ullamcorper. Mauris pulvinar id diam rutrum placerat. Phasellus ut orci ullamcorper, porta ipsum eu, commodo massa. Fusce auctor justo sapien, non malesuada quam dictum id. 
+                <a style="background-color: #283618;
+                border-radius: 5px;
+                color: rgb(255, 255, 255);
+                font-size: 25px; text-align: center;" href="https://github.com/monprofil/mon-portfolio" target="_blank">Voir le code source</a>
+            </p>
+        </article>
+    </section>
+
+    <!-- Section Contact -->
+    <section id="contact">
+        <h1 style="margin-bottom: 50px; font-size: 65px;">Contact</h1>
+        <p></p><p></p><p></p><p></p>
+        <form style="float: center;"action="#" method="POST">
+            <label for="name">Nom :</label>
+            <input type="text" id="name" name="name" required><br>
+            
+            <label for="email">E-mail :</label>
+            <input type="email" id="email" name="email" required><br>
+            
+            <label for="subject">Sujet :</label>
+            <input type="text" id="subject" name="subject" required><br>
+            
+            <label for="message">Message :</label><br>
+            <textarea id="message" name="message" rows="4" required></textarea><br>
+            
+            <button type="submit">Envoyer</button>
+        </form>
+    </section>
+
+    <!-- Pied de page -->
+    <footer style="background-color: #606c38;">
+        <small>Suivez-moi sur mes réseaux !</small>
+        <a href="https://www.linkedin.com/in/votreprofil" target="_blank">
+            <img src="linkedin.png" alt="LinkedIn" width="50">
+        </a>
+        <a href="https://github.com/votreprofil" target="_blank">
+            <img src="github.png" alt="GitHub" width="50">
+        </a>
+    </footer>
+
+</body>
+</html>
