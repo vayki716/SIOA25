@@ -10,64 +10,128 @@
     <lastBuildDate>Fri, 13 Sep 2024 22:52:58 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/cours/ap/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>document markdown</title>
-      <link>http://localhost:1313/cours/ap/document-markdown/</link>
+      <title>Tableurs</title>
+      <link>http://localhost:1313/cours/ap/tableur/barroca--paccard_evan_1sioa_ap_tableurs/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/ap/document-markdown/</guid>
-      <description>Version PDF&#xA;Compte-rendu du TP X : Titre du compte-rendu Objectifs Permulcens flebile simul Iura tum nepotis causa motus Diva virtus Acrota. Tamen condeturque saxa Pallorque num et ferarum Question 1 Lorem markdownum Letoia, et alios: figurae flectentem annis aliquid Peneosque ab esse, obstat gravitate. Obscura atque coniuge, per de coniunx, sibi medias commentaque virgine anima tamen comitemque petis, sed. In Amphion vestros hamos ire arceor mandere spicula, in licet aliquando.</description>
-      <content:encoded><![CDATA[<p><a href="https://lajoliverie-my.sharepoint.com/:b:/g/personal/ebarrocapaccard_la-joliverie_com/Ed-E_EC-RvhOvNdcUvAcCu8BV47x_SjzRisqEWDSfXjeEQ?e=jRaxux" download>Version PDF</a></p>
-<h1 id="compte-rendu-du-tp-x--titre-du-compte-rendu">Compte-rendu du TP X : Titre du compte-rendu</h1>
+      <guid>http://localhost:1313/cours/ap/tableur/barroca--paccard_evan_1sioa_ap_tableurs/</guid>
+      <description>Compte-rendu d&amp;rsquo;AP : Les Tableurs Objectifs ­Se familiariser avec l’utilisation des tableurs. Découvrir/revoir des commandes de base d’utilisation des tableurs. S’habituer a des situations réelles d’utilisation des tableurs en entreprise. Exercice 1 : 2.1 Les requêtes monotables Le prix de vente d&amp;rsquo;un article est de 263€ ht Le taux de TVA est de 19,6%&#xA;Pour calculer le montant de la TVA a 19,6 % nous effectuons la commande suivante ;</description>
+      <content:encoded><![CDATA[<h1 id="compte-rendu-dap--les-tableurs">Compte-rendu d&rsquo;AP : Les Tableurs</h1>
 <h2 id="objectifs">Objectifs</h2>
 <ul>
-<li>Permulcens flebile simul</li>
-<li>Iura tum nepotis causa motus</li>
-<li>Diva virtus Acrota.</li>
-<li>Tamen condeturque saxa Pallorque num et ferarum</li>
+<li>­Se familiariser avec l’utilisation des tableurs.</li>
+<li>Découvrir/revoir des commandes de base d’utilisation des tableurs.</li>
+<li>S’habituer a des situations réelles d’utilisation des tableurs en entreprise.</li>
 </ul>
-<h1 id="question-1">Question 1</h1>
-<p>Lorem markdownum Letoia, et alios: figurae flectentem annis aliquid Peneosque ab
-esse, obstat gravitate. Obscura atque coniuge, per de coniunx, sibi <strong>medias
-commentaque virgine</strong> anima tamen comitemque petis, sed. In Amphion vestros
-hamos ire arceor mandere spicula, in licet aliquando.</p>
+<h1 id="exercice-1">Exercice 1 :</h1>
+<h2 id="21-les-requêtes-monotables">2.1 Les requêtes monotables</h2>
+<p>Le prix de vente d&rsquo;un article est de 263€ ht
+Le taux de TVA est de 19,6%</p>
+<p><img alt="image info" src="/AP/tabl1.png"></p>
+<p>Pour calculer le montant de la TVA a 19,6 % nous effectuons la commande suivante ;</p>
 
 
 
 
 
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="ln">1</span><span class="cl"><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Example</span><span class="w"> </span><span class="kd">implements</span><span class="w"> </span><span class="n">LoremIpsum</span><span class="w"> </span><span class="p">{</span><span class="w">
-</span></span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="w">	</span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
-</span></span></span><span class="line"><span class="ln">3</span><span class="cl"><span class="w">		</span><span class="k">if</span><span class="p">(</span><span class="n">args</span><span class="p">.</span><span class="na">length</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">2</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
-</span></span></span><span class="line"><span class="ln">4</span><span class="cl"><span class="w">			</span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">&#34;Lorem ipsum dolor sit amet&#34;</span><span class="p">);</span><span class="w">
-</span></span></span><span class="line"><span class="ln">5</span><span class="cl"><span class="w">		</span><span class="p">}</span><span class="w">
-</span></span></span><span class="line"><span class="ln">6</span><span class="cl"><span class="w">	</span><span class="p">}</span><span class="w"> </span><span class="c1">// Obscura atque coniuge, per de coniunx</span><span class="w">
-</span></span></span><span class="line"><span class="ln">7</span><span class="cl"><span class="w"></span><span class="p">}</span></span></span></code></pre></div><p>Porrigitur et Pallas nuper longusque cratere habuisse sepulcro pectore fertur.
-Laudat ille auditi; vertitur iura tum nepotis causa; motus. Diva virtus! Acrota
-destruitis vos iubet quo et classis excessere Scyrumve spiro subitusque mente
-Pirithoi abstulit, lapides.</p>
-<h2 id="lydia-caelo-recenti-haerebat-lacerum-ratae-at">Lydia caelo recenti haerebat lacerum ratae at</h2>
-<p>Te concepit pollice fugit vias alumno <strong>oras</strong> quam potest
-<a href="http://example.com#rursus">rursus</a> optat. Non evadere orbem equorum, spatiis,
-vel pede inter si.</p>
-<ol>
-<li>De neque iura aquis</li>
-<li>Frangitur gaudia mihi eo umor terrae quos</li>
-<li>Recens diffudit ille tantum</li>
-</ol>
-<p>\begin{equation}\label{eq:neighbor-propability}
-p_{ij}(t) = \frac{\ell_j(t) - \ell_i(t)}{\sum_{k \in N_i(t)}^{} \ell_k(t) - \ell_i(t)}
-\end{equation}</p>
-<p>Tamen condeturque saxa Pallorque num et ferarum promittis inveni lilia iuvencae
-adessent arbor. Florente perque at condeturque saxa et ferarum promittis tendebat. Armos nisi obortas refugit me.</p>
-<blockquote>
-<p>Et nepotes poterat, se qui. Euntem ego pater desuetaque aethera Maeandri, et
-<a href="http://example.com#Dardanio_geminaque">Dardanio geminaque</a> cernit. Lassaque poenas
-nec, manifesta $\pi r^2$ mirantia captivarum prohibebant scelerato gradus unusque
-dura.</p>
-</blockquote>
+<pre tabindex="0"><code>= D6 * 0,196
+= prix HT * 0,196</code></pre><p>Puis pour calculer le prix TTC nous additionnons les deux valeurs ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>= D6 +D7
+= prix HT + montant TVA</code></pre><p>Le prix de vente d&rsquo;un article est de 143,5€ ttc
+Le taux de TVA est de 19,6%</p>
+<p><img alt="image info" src="/AP/tabl2.png"></p>
+<p>Pour calculer le montant de la TVA a partir du prix TTC de l’article nous effectuons la commande suivante ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>= D15 - (D15/(1+0,196))
+= prix ttc – ( prix ttc / ( 1 + 0.196 ) )</code></pre><p>Puis pour calculer le prix HT de l’article nous soustrayons la TVA au prix TTC ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>= D15 -D14
+= prix TTC – prix TVA</code></pre><h1 id="exercice-2-">Exercice 2 :</h1>
+<p>MANQUE LE GRAPHIQUE</p>
+<p><img alt="image info" src="/AP/tabl3.png">
+<img alt="image info" src="/AP/tabl4.png"></p>
+<p>Pour calculer les moyennes des eleves il est possible d’utiliser la formule par defaut pour calculer une moyenne c’est a dire AVERAGE(<strong>:</strong>), puis il suffira de la descendre pour calculer le reste des moyennes ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>=AVERAGE(E11:H12)</code></pre><p>Puis pour calculer le minimum nous utiliserons egallement une formule par defaut (MIN(__ :<strong>), de meme pour la formule MAX(</strong> :__) qui permet d’obtenir le maximum.</p>
+<p>Enfin pour obtenir le nombre de notes superieurs ou egalles a 0 il faut utiliser la formule COUNTIF( __ :__ ; « condition a verifier » ) ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>=COUNTIF(__ :__ ; « condition a verifier » )
+=COUNTIF(E12:E21 ; &#34;&gt;=10&#34;)</code></pre><p>Si l’on souhaite limiter le nombre de décimales il suffit d’utiliser l&rsquo;icone .OO avec une petite croix.</p>
+<h1 id="exercice-3-">Exercice 3 :</h1>
+<p><img alt="image info" src="/AP/tabl6.png"></p>
+<p>Pour le prix total HT ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>= (nombre * prix unitaire HT)</code></pre><p>Pour la TVA a 7% ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>= (prix total HT * 0.07)</code></pre><p>Pour le prix total TTC ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>=SUM(prix total HT, TVA)</code></pre><p>Pour le Total TTC ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>=SUM(de tout les prix totaux TTC)</code></pre><p>Les resultats des prix totaux sont donc les suivants :</p>
 <ul>
-<li>Permulcens flebile simul</li>
-<li>Iura tum nepotis causa motus diva virtus Acrota. Tamen condeturque saxa Pallorque num et ferarum promittis inveni lilia iuvencae adessent arbor. Florente perque at ire arcum.</li>
+<li>TVA 7% : 150,87</li>
+<li>TVA 5.5% : 148,755</li>
+<li>TVA 19.6% : 168,636</li>
 </ul>
+<h1 id="exercice-4-">Exercice 4 :</h1>
+<p><img alt="image info" src="/AP/tabl5.png"></p>
+<p>Apres avoir remplis le tableau avec des valeurs il faut integrer des formules de calcule ;</p>
+<p>Pour le total RECETTES ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>=SUM(Salaires, Alocations, Bourses, Divers)</code></pre><p>Pour le total DEPENSES ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>=SUM(Loyer, Taxe... Imprevus)</code></pre><p>Pour le total SOLDES ;</p>
+
+
+
+
+
+<pre tabindex="0"><code>=(RECETTES - DEPENSES)</code></pre><p>Pour afficher le solde en rouge il faut selectionner la case et lui ajouter une condition qui lorsque le montant est inferieur a 0 transforme la case en rouge et s&rsquo;il est negatif la transforme en vert.</p>
+<h1 id="exercice-5-">Exercice 5 :</h1>
 ]]></content:encoded>
     </item>
   </channel>

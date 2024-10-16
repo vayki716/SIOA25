@@ -10,10 +10,26 @@
     <lastBuildDate>Fri, 13 Sep 2024 22:52:58 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/cours/tc2-1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TD0</title>
-      <link>http://localhost:1313/cours/tc2-1/barroca--paccard_evan_1sioa_tc2-1_td0markdown/</link>
+      <title>Cours 1</title>
+      <link>http://localhost:1313/cours/tc2-1/cours1/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc2-1/barroca--paccard_evan_1sioa_tc2-1_td0markdown/</guid>
+      <guid>http://localhost:1313/cours/tc2-1/cours1/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Cours 1</title>
+      <link>http://localhost:1313/cours/tc2-1/cours1/cours-1/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/tc2-1/cours1/cours-1/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>TD0 (partie 1)</title>
+      <link>http://localhost:1313/cours/tc2-1/td0/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/tc2-1/td0/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</guid>
       <description>Compte-rendu du TD 0 : Découverte de la base de données de la société InfoDev Objectifs Decouverte des principes de base des Bases de Donnees Decouverte des principales commandes SQL Partie 1 : Étude de la base de données 1.1 Rechercher des informations dans une base de données Le client « Mateaud Récup » est implanté à Villegats : Vrai Justification : Adresse ; 94, cours Pline l’ancien, 16700 a Villegats</description>
       <content:encoded><![CDATA[<h1 id="compte-rendu-du-td-0--découverte-de-la-base-de-données-de-la-société-infodev">Compte-rendu du TD 0 : Découverte de la base de données de la société InfoDev</h1>
 <h2 id="objectifs">Objectifs</h2>
@@ -126,113 +142,134 @@ Ainsi, il faut tout d&rsquo;abord ajouter les informations du client dans la Tab
 ]]></content:encoded>
     </item>
     <item>
-      <title>TP0</title>
-      <link>http://localhost:1313/cours/tc2-1/tp0/</link>
+      <title>TD0 (Partie 2)</title>
+      <link>http://localhost:1313/cours/tc2-1/td0/barroca--paccard_evan_1sioa_tc2-1_td0partie2md/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc2-1/tp0/</guid>
-      <description>Markdown Cheat Sheet Thanks for visiting The Markdown Guide!&#xA;This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.&#xA;Basic Syntax These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.</description>
-      <content:encoded><![CDATA[<h1 id="markdown-cheat-sheet">Markdown Cheat Sheet</h1>
-<p>Thanks for visiting <a href="https://www.markdownguide.org">The Markdown Guide</a>!</p>
-<p>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for <a href="https://www.markdownguide.org/basic-syntax/">basic syntax</a> and <a href="https://www.markdownguide.org/extended-syntax/">extended syntax</a>.</p>
-<h2 id="basic-syntax">Basic Syntax</h2>
-<p>These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.</p>
-<h3 id="heading">Heading</h3>
-<h1 id="h1">H1</h1>
-<h2 id="h2">H2</h2>
-<h3 id="h3">H3</h3>
-<h3 id="bold">Bold</h3>
-<p><strong>bold text</strong></p>
-<h3 id="italic">Italic</h3>
-<p><em>italicized text</em></p>
-<h3 id="blockquote">Blockquote</h3>
-<blockquote>
-<p>blockquote</p>
-</blockquote>
-<h3 id="ordered-list">Ordered List</h3>
-<ol>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-</ol>
-<h3 id="unordered-list">Unordered List</h3>
+      <guid>http://localhost:1313/cours/tc2-1/td0/barroca--paccard_evan_1sioa_tc2-1_td0partie2md/</guid>
+      <description>Compte-rendu du TD 0 : Decouverte de la base de donnees de la societe InfoDev Objectifs Decouverte des principes de base des Bases de Donnees Decouverte des principales commandes SQL Partie 2 : Exploitation de la base de données 2.1 Les requêtes monotables 1. Exécuter la requête « Liste des établissements scolaires de Charente ». Sous quelle forme se présente le résultat de cette requête ? Cette requete renvoie un tableau avec seulement les informations recherchees.</description>
+      <content:encoded><![CDATA[<h1 id="compte-rendu-du-td-0--decouverte-de-la-base-de-donnees-de-la-societe-infodev">Compte-rendu du TD 0 : Decouverte de la base de donnees de la societe InfoDev</h1>
+<h2 id="objectifs">Objectifs</h2>
 <ul>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
+<li>Decouverte des principes de base des Bases de Donnees</li>
+<li>Decouverte des principales commandes SQL</li>
 </ul>
-<h3 id="code">Code</h3>
-<p><code>code</code></p>
-<h3 id="horizontal-rule">Horizontal Rule</h3>
-<hr>
-<h3 id="link">Link</h3>
-<p><a href="https://www.markdownguide.org">Markdown Guide</a></p>
-<h3 id="image">Image</h3>
-<p><img alt="alt text" src="https://www.markdownguide.org/assets/images/tux.png"></p>
-<h2 id="extended-syntax">Extended Syntax</h2>
-<p>These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.</p>
-<h3 id="table">Table</h3>
-<table>
-<thead>
-<tr>
-<th>Syntax</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Header</td>
-<td>Title</td>
-</tr>
-<tr>
-<td>Paragraph</td>
-<td>Text</td>
-</tr>
-</tbody>
-</table>
-<h3 id="fenced-code-block">Fenced Code Block</h3>
-
-
-
-
-
-<pre tabindex="0"><code>{
-  &#34;firstName&#34;: &#34;John&#34;,
-  &#34;lastName&#34;: &#34;Smith&#34;,
-  &#34;age&#34;: 25
-}</code></pre><h3 id="footnote">Footnote</h3>
-<p>Here&rsquo;s a sentence with a footnote. <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
-<h3 id="heading-id">Heading ID</h3>
-<h3 id="custom-id">My Great Heading</h3>
-<h3 id="definition-list">Definition List</h3>
-<dl>
-<dt>term</dt>
-<dd>definition</dd>
-</dl>
-<h3 id="strikethrough">Strikethrough</h3>
-<p><del>The world is flat.</del></p>
-<h3 id="task-list">Task List</h3>
+<h1 id="partie-2--exploitation-de-la-base-de-données">Partie 2 : Exploitation de la base de données</h1>
+<h2 id="21-les-requêtes-monotables">2.1 Les requêtes monotables</h2>
+<h3 id="1-exécuter-la-requête--liste-des-établissements-scolaires-de-charente--sous-quelle-forme-se-présente-le-résultat-de-cette-requête-">1. Exécuter la requête « Liste des établissements scolaires de Charente ». Sous quelle forme se présente le résultat de cette requête ?</h3>
+<p>Cette requete renvoie un tableau avec seulement les informations recherchees.</p>
+<h3 id="1-observer-le-langage-sql-">1. Observer le langage SQL :</h3>
+<h3 id="11-étudier-la-syntaxe-et-le-résultat-de-la-requête-quels-sont-les-opérateurs-relationnels-utilisés--a-votre-avis-que-veux-dire-le-mot-like-en-langage-sql-">1.1 Étudier la syntaxe et le résultat de la requête. Quels sont les opérateurs relationnels utilisés ? A votre avis, que veux dire le mot ‘LIKE’ en langage SQL ?</h3>
+<p>On utilise ici les operateurs relationels de %, le mot LIKE peut etre compare a un = dans le language courant.</p>
+<h3 id="12-compléter-ci-dessous-la-phrase-expliquant-le-traitement-réalisé-par-la-requête--liste-des-établissements-scolaires--">1.2 Compléter ci-dessous la phrase expliquant le traitement réalisé par la requête « Liste des établissements scolaires ». :</h3>
+<p>&ldquo;Cette requête sélectionne les etablissements scolaires de la table Client dont le nom contient College ou Lycee et qui sont situe dans le departement de Charente.&rdquo;</p>
+<h3 id="13-pourquoi-utilise-t-on-les-opérateurs-or-et-and-dans-la-clause-where-de-la-requête-précédente-">1.3 Pourquoi utilise-t-on les opérateurs OR et AND dans la clause Where de la requête précédente ?</h3>
+<p>Cela permet de verifier a la fois que l&rsquo;etablissement et bien un college ou un lycee ET qu&rsquo;il est situe dans le departement de Charente, tout cela dans une seule requete.</p>
+<h3 id="2-en-vous-aidant-du-schéma-relationnel-et-du-mémento-sql-fournis-en-annexes-écrire-les-requêtes-suivantes-en-sql-puis-les-exécuter-avec-le-sgbd">2. En vous aidant du schéma relationnel et du mémento SQL fournis en annexes, écrire les requêtes suivantes en SQL puis les exécuter avec le SGBD.</h3>
+<p>SELECT num, mom, rue
+FROM CLIENT
+WHERE CP like &lsquo;16%&rsquo;;</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>TP1</title>
+      <link>http://localhost:1313/cours/tc2-1/tp1/barroca--paccard_evan_1sioa_tc2-1_tp1/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/tc2-1/tp1/barroca--paccard_evan_1sioa_tc2-1_tp1/</guid>
+      <description>Version PDF&#xA;Compte-rendu du TP 1 : Variables, affectations, Entrées et Sorties standard Objectifs Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3) Conditions de travail Auto-évaluation sur Caseine Hello + nom Ecrire un programme qui demande à l&amp;rsquo;utilisateur son nom puis qui affiche &amp;ldquo;Hello&amp;rdquo; suivi de son nom.&#xA;nom=input(&amp;#34;Veuillez entrer votre nom:&amp;#34;) print(&amp;#34;Hello &amp;#34;, nom, &amp;#34;!&amp;#34;)Tools IP - Puissance de 2 (variables, E/S, opérateur) Écrire un programme qui demande à l&amp;rsquo;utilisateur &amp;ldquo;Saisir un entier positif: &amp;quot; et affiche la puissance de 2 dont l&amp;rsquo;exposant correspondant à l&amp;rsquo;entier saisi.</description>
+      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
+<h1 id="compte-rendu-du-tp-1--variables-affectations-entrées-et-sorties-standard">Compte-rendu du TP 1 : Variables, affectations, Entrées et Sorties standard</h1>
+<h2 id="objectifs">Objectifs</h2>
 <ul>
-<li><input checked="" disabled="" type="checkbox"> Write the press release</li>
-<li><input disabled="" type="checkbox"> Update the website</li>
-<li><input disabled="" type="checkbox"> Contact the media</li>
+<li>Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3)</li>
 </ul>
-<h3 id="emoji">Emoji</h3>
-<p>That is so funny! :joy:</p>
-<p>(See also <a href="https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji">Copying and Pasting Emoji</a>)</p>
-<h3 id="highlight">Highlight</h3>
-<p>I need to highlight these ==very important words==.</p>
-<h3 id="subscript">Subscript</h3>
-<p>H~2~O</p>
-<h3 id="superscript">Superscript</h3>
-<p>X^2^</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>This is the footnote.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
+<h2 id="conditions-de-travail">Conditions de travail</h2>
+<ul>
+<li>Auto-évaluation sur Caseine</li>
+</ul>
+<h2 id="hello--nom">Hello + nom</h2>
+<p>Ecrire un programme qui demande à l&rsquo;utilisateur son nom puis qui affiche &ldquo;Hello&rdquo; suivi de son nom.</p>
+
+
+
+
+
+<pre tabindex="0"><code>nom=input(&#34;Veuillez entrer votre nom:&#34;)
+print(&#34;Hello &#34;, nom, &#34;!&#34;)</code></pre><h2 id="tools-ip---puissance-de-2-variables-es-opérateur">Tools IP - Puissance de 2 (variables, E/S, opérateur)</h2>
+<p>Écrire un programme qui demande à l&rsquo;utilisateur &ldquo;Saisir un entier positif: &quot; et affiche la puissance de 2 dont l&rsquo;exposant correspondant à l&rsquo;entier saisi.</p>
+
+
+
+
+
+<pre tabindex="0"><code>intpos = int(input(&#34;Saisir un entier positif: &#34;))
+print(&#34;2 à la puissance de&#34;,intpos, &#34;=&#34;, 2**intpos)</code></pre><h2 id="afficher-la-somme-et-la-différence-de-deux-entiers">Afficher la somme et la différence de deux entiers</h2>
+<p>Ecrire un programme qui demande à l&rsquo;utilisateur deux entiers successivement, puis qui affiche la somme de ces deux entiers, puis qui affiche la différence entre le premier entier et le deuxième entier.</p>
+
+
+
+
+
+<pre tabindex="0"><code>int1 = int(input(&#34;Premier entier: &#34;))
+int2 = int(input(&#34;Deuxième entier: &#34;))
+print(&#34;Somme :&#34;, int1+int2,&#34;.&#34;)
+print(&#34;Différence :&#34;, int1-int2,&#34;.&#34;)</code></pre>]]></content:encoded>
+    </item>
+    <item>
+      <title>TP2</title>
+      <link>http://localhost:1313/cours/tc2-1/tp2/barroca--paccard_evan_1sioa_tc2-1_tp2/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/tc2-1/tp2/barroca--paccard_evan_1sioa_tc2-1_tp2/</guid>
+      <description>Version PDF&#xA;Compte-rendu du TP 2 : Jointures et Agregats Objectifs Comprendre le principe des jointures Savoir realiser des requetesutilisant des fonctions d&amp;rsquo;agregats, de regroupement Req 01 SELECT HABITANT.NOM FROM HABITANT INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT WHERE AN.POIDS = 10 ORDER BY HABITANT.NOM ASC ;&#xA;Req 02 SELECT HABITANT.NOM, F.LIBELLE FROM HABITANT INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT INNER JOIN FUNCTION F ON HABITANT.IDFONCTION = F.</description>
+      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
+<h1 id="compte-rendu-du-tp-2--jointures-et-agregats">Compte-rendu du TP 2 : Jointures et Agregats</h1>
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Comprendre le principe des jointures</li>
+<li>Savoir realiser des requetesutilisant des fonctions d&rsquo;agregats, de regroupement</li>
+</ul>
+<h2 id="req-01">Req 01</h2>
+<p>SELECT HABITANT.NOM
+FROM HABITANT
+INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT
+WHERE AN.POIDS = 10
+ORDER BY HABITANT.NOM ASC ;</p>
+<h2 id="req-02">Req 02</h2>
+<p>SELECT HABITANT.NOM, F.LIBELLE
+FROM HABITANT
+INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT
+INNER JOIN FUNCTION F ON HABITANT.IDFONCTION = F.ID
+WHERE AN.POIDS = 10
+ORDER BY HABITANT.NOM ASC ;</p>
+<h2 id="req-03">Req 03</h2>
+<p>SELECT SUM(PRIX)
+FROM ACHAT_MENHIR
+WHERE IDHABITANT IS NOT NULL</p>
+<h2 id="req-04">Req 04</h2>
+<p>W</p>
+<h2 id="req-05">Req 05</h2>
+
+
+
+
+
+<pre tabindex="0"><code></code></pre>]]></content:encoded>
+    </item>
+    <item>
+      <title>TP3</title>
+      <link>http://localhost:1313/cours/tc2-1/tp3/barroca--paccard_evan_1sioa_tc2-1_tp3/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/tc2-1/tp3/barroca--paccard_evan_1sioa_tc2-1_tp3/</guid>
+      <description>Version PDF&#xA;Compte-rendu du TP 3 : Agrégats Objectifs Savoir réaliser des requêtes utilisant des regroupements, des sélections sur les regroupements Req 01 SELECT COUNT(*) AS &amp;ldquo;Nb Equipe&amp;rdquo; FROM EQUIPE ; Req 02 </description>
+      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
+<h1 id="compte-rendu-du-tp-3--agrégats">Compte-rendu du TP 3 : Agrégats</h1>
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Savoir réaliser des requêtes utilisant des regroupements, des sélections sur les regroupements</li>
+</ul>
+<h2 id="req-01">Req 01</h2>
+<p>SELECT COUNT(*) AS &ldquo;Nb Equipe&rdquo; FROM EQUIPE ;
+<img title="" alt="" src="/images/TP2-1/C1-TP3/req1.png"></p>
+<h2 id="req-02">Req 02</h2>
 ]]></content:encoded>
     </item>
   </channel>
