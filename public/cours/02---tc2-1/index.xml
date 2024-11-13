@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TC2-1 on </title>
+    <link>http://localhost:1313/cours/02---tc2-1/</link>
+    <description>Recent content in TC2-1 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Azamat (2024-2026)</copyright>
+    <lastBuildDate>Fri, 13 Sep 2024 22:52:58 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cours/02---tc2-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cours 1</title>
+      <link>http://localhost:1313/cours/02---tc2-1/cours-sql/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/02---tc2-1/cours-sql/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Cours 1</title>
+      <link>http://localhost:1313/cours/02---tc2-1/cours-sql/cours-1/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/02---tc2-1/cours-sql/cours-1/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>TD0 (partie 1)</title>
+      <link>http://localhost:1313/cours/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</guid>
+      <description>Compte-rendu du TD 0 : Découverte de la base de données de la société InfoDev Objectifs Decouverte des principes de base des Bases de Donnees Decouverte des principales commandes SQL Partie 1 : Étude de la base de données 1.1 Rechercher des informations dans une base de données Le client « Mateaud Récup » est implanté à Villegats : Vrai Justification : Adresse ; 94, cours Pline l’ancien, 16700 a Villegats</description>
+      <content:encoded><![CDATA[<h1 id="compte-rendu-du-td-0--découverte-de-la-base-de-données-de-la-société-infodev">Compte-rendu du TD 0 : Découverte de la base de données de la société InfoDev</h1>
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Decouverte des principes de base des Bases de Donnees</li>
+<li>Decouverte des principales commandes SQL</li>
+</ul>
+<h1 id="partie-1-étude-de-la-base-de-données">Partie 1 : Étude de la base de données</h1>
+<h2 id="11-rechercher-des-informations-dans-une-base-de-données">1.1 Rechercher des informations dans une base de données</h2>
+<h4 id="le-client-mateaud-récup-est-implanté-à-villegats--vrai">Le client « Mateaud Récup » est implanté à Villegats : Vrai</h4>
+<p>Justification : Adresse ; 94, cours Pline l’ancien, 16700 a Villegats</p>
+<h4 id="mme-lacoste--a-participé-à-3-projets-durant-le-premier-semestre-2023--faux">Mme LACOSTE  a participé à 3 projets durant le premier semestre 2023 : Faux</h4>
+<p>Justification : Une activite, la 6 du 21/05 au 05/05 et seulement une autre activite, la 5 du 24/04 au 18/05</p>
+<h4 id="le-projet-réalisé-pour-le-client-jouet--cie-a-été-réalisé-par-le-pôle-développement--faux">Le projet réalisé pour le client « Jouet &amp; Cie » a été réalisé par le pôle développement : Faux</h4>
+<p>Justification : Le projet P050306 (Jouet  et Cie) a ete realise par le pole 2 (reseau)</p>
+<h4 id="mme-tania-regnier-a-travaillé-sur-lactivité-de-test-du-projet-reshermionestg1--vrai">Mme Tania Regnier a travaillé sur l’activité de « Test » du projet « ResHermioneSTG1 » : Vrai</h4>
+<p>Justification : 102109 est au pole 2 (reseau), sur le projet P050309 qui a ete fait avec le pole 2</p>
+<h3 id="comment-se-traduit-au-niveau-de-la-base-de-données-la-réponse-à-un-appel-doffres-pour-un-client-déjà-existant-">Comment se traduit au niveau de la base de données, la réponse à un appel d’offres pour un client déjà existant ?</h3>
+<p>Lors d’un appel d’offre pour un ancien client, on utilise son numero client et ses informations que l’on ajoute a un nouveau projet avec un nouveau code de projet.</p>
+<h3 id="quels-seront-les-changements-observables-dans-la-table-projet">Quels seront les changements observables dans la table PROJET ?</h3>
+<p>Une nouvelle collone avec le code P050314 ou le nom et le numero client seront déjà remplis depuis la Table CLIENT.</p>
+<h3 id="combien-de-clients-résident-dans-le-département-16">Combien de clients résident dans le département 16 ?</h3>
+<p>5 clients au total ; Fromage de A a Z (16600), Mateaud Recup (16700), Parfumerie Lanvin (16100), Jouet et Cie (16700), Korrigan Services (16400).</p>
+<h3 id="comment-faire-pour-ne-retenir-que-les-clients-résidant-dans-le-département-16">Comment faire pour ne retenir que les clients résidant dans le département 16 ?</h3>
+
+
+
+
+
+<pre tabindex="0"><code>	SELECT * 
+	FROM CLIENT 
+	WHERE CP LIKE 16% ;</code></pre><p>On selectionne seulement les informations des clients ou la colonne CP debute par le chiffre 16.</p>
+<h3 id="comment-trouver-les-projets-réalisés-pour-ces-clients">Comment trouver les projets réalisés pour ces clients ?</h3>
+
+
+
+
+
+<pre tabindex="0"><code>	SELECT CLIENT.num, PROJET.nom
+	FROM CLIENT
+	FULL JOIN PROJET
+	ON CLIENT.num = PROJECT.numClient
+	WHERE CP LIKE 16% ;</code></pre><p>Tout en gardant seulement les clients selectionnes, on fait correspondre leur numero client (num dans la Table CLIENT) avec la colonne numClient dans la Table PROJET et pour chaque resultat correspondant on met le numero du projet (code dans la Table PROJET) de cote.</p>
+<h3 id="citer-les-numéros-de-projets-trouvés">Citer les numéros de projets trouvés.</h3>
+<p>P050306, P050307, P050313</p>
+<h3 id="combien-de-projets-ont-été-réalisés-par-le-pôle-développement">Combien de projets ont été réalisés par le pôle Développement ?</h3>
+<p>Le pole developpement a realise 4 projets ; P050308, P050310, P050311 et P050313.</p>
+<h3 id="de-quelles-tables-vous-êtes-vous-servis-pour-répondre-à-la-question-précédente-et-de-quel-champ-en-particulier">De quelles tables vous êtes vous servis pour répondre à la question précédente ? Et de quel champ en particulier ?</h3>
+<p>Dans la Table POLE des champs de « code » et de « libelle » mis en relation dans la table PROJET avec le champ « codePole » pour savoir si le pole developpement a travaille sur le projet et le champ « code » pour savoir de quel projet il s’agit.</p>
+<h3 id="combien-dactivités-comprend-le-projet-réalisé-par-la-société-infodev-pour-le-lycée-hermionequi-a-débuté-le-25-mars-2023-">Combien d’activités comprend le projet réalisé par la société InfoDev pour le lycée Hermione, qui a débuté le 25 mars 2023 ?</h3>
+<p>Le projet comprends au total 7 activites ; les activites du numero 1 a 7 sont associes au codeProjet P050309 qui correspond au code du projet ResHermionesSTG1 dans la Table PROJET.</p>
+<h2 id="12-comprendre-la-structure-relationnelle">1.2 Comprendre la structure relationnelle</h2>
+<h3 id="quelle-information-de-la-table-projet-permet-didentifier-de-manière-unique-les-caractéristiques-dun-projet">Quelle information de la table PROJET permet d’identifier de manière unique les caractéristiques d’un projet ?</h3>
+<p>C’est la clee primaire c’est a dire dans ce cas-ci « code » (voir annexe 1).</p>
+<h3 id="la-table-activite-contient-elle-un-champ-permettant-de-définir-de-manière-unique-une-activité">La table ACTIVITE contient-elle un champ permettant de définir de manière unique une activité ?</h3>
+<p>Oui, c’est la colonne « num » de la Table ACTIVITE (voir Annexe 1).</p>
+<h2 id="13-comprendre-les-contraintes-dintégrité">1.3 Comprendre les contraintes d’intégrité</h2>
+<h3 id="a-quoi-correspond-dans-la-table-projet-chaque-en-tête-de-colonne-du-tableau-ci-dessus">A quoi correspond, dans la table PROJET, chaque en-tête de colonne du tableau ci-dessus ?</h3>
+<ul>
+<li>code = c’est l’identifiant unique de chaque projet de la Table</li>
+<li>nom = c’est le nom du projet</li>
+<li>num Client = c’est l’identifiant unique du client derriere le projet, obtenu depuis la Table CLIENT</li>
+<li>code Pole = c’est l’identifiant unique du pole de competences de la SSII en charge du projet, obtenu depuis la Table POLE</li>
+<li>description = c’est un champ permettant d’expliquer quelques brefs details sur le projet.</li>
+<li>origine = c’est un champ permettant de connaître l’origine du projet ; « Marche » pour une reponse a un appel d’offres et « Devis » pour une reponse a une demande de devis.</li>
+<li>Date Reponse = c’est la date a laquelle une reponse a ete envoye au client.</li>
+<li>Date Debut = c’est la date a partir de laquelle le client a commence a travailler avec la societe InfoDev</li>
+<li>Date Fin = c’est la date a laquelle le contract du client va ou a déjà pris fin.</li>
+<li>Etat = c’est un champ permettant de connaître l’etat actuel du client.</li>
+</ul>
+<h3 id="analyser-les-erreurs-en-complétant-le-tableau-ci-dessous">Analyser les erreurs en complétant le tableau ci-dessous :</h3>
+<p>Projet P050311 : Lors de l&rsquo;ajout le nom et le numClient sont identique au projet P050322
+Contrainte de type cle primaire, la solution est d&rsquo;ajouter le numero de projet comme identifiant unique (clee primaire).</p>
+<p>Projet P050321 : Lors de l&rsquo;ajout de la date, celle-ci n&rsquo;est pas au format de date classique.
+Contrainte de type de domaine, il suffit d&rsquo;ajouter la possibilitee d&rsquo;entrer du texte dans la categorie de date de reponse.</p>
+<p>Projet P050322 : Lors de l&rsquo;ajout du Pole celui-ci n&rsquo;existe pas.
+Contrainte de type de reference, il suffit de creer un Pole puis d&rsquo;utiliser son code Pole dans la Table Projet.</p>
+<h3 id="en-déduire-lobjectif-de-chacun-des-types-de-contraintes-dintégrité-vus-ci-dessus-">En déduire l’objectif de chacun des types de contraintes d’intégrité vus ci-dessus :</h3>
+<p>Les contraintes d’intégrité :</p>
+<ul>
+<li>clé primaire permettent d’assurer que chaque entree est identifiable de facon unique.</li>
+<li>de domaine : permettent d’assurer la correspondance de la valeure avec ce qui est attendu de cette partie de la base de donne.</li>
+<li>de référence ou référentielle : permettent de vérifier que la cle etrangere est de meme type et de meme taille que la clee primaire.</li>
+<li>Les champs mis en relation doivent etres identifies par une clee primaire unique et non nulle</li>
+</ul>
+<h3 id="comment-peut-on-retrouver-le-nom-du-client-ayant-commandé-le-projet-p050309-">Comment peut-on retrouver le nom du client ayant commandé le projet P050309 ?</h3>
+<p>On utilise le numero du client present dans la Table Projet que l&rsquo;on va rechercher dans la Table Client ce qui nous renvoie avec le code client 786 le Lycee L&rsquo;Hermione.</p>
+<h3 id="quel-est-le-rôle-du-champ-numéro-de-client-champ-num-de-la-table-client-et-numclient-de-la-table-projet">Quel est le rôle du champ Numéro de client (champ num de la table CLIENT et numClient de la table PROJET) ?</h3>
+<p>Ce Numero est un code unique attribue a chaque client, il permet d&rsquo;ajouter des clients ayant le meme nom par exemple.</p>
+<h3 id="dans-quelle-table-ce-champ-est-il-clé-primaire">Dans quelle table ce champ est-il clé primaire ?</h3>
+<p>Il est cle primaire dans la Table Client.</p>
+<h3 id="quel-rôle-joue-t-il-dans-la-table-projet-">Quel rôle joue-t-il dans la table PROJET ?</h3>
+<p>Il permet de creer plusieurs projets au nom d&rsquo;un meme client.</p>
+<h3 id="combien-de-clés-primaires-peut-posséder-une-table">Combien de clés primaires peut posséder une table ?</h3>
+<p>Autant que necessaire.</p>
+<h3 id="combien-de-clés-étrangères-peut-posséder-une-table">Combien de clés étrangères peut posséder une table ?</h3>
+<p>Autant que necessaire.</p>
+<p>Connaissant les opérations relationnelles (projection, restriction et jointure), répondre aux questions suivantes :</p>
+<h3 id="citer-quels-types-dopérations-ont-été-effectués-pour-répondre-aux-questions-5-et-6">Citer quels types d’opérations ont été effectués pour répondre aux questions 5 et 6.</h3>
+<p>?</p>
+<h3 id="citer-les-opérations-qui-ont-été-effectuées-pour-répondre-à-la-question-8">Citer les opérations qui ont été effectuées pour répondre à la question 8.</h3>
+<p>?</p>
+<h3 id="citer-les-opérations-qui-ont-été-effectuées-pour-répondre-à-la--question-10">Citer les opérations qui ont été effectuées pour répondre à la  question 10.</h3>
+<p>?</p>
+<h3 id="sur-la-base-de-vos-observations-dites-à-quoi-sert-lopération-de-jointure">Sur la base de vos observations dites à quoi sert l’opération de jointure.</h3>
+<p>L&rsquo;opperation de jointure JOIN permet de lier plusieurs Tables afin d&rsquo;utiliser des informations dans une Table ou elles n&rsquo;etaient pas a l&rsquo;origine.</p>
+<h3 id="comment-se-traduit-au-niveau-de-la-base-de-données-la-réponse-à-un-appel-doffres-pour-un-nouveau-client-lordre-de-remplissage-des-tables-a-t-il-de-limportance-pourquoi">Comment se traduit au niveau de la base de données, la réponse à un appel d’offres pour un nouveau client ? L’ordre de remplissage des tables a-t-il de l’importance ? Pourquoi ?</h3>
+<p>Oui l&rsquo;ordre est important, il ne sera pas possible de renseigner certaines clees primaires si un certain ordre n&rsquo;est pas respecte.
+Ainsi, il faut tout d&rsquo;abord ajouter les informations du client dans la Table Client avant de creer un nouveau projet avec ce client dans la Table Projet, le reste des Tables seront remplies au fur et a mesure (Activite, Intervenant, Pole, Participer).</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>TD0 (Partie 2)</title>
+      <link>http://localhost:1313/cours/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie2md/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie2md/</guid>
+      <description>Compte-rendu du TD 0 : Decouverte de la base de donnees de la societe InfoDev Objectifs Decouverte des principes de base des Bases de Donnees Decouverte des principales commandes SQL Partie 2 : Exploitation de la base de données 2.1 Les requêtes monotables 1. Exécuter la requête « Liste des établissements scolaires de Charente ». Sous quelle forme se présente le résultat de cette requête ? Cette requete renvoie un tableau avec seulement les informations recherchees.</description>
+      <content:encoded><![CDATA[<h1 id="compte-rendu-du-td-0--decouverte-de-la-base-de-donnees-de-la-societe-infodev">Compte-rendu du TD 0 : Decouverte de la base de donnees de la societe InfoDev</h1>
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Decouverte des principes de base des Bases de Donnees</li>
+<li>Decouverte des principales commandes SQL</li>
+</ul>
+<h1 id="partie-2--exploitation-de-la-base-de-données">Partie 2 : Exploitation de la base de données</h1>
+<h2 id="21-les-requêtes-monotables">2.1 Les requêtes monotables</h2>
+<h3 id="1-exécuter-la-requête--liste-des-établissements-scolaires-de-charente--sous-quelle-forme-se-présente-le-résultat-de-cette-requête-">1. Exécuter la requête « Liste des établissements scolaires de Charente ». Sous quelle forme se présente le résultat de cette requête ?</h3>
+<p>Cette requete renvoie un tableau avec seulement les informations recherchees.</p>
+<h3 id="1-observer-le-langage-sql-">1. Observer le langage SQL :</h3>
+<h3 id="11-étudier-la-syntaxe-et-le-résultat-de-la-requête-quels-sont-les-opérateurs-relationnels-utilisés--a-votre-avis-que-veux-dire-le-mot-like-en-langage-sql-">1.1 Étudier la syntaxe et le résultat de la requête. Quels sont les opérateurs relationnels utilisés ? A votre avis, que veux dire le mot ‘LIKE’ en langage SQL ?</h3>
+<p>On utilise ici les operateurs relationels de %, le mot LIKE peut etre compare a un = dans le language courant.</p>
+<h3 id="12-compléter-ci-dessous-la-phrase-expliquant-le-traitement-réalisé-par-la-requête--liste-des-établissements-scolaires--">1.2 Compléter ci-dessous la phrase expliquant le traitement réalisé par la requête « Liste des établissements scolaires ». :</h3>
+<p>&ldquo;Cette requête sélectionne les etablissements scolaires de la table Client dont le nom contient College ou Lycee et qui sont situe dans le departement de Charente.&rdquo;</p>
+<h3 id="13-pourquoi-utilise-t-on-les-opérateurs-or-et-and-dans-la-clause-where-de-la-requête-précédente-">1.3 Pourquoi utilise-t-on les opérateurs OR et AND dans la clause Where de la requête précédente ?</h3>
+<p>Cela permet de verifier a la fois que l&rsquo;etablissement et bien un college ou un lycee ET qu&rsquo;il est situe dans le departement de Charente, tout cela dans une seule requete.</p>
+<h3 id="2-en-vous-aidant-du-schéma-relationnel-et-du-mémento-sql-fournis-en-annexes-écrire-les-requêtes-suivantes-en-sql-puis-les-exécuter-avec-le-sgbd">2. En vous aidant du schéma relationnel et du mémento SQL fournis en annexes, écrire les requêtes suivantes en SQL puis les exécuter avec le SGBD.</h3>
+<p>SELECT num, mom, rue
+FROM CLIENT
+WHERE CP like &lsquo;16%&rsquo;;</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>TP1</title>
+      <link>http://localhost:1313/cours/02---tc2-1/tp1/barroca--paccard_evan_1sioa_tc2-1_tp1/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/02---tc2-1/tp1/barroca--paccard_evan_1sioa_tc2-1_tp1/</guid>
+      <description>Version PDF&#xA;Compte-rendu du TP 1 : Variables, affectations, Entrées et Sorties standard Objectifs Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3) Conditions de travail Auto-évaluation sur Caseine Hello + nom Ecrire un programme qui demande à l&amp;rsquo;utilisateur son nom puis qui affiche &amp;ldquo;Hello&amp;rdquo; suivi de son nom.&#xA;nom=input(&amp;#34;Veuillez entrer votre nom:&amp;#34;) print(&amp;#34;Hello &amp;#34;, nom, &amp;#34;!&amp;#34;)Tools IP - Puissance de 2 (variables, E/S, opérateur) Écrire un programme qui demande à l&amp;rsquo;utilisateur &amp;ldquo;Saisir un entier positif: &amp;quot; et affiche la puissance de 2 dont l&amp;rsquo;exposant correspondant à l&amp;rsquo;entier saisi.</description>
+      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
+<h1 id="compte-rendu-du-tp-1--variables-affectations-entrées-et-sorties-standard">Compte-rendu du TP 1 : Variables, affectations, Entrées et Sorties standard</h1>
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3)</li>
+</ul>
+<h2 id="conditions-de-travail">Conditions de travail</h2>
+<ul>
+<li>Auto-évaluation sur Caseine</li>
+</ul>
+<h2 id="hello--nom">Hello + nom</h2>
+<p>Ecrire un programme qui demande à l&rsquo;utilisateur son nom puis qui affiche &ldquo;Hello&rdquo; suivi de son nom.</p>
+
+
+
+
+
+<pre tabindex="0"><code>nom=input(&#34;Veuillez entrer votre nom:&#34;)
+print(&#34;Hello &#34;, nom, &#34;!&#34;)</code></pre><h2 id="tools-ip---puissance-de-2-variables-es-opérateur">Tools IP - Puissance de 2 (variables, E/S, opérateur)</h2>
+<p>Écrire un programme qui demande à l&rsquo;utilisateur &ldquo;Saisir un entier positif: &quot; et affiche la puissance de 2 dont l&rsquo;exposant correspondant à l&rsquo;entier saisi.</p>
+
+
+
+
+
+<pre tabindex="0"><code>intpos = int(input(&#34;Saisir un entier positif: &#34;))
+print(&#34;2 à la puissance de&#34;,intpos, &#34;=&#34;, 2**intpos)</code></pre><h2 id="afficher-la-somme-et-la-différence-de-deux-entiers">Afficher la somme et la différence de deux entiers</h2>
+<p>Ecrire un programme qui demande à l&rsquo;utilisateur deux entiers successivement, puis qui affiche la somme de ces deux entiers, puis qui affiche la différence entre le premier entier et le deuxième entier.</p>
+
+
+
+
+
+<pre tabindex="0"><code>int1 = int(input(&#34;Premier entier: &#34;))
+int2 = int(input(&#34;Deuxième entier: &#34;))
+print(&#34;Somme :&#34;, int1+int2,&#34;.&#34;)
+print(&#34;Différence :&#34;, int1-int2,&#34;.&#34;)</code></pre>]]></content:encoded>
+    </item>
+    <item>
+      <title>TP2</title>
+      <link>http://localhost:1313/cours/02---tc2-1/tp2/barroca--paccard_evan_1sioa_tc2-1_tp2/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/02---tc2-1/tp2/barroca--paccard_evan_1sioa_tc2-1_tp2/</guid>
+      <description>Version PDF&#xA;Compte-rendu du TP 2 : Jointures et Agregats Objectifs Comprendre le principe des jointures Savoir realiser des requetesutilisant des fonctions d&amp;rsquo;agregats, de regroupement Req 01 SELECT HABITANT.NOM FROM HABITANT INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT WHERE AN.POIDS = 10 ORDER BY HABITANT.NOM ASC ;&#xA;Req 02 SELECT HABITANT.NOM, F.LIBELLE FROM HABITANT INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT INNER JOIN FUNCTION F ON HABITANT.IDFONCTION = F.</description>
+      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
+<h1 id="compte-rendu-du-tp-2--jointures-et-agregats">Compte-rendu du TP 2 : Jointures et Agregats</h1>
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Comprendre le principe des jointures</li>
+<li>Savoir realiser des requetesutilisant des fonctions d&rsquo;agregats, de regroupement</li>
+</ul>
+<h2 id="req-01">Req 01</h2>
+<p>SELECT HABITANT.NOM
+FROM HABITANT
+INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT
+WHERE AN.POIDS = 10
+ORDER BY HABITANT.NOM ASC ;</p>
+<h2 id="req-02">Req 02</h2>
+<p>SELECT HABITANT.NOM, F.LIBELLE
+FROM HABITANT
+INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT
+INNER JOIN FUNCTION F ON HABITANT.IDFONCTION = F.ID
+WHERE AN.POIDS = 10
+ORDER BY HABITANT.NOM ASC ;</p>
+<h2 id="req-03">Req 03</h2>
+<p>SELECT SUM(PRIX)
+FROM ACHAT_MENHIR
+WHERE IDHABITANT IS NOT NULL</p>
+<h2 id="req-04">Req 04</h2>
+<p>W</p>
+<h2 id="req-05">Req 05</h2>
+
+
+
+
+
+<pre tabindex="0"><code></code></pre>]]></content:encoded>
+    </item>
+    <item>
+      <title>TP3</title>
+      <link>http://localhost:1313/cours/02---tc2-1/tp3/barroca--paccard_evan_1sioa_tc2-1_tp3/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/02---tc2-1/tp3/barroca--paccard_evan_1sioa_tc2-1_tp3/</guid>
+      <description>Version PDF&#xA;Compte-rendu du TP 3 : Agrégats Objectifs Savoir réaliser des requêtes utilisant des regroupements, des sélections sur les regroupements Req 01 SELECT COUNT(*) AS &amp;ldquo;Nb Equipe&amp;rdquo; FROM EQUIPE ; Req 02 </description>
+      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
+<h1 id="compte-rendu-du-tp-3--agrégats">Compte-rendu du TP 3 : Agrégats</h1>
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Savoir réaliser des requêtes utilisant des regroupements, des sélections sur les regroupements</li>
+</ul>
+<h2 id="req-01">Req 01</h2>
+<p>SELECT COUNT(*) AS &ldquo;Nb Equipe&rdquo; FROM EQUIPE ;
+<img title="" alt="" src="/images/TP2-1/C1-TP3/req1.png"></p>
+<h2 id="req-02">Req 02</h2>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

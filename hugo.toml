@@ -3,7 +3,7 @@ baseURL = "https://evn.li"
 languageCode = 'en-us'
 title = 'SIOA 2025'
 #theme = "hugo-bearcub"
-copyright = "Azamat (CC BY 4.0)"
+copyright = "Azamat (2024-2026)"
 defaultContentLanguage = "en"
 
 theme = ["hugo-embed-pdf-shortcode", "hugo-bearcub"]
@@ -28,16 +28,16 @@ enableRobotsTXT = true
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "SIOA 2025"
+    title = ""
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
-      madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+      madeWith = "made w/ Hugo"
   
 [params]
   # The description of your website
-  description = "Work in progress"
+  description = ""
 
   # The path to your favicon
   favicon = "/images/favicon.ico"
@@ -50,7 +50,7 @@ enableRobotsTXT = true
 
   # This title is used as the site_name on the Hugo's internal opengraph
   # structured data template
-  title = "SIOA 2025"
+  title = "SIO 24/26"
 
   # Dates are displayed following the format below. For more information about
   # formatting, see https://gohugo.io/functions/format/
@@ -88,4 +88,4 @@ enable = false  # default is true
   # link by using a `hideReply` param in front matter.
   #[params.author]
   # name = "Azamat" # Your name as shown in the RSS feed metadata
-  # email = "yukaeyo@mailfence.com" # Added to the footer so readers can reply to posts
+  # email = "" # Added to the footer so readers can reply to posts

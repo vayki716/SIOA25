@@ -1,24 +1,780 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>SIOA 2025</title>
+    <title></title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on SIOA 2025</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Azamat (CC BY 4.0)</copyright>
+    <copyright>Azamat (2024-2026)</copyright>
     <lastBuildDate>Fri, 13 Sep 2024 22:52:58 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ch2 - Mission 2</title>
-      <link>http://localhost:1313/cours/tc3/ch2/mission-2/barroca--paccard_evan_1sioa_tc3_mission2/</link>
+      <title>1 - Tableurs</title>
+      <link>http://localhost:1313/cours/02---ateliers-professionalisants/100---tableur/barroca--paccard_evan_1sioa_ap_tableurs/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc3/ch2/mission-2/barroca--paccard_evan_1sioa_tc3_mission2/</guid>
-      <description> there should be a pdf here </description>
-      <content:encoded><![CDATA[<embed src= "BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" width= "100%" height= "1000px" type="application/pdf" >
+      <guid>http://localhost:1313/cours/02---ateliers-professionalisants/100---tableur/barroca--paccard_evan_1sioa_ap_tableurs/</guid>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+      <content:encoded><![CDATA[<script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
+
+<style>
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  </style><div class="embed-pdf-container" id="embed-pdf-container-4d9a3fd7">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-4d9a3fd7">
+        <div class="pdf-loading" id="pdf-loading-4d9a3fd7"></div>
+    </div>
+    <div id="overlayText">
+      <a href="/BARROCA--PACCARD_Evan_1SIOA_AP_Tableurs.pdf" aria-label="Download" download>
+        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+            <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+        </svg>
+      </a>
+    </div>
+    <canvas class="pdf-canvas" id="pdf-canvas-4d9a3fd7"></canvas>
+</div>
+
+<div class="pdf-paginator" id="pdf-paginator-4d9a3fd7">
+    <button id="pdf-prev-4d9a3fd7">Previous</button>
+    <button id="pdf-next-4d9a3fd7">Next</button> &nbsp; &nbsp;
+    <span>
+      <span class="pdf-pagenum" id="pdf-pagenum-4d9a3fd7"></span> / <span class="pdf-pagecount" id="pdf-pagecount-4d9a3fd7"></span>
+    </span>
+    <a class="pdf-source" id="pdf-source-4d9a3fd7" href="/BARROCA--PACCARD_Evan_1SIOA_AP_Tableurs.pdf">[pdf]</a>
+</div>
+
+<noscript>
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-4d9a3fd7" href="/BARROCA--PACCARD_Evan_1SIOA_AP_Tableurs.pdf">here</a>.
+</noscript>
+
+<script type="text/javascript">
+    (function(){
+    var url = '\/BARROCA--PACCARD_Evan_1SIOA_AP_Tableurs.pdf';
+
+    var hidePaginator = "" === "true";
+    var hideLoader = "" === "true";
+    var selectedPageNum = parseInt("") || 1;
+
+    
+    var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+      pdfjsLib.GlobalWorkerOptions.workerSrc = "http:\/\/localhost:1313\/" + 'js/pdf-js/build/pdf.worker.js';
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById('pdf-canvas-4d9a3fd7'),
+        ctx = canvas.getContext('2d'),
+        paginator = document.getElementById("pdf-paginator-4d9a3fd7"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-4d9a3fd7');
 
 
-<h1 id="there-should-be-a-pdf-here">there should be a pdf here</h1>
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById('pdf-pagenum-4d9a3fd7').textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = 'none';
+      canvas.style.display = 'block';
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = 'flex';
+      canvas.style.display = 'none';
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = 'block';
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum <= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-prev-4d9a3fd7').addEventListener('click', onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum >= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-next-4d9a3fd7').addEventListener('click', onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById('pdf-pagecount-4d9a3fd7').textContent = numPages;
+
+      
+      if(pageNum > numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+</script>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>2 - Traitement de Texte</title>
+      <link>http://localhost:1313/cours/02---ateliers-professionalisants/200---editeur-de-texte/barroca--paccard_evan_1sioa_ap_traitement_de_texte/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/02---ateliers-professionalisants/200---editeur-de-texte/barroca--paccard_evan_1sioa_ap_traitement_de_texte/</guid>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+      <content:encoded><![CDATA[<script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
+
+<style>
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  </style><div class="embed-pdf-container" id="embed-pdf-container-ab719d59">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-ab719d59">
+        <div class="pdf-loading" id="pdf-loading-ab719d59"></div>
+    </div>
+    <div id="overlayText">
+      <a href="/BARROCA--PACCARD_Evan_1SIOA_AP_Traitement_de_Texte.pdf" aria-label="Download" download>
+        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+            <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+        </svg>
+      </a>
+    </div>
+    <canvas class="pdf-canvas" id="pdf-canvas-ab719d59"></canvas>
+</div>
+
+<div class="pdf-paginator" id="pdf-paginator-ab719d59">
+    <button id="pdf-prev-ab719d59">Previous</button>
+    <button id="pdf-next-ab719d59">Next</button> &nbsp; &nbsp;
+    <span>
+      <span class="pdf-pagenum" id="pdf-pagenum-ab719d59"></span> / <span class="pdf-pagecount" id="pdf-pagecount-ab719d59"></span>
+    </span>
+    <a class="pdf-source" id="pdf-source-ab719d59" href="/BARROCA--PACCARD_Evan_1SIOA_AP_Traitement_de_Texte.pdf">[pdf]</a>
+</div>
+
+<noscript>
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-ab719d59" href="/BARROCA--PACCARD_Evan_1SIOA_AP_Traitement_de_Texte.pdf">here</a>.
+</noscript>
+
+<script type="text/javascript">
+    (function(){
+    var url = '\/BARROCA--PACCARD_Evan_1SIOA_AP_Traitement_de_Texte.pdf';
+
+    var hidePaginator = "" === "true";
+    var hideLoader = "" === "true";
+    var selectedPageNum = parseInt("") || 1;
+
+    
+    var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+      pdfjsLib.GlobalWorkerOptions.workerSrc = "http:\/\/localhost:1313\/" + 'js/pdf-js/build/pdf.worker.js';
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById('pdf-canvas-ab719d59'),
+        ctx = canvas.getContext('2d'),
+        paginator = document.getElementById("pdf-paginator-ab719d59"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-ab719d59');
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById('pdf-pagenum-ab719d59').textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = 'none';
+      canvas.style.display = 'block';
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = 'flex';
+      canvas.style.display = 'none';
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = 'block';
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum <= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-prev-ab719d59').addEventListener('click', onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum >= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-next-ab719d59').addEventListener('click', onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById('pdf-pagecount-ab719d59').textContent = numPages;
+
+      
+      if(pageNum > numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+</script>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Ch2 - Mission 2</title>
+      <link>http://localhost:1313/cours/03---tc3/ch2/mission-2/barroca--paccard_evan_1sioa_tc3_mission2/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/03---tc3/ch2/mission-2/barroca--paccard_evan_1sioa_tc3_mission2/</guid>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+      <content:encoded><![CDATA[<script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
+
+<style>
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  </style><div class="embed-pdf-container" id="embed-pdf-container-fefefade">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-fefefade">
+        <div class="pdf-loading" id="pdf-loading-fefefade"></div>
+    </div>
+    <div id="overlayText">
+      <a href="/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf" aria-label="Download" download>
+        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+            <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+        </svg>
+      </a>
+    </div>
+    <canvas class="pdf-canvas" id="pdf-canvas-fefefade"></canvas>
+</div>
+
+<div class="pdf-paginator" id="pdf-paginator-fefefade">
+    <button id="pdf-prev-fefefade">Previous</button>
+    <button id="pdf-next-fefefade">Next</button> &nbsp; &nbsp;
+    <span>
+      <span class="pdf-pagenum" id="pdf-pagenum-fefefade"></span> / <span class="pdf-pagecount" id="pdf-pagecount-fefefade"></span>
+    </span>
+    <a class="pdf-source" id="pdf-source-fefefade" href="/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf">[pdf]</a>
+</div>
+
+<noscript>
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-fefefade" href="/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf">here</a>.
+</noscript>
+
+<script type="text/javascript">
+    (function(){
+    var url = '\/BARROCA--PACCARD_Evan_1SIOA_TC3_MISSION2.pdf';
+
+    var hidePaginator = "" === "true";
+    var hideLoader = "" === "true";
+    var selectedPageNum = parseInt("") || 1;
+
+    
+    var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+      pdfjsLib.GlobalWorkerOptions.workerSrc = "http:\/\/localhost:1313\/" + 'js/pdf-js/build/pdf.worker.js';
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById('pdf-canvas-fefefade'),
+        ctx = canvas.getContext('2d'),
+        paginator = document.getElementById("pdf-paginator-fefefade"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-fefefade');
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById('pdf-pagenum-fefefade').textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = 'none';
+      canvas.style.display = 'block';
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = 'flex';
+      canvas.style.display = 'none';
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = 'block';
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum <= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-prev-fefefade').addEventListener('click', onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum >= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-next-fefefade').addEventListener('click', onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById('pdf-pagecount-fefefade').textContent = numPages;
+
+      
+      if(pageNum > numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+</script>
+
 ]]></content:encoded>
     </item>
     <item>
@@ -54,25 +810,25 @@
     </item>
     <item>
       <title>Cours 1</title>
-      <link>http://localhost:1313/cours/tc2-1/cours1/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</link>
+      <link>http://localhost:1313/cours/02---tc2-1/cours-sql/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc2-1/cours1/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</guid>
+      <guid>http://localhost:1313/cours/02---tc2-1/cours-sql/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
       <title>Cours 1</title>
-      <link>http://localhost:1313/cours/tc2-1/cours1/cours-1/</link>
+      <link>http://localhost:1313/cours/02---tc2-1/cours-sql/cours-1/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc2-1/cours1/cours-1/</guid>
+      <guid>http://localhost:1313/cours/02---tc2-1/cours-sql/cours-1/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
       <title>Cours 1 - Système d’Exploitation (SE) &amp; Operating System (OS)</title>
-      <link>http://localhost:1313/cours/tc1/ch1/cours-1---syst%C3%A8me-dexploitation-se--operating-system-os/</link>
+      <link>http://localhost:1313/cours/09---tc1/ch1/cours/cours-1---syst%C3%A8me-dexploitation-se--operating-system-os/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc1/ch1/cours-1---syst%C3%A8me-dexploitation-se--operating-system-os/</guid>
+      <guid>http://localhost:1313/cours/09---tc1/ch1/cours/cours-1---syst%C3%A8me-dexploitation-se--operating-system-os/</guid>
       <description>Un Systeme d&amp;rsquo;Exploitation (Operating System en anglais) est une interface qui traduit le language de la machine pour l&amp;rsquo;humain afin de lui permettre d&amp;rsquo;utiliser plus facilement l&amp;rsquo;ordinateur (d&amp;rsquo;un point de vue Hardware).&#xA;Un Processus est un programme en cours d&amp;rsquo;execution.&#xA;Role du SE Un SE gère l&amp;rsquo;allocation, l&amp;rsquo;utilisation et le partage des ressources matérielles telles que : Processeur, Mémoire, espace disque, périphériques.&#xA;Principales fonctions d&amp;rsquo;un SE La gestion des processus La gestion de la mémoire centrale La gestion des fichiers et des répertoires La gestion des entrées/sorties Classification des systemes d&amp;rsquo;exploitation Mono Utilisateur - Mono Tache Le processus execute une tache d&amp;rsquo;un utilisateur a la fois.</description>
       <content:encoded><![CDATA[<p>Un <span style="color:#b13e53; font-weight:bold">Systeme d&rsquo;Exploitation</span> (Operating System en anglais) est une interface qui <span style="color:#38b764; font-weight:bold">traduit le language de la machine</span> <span style="color:#41a6f6; font-weight:bold">pour l&rsquo;humain</span> afin de lui permettre <span style="color:#38b764; font-weight:bold">d&rsquo;utiliser plus facilement l&rsquo;ordinateur</span> (d&rsquo;un point de vue Hardware).</p>
 <p>Un <span style="color:#257179; font-weight:bold">Processus</span> est un </span> <span style="color:#41a6f6; font-weight:bold">programme en cours d&rsquo;execution</span>.</p>
@@ -120,9 +876,9 @@
     </item>
     <item>
       <title>Cours 2 - Découverte du Système d’Exploitation Linux</title>
-      <link>http://localhost:1313/cours/tc1/ch1/cours-2---d%C3%A9couverte-du-syst%C3%A8me-dexploitation-linux/</link>
+      <link>http://localhost:1313/cours/09---tc1/ch1/cours/cours-2---d%C3%A9couverte-du-syst%C3%A8me-dexploitation-linux/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc1/ch1/cours-2---d%C3%A9couverte-du-syst%C3%A8me-dexploitation-linux/</guid>
+      <guid>http://localhost:1313/cours/09---tc1/ch1/cours/cours-2---d%C3%A9couverte-du-syst%C3%A8me-dexploitation-linux/</guid>
       <description>Présentation de Linux Linux est un système d&amp;rsquo;exploitation conçu par Linus TORVALD en 1991. Linux est dit libre : le code source et le code binaire sont librement distribués. Plusieurs distributions (RedHat, Suse, Debian, etc&amp;hellip;) Quelques caractéristiques de Linux : Multitâches, Multiutilisateurs Multiplateformes, Multiprocesseurs Certifie C2 Introduction Comment ouvrir une session Linux ? Comment obtenir de l’aide ? Qu’est ce qu’un fichier ? Qu’est ce qu’un répertoire ? Qu’est ce que le Shell ?</description>
       <content:encoded><![CDATA[<h2 id="présentation-de-linux">Présentation de Linux</h2>
 <ul>
@@ -274,135 +1030,287 @@ terminée</li>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Tableurs</title>
-      <link>http://localhost:1313/cours/ap/tableur/barroca--paccard_evan_1sioa_ap_tableurs/</link>
+      <title>PDF embed</title>
+      <link>http://localhost:1313/online-privacy/pdf/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/ap/tableur/barroca--paccard_evan_1sioa_ap_tableurs/</guid>
-      <description>Compte-rendu d&amp;rsquo;AP : Les Tableurs Objectifs ­Se familiariser avec l’utilisation des tableurs. Découvrir/revoir des commandes de base d’utilisation des tableurs. S’habituer a des situations réelles d’utilisation des tableurs en entreprise. Exercice 1 : 2.1 Les requêtes monotables Le prix de vente d&amp;rsquo;un article est de 263€ ht Le taux de TVA est de 19,6%&#xA;Pour calculer le montant de la TVA a 19,6 % nous effectuons la commande suivante ;</description>
-      <content:encoded><![CDATA[<h1 id="compte-rendu-dap--les-tableurs">Compte-rendu d&rsquo;AP : Les Tableurs</h1>
-<h2 id="objectifs">Objectifs</h2>
-<ul>
-<li>­Se familiariser avec l’utilisation des tableurs.</li>
-<li>Découvrir/revoir des commandes de base d’utilisation des tableurs.</li>
-<li>S’habituer a des situations réelles d’utilisation des tableurs en entreprise.</li>
-</ul>
-<h1 id="exercice-1">Exercice 1 :</h1>
-<h2 id="21-les-requêtes-monotables">2.1 Les requêtes monotables</h2>
-<p>Le prix de vente d&rsquo;un article est de 263€ ht
-Le taux de TVA est de 19,6%</p>
-<p><img alt="image info" src="/AP/tabl1.png"></p>
-<p>Pour calculer le montant de la TVA a 19,6 % nous effectuons la commande suivante ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>= D6 * 0,196
-= prix HT * 0,196</code></pre><p>Puis pour calculer le prix TTC nous additionnons les deux valeurs ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>= D6 +D7
-= prix HT + montant TVA</code></pre><p>Le prix de vente d&rsquo;un article est de 143,5€ ttc
-Le taux de TVA est de 19,6%</p>
-<p><img alt="image info" src="/AP/tabl2.png"></p>
-<p>Pour calculer le montant de la TVA a partir du prix TTC de l’article nous effectuons la commande suivante ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>= D15 - (D15/(1+0,196))
-= prix ttc – ( prix ttc / ( 1 + 0.196 ) )</code></pre><p>Puis pour calculer le prix HT de l’article nous soustrayons la TVA au prix TTC ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>= D15 -D14
-= prix TTC – prix TVA</code></pre><h1 id="exercice-2-">Exercice 2 :</h1>
-<p>MANQUE LE GRAPHIQUE</p>
-<p><img alt="image info" src="/AP/tabl3.png">
-<img alt="image info" src="/AP/tabl4.png"></p>
-<p>Pour calculer les moyennes des eleves il est possible d’utiliser la formule par defaut pour calculer une moyenne c’est a dire AVERAGE(<strong>:</strong>), puis il suffira de la descendre pour calculer le reste des moyennes ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>=AVERAGE(E11:H12)</code></pre><p>Puis pour calculer le minimum nous utiliserons egallement une formule par defaut (MIN(__ :<strong>), de meme pour la formule MAX(</strong> :__) qui permet d’obtenir le maximum.</p>
-<p>Enfin pour obtenir le nombre de notes superieurs ou egalles a 0 il faut utiliser la formule COUNTIF( __ :__ ; « condition a verifier » ) ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>=COUNTIF(__ :__ ; « condition a verifier » )
-=COUNTIF(E12:E21 ; &#34;&gt;=10&#34;)</code></pre><p>Si l’on souhaite limiter le nombre de décimales il suffit d’utiliser l&rsquo;icone .OO avec une petite croix.</p>
-<h1 id="exercice-3-">Exercice 3 :</h1>
-<p><img alt="image info" src="/AP/tabl6.png"></p>
-<p>Pour le prix total HT ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>= (nombre * prix unitaire HT)</code></pre><p>Pour la TVA a 7% ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>= (prix total HT * 0.07)</code></pre><p>Pour le prix total TTC ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>=SUM(prix total HT, TVA)</code></pre><p>Pour le Total TTC ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>=SUM(de tout les prix totaux TTC)</code></pre><p>Les resultats des prix totaux sont donc les suivants :</p>
-<ul>
-<li>TVA 7% : 150,87</li>
-<li>TVA 5.5% : 148,755</li>
-<li>TVA 19.6% : 168,636</li>
-</ul>
-<h1 id="exercice-4-">Exercice 4 :</h1>
-<p><img alt="image info" src="/AP/tabl5.png"></p>
-<p>Apres avoir remplis le tableau avec des valeurs il faut integrer des formules de calcule ;</p>
-<p>Pour le total RECETTES ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>=SUM(Salaires, Alocations, Bourses, Divers)</code></pre><p>Pour le total DEPENSES ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>=SUM(Loyer, Taxe... Imprevus)</code></pre><p>Pour le total SOLDES ;</p>
-
-
-
-
-
-<pre tabindex="0"><code>=(RECETTES - DEPENSES)</code></pre><p>Pour afficher le solde en rouge il faut selectionner la case et lui ajouter une condition qui lorsque le montant est inferieur a 0 transforme la case en rouge et s&rsquo;il est negatif la transforme en vert.</p>
-<h1 id="exercice-5-">Exercice 5 :</h1>
+      <guid>http://localhost:1313/online-privacy/pdf/</guid>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. &lt;!DOCTYPE html&gt;&#xD;Title&#xD;</description>
+      <content:encoded><![CDATA[<p><script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
+
+<style>
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  </style><div class="embed-pdf-container" id="embed-pdf-container-87c7ce3b">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-87c7ce3b">
+        <div class="pdf-loading" id="pdf-loading-87c7ce3b"></div>
+    </div>
+    <div id="overlayText">
+      <a href="/test.pdf" aria-label="Download" download>
+        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+            <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+        </svg>
+      </a>
+    </div>
+    <canvas class="pdf-canvas" id="pdf-canvas-87c7ce3b"></canvas>
+</div>
+
+<div class="pdf-paginator" id="pdf-paginator-87c7ce3b">
+    <button id="pdf-prev-87c7ce3b">Previous</button>
+    <button id="pdf-next-87c7ce3b">Next</button> &nbsp; &nbsp;
+    <span>
+      <span class="pdf-pagenum" id="pdf-pagenum-87c7ce3b"></span> / <span class="pdf-pagecount" id="pdf-pagecount-87c7ce3b"></span>
+    </span>
+    <a class="pdf-source" id="pdf-source-87c7ce3b" href="/test.pdf">[pdf]</a>
+</div>
+
+<noscript>
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-87c7ce3b" href="/test.pdf">here</a>.
+</noscript>
+
+<script type="text/javascript">
+    (function(){
+    var url = '\/test.pdf';
+
+    var hidePaginator = "" === "true";
+    var hideLoader = "" === "true";
+    var selectedPageNum = parseInt("") || 1;
+
+    
+    var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+      pdfjsLib.GlobalWorkerOptions.workerSrc = "http:\/\/localhost:1313\/" + 'js/pdf-js/build/pdf.worker.js';
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById('pdf-canvas-87c7ce3b'),
+        ctx = canvas.getContext('2d'),
+        paginator = document.getElementById("pdf-paginator-87c7ce3b"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-87c7ce3b');
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById('pdf-pagenum-87c7ce3b').textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = 'none';
+      canvas.style.display = 'block';
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = 'flex';
+      canvas.style.display = 'none';
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = 'block';
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum <= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-prev-87c7ce3b').addEventListener('click', onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum >= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-next-87c7ce3b').addEventListener('click', onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById('pdf-pagecount-87c7ce3b').textContent = numPages;
+
+      
+      if(pageNum > numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+</script>
+
+<embed src= "/test.pdf" width= "100%" height= "1000px" type="application/pdf" >
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <div id="app">
+      <iframe
+        src="https://drive.google.com/file/d/code%20google%20share/preview"
+        width="100%"
+        height="1000">
+      </iframe>
+    </div>
+  </body>
+</html>
+
+</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>TD0 (partie 1)</title>
-      <link>http://localhost:1313/cours/tc2-1/td0/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</link>
+      <link>http://localhost:1313/cours/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc2-1/td0/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</guid>
+      <guid>http://localhost:1313/cours/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</guid>
       <description>Compte-rendu du TD 0 : Découverte de la base de données de la société InfoDev Objectifs Decouverte des principes de base des Bases de Donnees Decouverte des principales commandes SQL Partie 1 : Étude de la base de données 1.1 Rechercher des informations dans une base de données Le client « Mateaud Récup » est implanté à Villegats : Vrai Justification : Adresse ; 94, cours Pline l’ancien, 16700 a Villegats</description>
       <content:encoded><![CDATA[<h1 id="compte-rendu-du-td-0--découverte-de-la-base-de-données-de-la-société-infodev">Compte-rendu du TD 0 : Découverte de la base de données de la société InfoDev</h1>
 <h2 id="objectifs">Objectifs</h2>
@@ -516,9 +1424,9 @@ Ainsi, il faut tout d&rsquo;abord ajouter les informations du client dans la Tab
     </item>
     <item>
       <title>TD0 (Partie 2)</title>
-      <link>http://localhost:1313/cours/tc2-1/td0/barroca--paccard_evan_1sioa_tc2-1_td0partie2md/</link>
+      <link>http://localhost:1313/cours/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie2md/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc2-1/td0/barroca--paccard_evan_1sioa_tc2-1_td0partie2md/</guid>
+      <guid>http://localhost:1313/cours/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie2md/</guid>
       <description>Compte-rendu du TD 0 : Decouverte de la base de donnees de la societe InfoDev Objectifs Decouverte des principes de base des Bases de Donnees Decouverte des principales commandes SQL Partie 2 : Exploitation de la base de données 2.1 Les requêtes monotables 1. Exécuter la requête « Liste des établissements scolaires de Charente ». Sous quelle forme se présente le résultat de cette requête ? Cette requete renvoie un tableau avec seulement les informations recherchees.</description>
       <content:encoded><![CDATA[<h1 id="compte-rendu-du-td-0--decouverte-de-la-base-de-donnees-de-la-societe-infodev">Compte-rendu du TD 0 : Decouverte de la base de donnees de la societe InfoDev</h1>
 <h2 id="objectifs">Objectifs</h2>
@@ -545,9 +1453,9 @@ WHERE CP like &lsquo;16%&rsquo;;</p>
     </item>
     <item>
       <title>TP0</title>
-      <link>http://localhost:1313/cours/tc1/tp0/tp0/</link>
+      <link>http://localhost:1313/cours/09---tc1/ch0/tp0/tp0/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc1/tp0/tp0/</guid>
+      <guid>http://localhost:1313/cours/09---tc1/ch0/tp0/tp0/</guid>
       <description>Markdown Cheat Sheet Thanks for visiting The Markdown Guide!&#xA;This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.&#xA;Basic Syntax These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.</description>
       <content:encoded><![CDATA[<h1 id="markdown-cheat-sheet">Markdown Cheat Sheet</h1>
 <p>Thanks for visiting <a href="https://www.markdownguide.org">The Markdown Guide</a>!</p>
@@ -640,7 +1548,7 @@ WHERE CP like &lsquo;16%&rsquo;;</p>
 <h3 id="highlight">Highlight</h3>
 <p>I need to highlight these ==very important words==.</p>
 <h3 id="subscript">Subscript</h3>
-<p>H~2~O</p>
+<p>H<del>2</del>O</p>
 <h3 id="superscript">Superscript</h3>
 <p>X^2^</p>
 <div class="footnotes" role="doc-endnotes">
@@ -655,53 +1563,9 @@ WHERE CP like &lsquo;16%&rsquo;;</p>
     </item>
     <item>
       <title>TP1</title>
-      <link>http://localhost:1313/cours/tc2-1/tp1/barroca--paccard_evan_1sioa_tc2-1_tp1/</link>
+      <link>http://localhost:1313/cours/01---tc2-2/100---edi-python/001---tp1/barroca--paccard_evan_1sioa_tc2-2_tp1/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc2-1/tp1/barroca--paccard_evan_1sioa_tc2-1_tp1/</guid>
-      <description>Version PDF&#xA;Compte-rendu du TP 1 : Variables, affectations, Entrées et Sorties standard Objectifs Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3) Conditions de travail Auto-évaluation sur Caseine Hello + nom Ecrire un programme qui demande à l&amp;rsquo;utilisateur son nom puis qui affiche &amp;ldquo;Hello&amp;rdquo; suivi de son nom.&#xA;nom=input(&amp;#34;Veuillez entrer votre nom:&amp;#34;) print(&amp;#34;Hello &amp;#34;, nom, &amp;#34;!&amp;#34;)Tools IP - Puissance de 2 (variables, E/S, opérateur) Écrire un programme qui demande à l&amp;rsquo;utilisateur &amp;ldquo;Saisir un entier positif: &amp;quot; et affiche la puissance de 2 dont l&amp;rsquo;exposant correspondant à l&amp;rsquo;entier saisi.</description>
-      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
-<h1 id="compte-rendu-du-tp-1--variables-affectations-entrées-et-sorties-standard">Compte-rendu du TP 1 : Variables, affectations, Entrées et Sorties standard</h1>
-<h2 id="objectifs">Objectifs</h2>
-<ul>
-<li>Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3)</li>
-</ul>
-<h2 id="conditions-de-travail">Conditions de travail</h2>
-<ul>
-<li>Auto-évaluation sur Caseine</li>
-</ul>
-<h2 id="hello--nom">Hello + nom</h2>
-<p>Ecrire un programme qui demande à l&rsquo;utilisateur son nom puis qui affiche &ldquo;Hello&rdquo; suivi de son nom.</p>
-
-
-
-
-
-<pre tabindex="0"><code>nom=input(&#34;Veuillez entrer votre nom:&#34;)
-print(&#34;Hello &#34;, nom, &#34;!&#34;)</code></pre><h2 id="tools-ip---puissance-de-2-variables-es-opérateur">Tools IP - Puissance de 2 (variables, E/S, opérateur)</h2>
-<p>Écrire un programme qui demande à l&rsquo;utilisateur &ldquo;Saisir un entier positif: &quot; et affiche la puissance de 2 dont l&rsquo;exposant correspondant à l&rsquo;entier saisi.</p>
-
-
-
-
-
-<pre tabindex="0"><code>intpos = int(input(&#34;Saisir un entier positif: &#34;))
-print(&#34;2 à la puissance de&#34;,intpos, &#34;=&#34;, 2**intpos)</code></pre><h2 id="afficher-la-somme-et-la-différence-de-deux-entiers">Afficher la somme et la différence de deux entiers</h2>
-<p>Ecrire un programme qui demande à l&rsquo;utilisateur deux entiers successivement, puis qui affiche la somme de ces deux entiers, puis qui affiche la différence entre le premier entier et le deuxième entier.</p>
-
-
-
-
-
-<pre tabindex="0"><code>int1 = int(input(&#34;Premier entier: &#34;))
-int2 = int(input(&#34;Deuxième entier: &#34;))
-print(&#34;Somme :&#34;, int1+int2,&#34;.&#34;)
-print(&#34;Différence :&#34;, int1-int2,&#34;.&#34;)</code></pre>]]></content:encoded>
-    </item>
-    <item>
-      <title>TP1</title>
-      <link>http://localhost:1313/cours/tc2-2/tp1/barroca--paccard_evan_1sioa_tc2-2_tp1/</link>
-      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc2-2/tp1/barroca--paccard_evan_1sioa_tc2-2_tp1/</guid>
+      <guid>http://localhost:1313/cours/01---tc2-2/100---edi-python/001---tp1/barroca--paccard_evan_1sioa_tc2-2_tp1/</guid>
       <description>Version PDF&#xA;Compte-rendu du TP 1 : Installer et configurer Visual Studio Code pour le développement Python dans Windows 10 Objectifs Installer Python 3 Installer configurer un environnement de développement intégré Créer un fichier python Écrire et exécuter du code Python simple dans Visual Studio Code Conditions de travail Travail individuel Matériel 1 machine virtuelle (VM) Windows 10 mise à votre disposition portant votre nom Chemin des VM : vcsa-sio.jolsio.net - DatacenterSIO - 1SIO - 1SIOB - TC2-2 accès vSphere pour accéder aux VM : https://10.</description>
       <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
 <h1 id="compte-rendu-du-tp-1--installer-et-configurer-visual-studio-code-pour-le-développement-python-dans-windows-10">Compte-rendu du TP 1 : Installer et configurer Visual Studio Code pour le développement Python dans Windows 10</h1>
@@ -755,10 +1619,138 @@ print(&#34;Différence :&#34;, int1-int2,&#34;.&#34;)</code></pre>]]></content:e
 ]]></content:encoded>
     </item>
     <item>
-      <title>TP2</title>
-      <link>http://localhost:1313/cours/tc1/tp2/barroca--paccard_evan_1sioa_tc1_tp2/</link>
+      <title>TP1</title>
+      <link>http://localhost:1313/cours/02---tc2-1/tp1/barroca--paccard_evan_1sioa_tc2-1_tp1/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc1/tp2/barroca--paccard_evan_1sioa_tc1_tp2/</guid>
+      <guid>http://localhost:1313/cours/02---tc2-1/tp1/barroca--paccard_evan_1sioa_tc2-1_tp1/</guid>
+      <description>Version PDF&#xA;Compte-rendu du TP 1 : Variables, affectations, Entrées et Sorties standard Objectifs Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3) Conditions de travail Auto-évaluation sur Caseine Hello + nom Ecrire un programme qui demande à l&amp;rsquo;utilisateur son nom puis qui affiche &amp;ldquo;Hello&amp;rdquo; suivi de son nom.&#xA;nom=input(&amp;#34;Veuillez entrer votre nom:&amp;#34;) print(&amp;#34;Hello &amp;#34;, nom, &amp;#34;!&amp;#34;)Tools IP - Puissance de 2 (variables, E/S, opérateur) Écrire un programme qui demande à l&amp;rsquo;utilisateur &amp;ldquo;Saisir un entier positif: &amp;quot; et affiche la puissance de 2 dont l&amp;rsquo;exposant correspondant à l&amp;rsquo;entier saisi.</description>
+      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
+<h1 id="compte-rendu-du-tp-1--variables-affectations-entrées-et-sorties-standard">Compte-rendu du TP 1 : Variables, affectations, Entrées et Sorties standard</h1>
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3)</li>
+</ul>
+<h2 id="conditions-de-travail">Conditions de travail</h2>
+<ul>
+<li>Auto-évaluation sur Caseine</li>
+</ul>
+<h2 id="hello--nom">Hello + nom</h2>
+<p>Ecrire un programme qui demande à l&rsquo;utilisateur son nom puis qui affiche &ldquo;Hello&rdquo; suivi de son nom.</p>
+
+
+
+
+
+<pre tabindex="0"><code>nom=input(&#34;Veuillez entrer votre nom:&#34;)
+print(&#34;Hello &#34;, nom, &#34;!&#34;)</code></pre><h2 id="tools-ip---puissance-de-2-variables-es-opérateur">Tools IP - Puissance de 2 (variables, E/S, opérateur)</h2>
+<p>Écrire un programme qui demande à l&rsquo;utilisateur &ldquo;Saisir un entier positif: &quot; et affiche la puissance de 2 dont l&rsquo;exposant correspondant à l&rsquo;entier saisi.</p>
+
+
+
+
+
+<pre tabindex="0"><code>intpos = int(input(&#34;Saisir un entier positif: &#34;))
+print(&#34;2 à la puissance de&#34;,intpos, &#34;=&#34;, 2**intpos)</code></pre><h2 id="afficher-la-somme-et-la-différence-de-deux-entiers">Afficher la somme et la différence de deux entiers</h2>
+<p>Ecrire un programme qui demande à l&rsquo;utilisateur deux entiers successivement, puis qui affiche la somme de ces deux entiers, puis qui affiche la différence entre le premier entier et le deuxième entier.</p>
+
+
+
+
+
+<pre tabindex="0"><code>int1 = int(input(&#34;Premier entier: &#34;))
+int2 = int(input(&#34;Deuxième entier: &#34;))
+print(&#34;Somme :&#34;, int1+int2,&#34;.&#34;)
+print(&#34;Différence :&#34;, int1-int2,&#34;.&#34;)</code></pre>]]></content:encoded>
+    </item>
+    <item>
+      <title>TP2</title>
+      <link>http://localhost:1313/cours/01---tc2-2/200---variables-affectations-entrees--sorties-standard/001---tp2/barroca--paccard_evan_1sioa_tc2-2_tp2/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/01---tc2-2/200---variables-affectations-entrees--sorties-standard/001---tp2/barroca--paccard_evan_1sioa_tc2-2_tp2/</guid>
+      <description>Version PDF&#xA;Compte-rendu du TP 2 : Variables, affectations, Entrées et Sorties standard Objectifs Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3) Conditions de travail Auto-évaluation sur Caseine Hello + nom Ecrire un programme qui demande à l&amp;rsquo;utilisateur son nom puis qui affiche &amp;ldquo;Hello&amp;rdquo; suivi de son nom.&#xA;nom=input(&amp;#34;Veuillez entrer votre nom:&amp;#34;) print(&amp;#34;Hello &amp;#34;, nom, &amp;#34;!&amp;#34;)Tools IP - Puissance de 2 (variables, E/S, opérateur) Écrire un programme qui demande à l&amp;rsquo;utilisateur &amp;ldquo;Saisir un entier positif: &amp;quot; et affiche la puissance de 2 dont l&amp;rsquo;exposant correspondant à l&amp;rsquo;entier saisi.</description>
+      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
+<h1 id="compte-rendu-du-tp-2--variables-affectations-entrées-et-sorties-standard">Compte-rendu du TP 2 : Variables, affectations, Entrées et Sorties standard</h1>
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3)</li>
+</ul>
+<h2 id="conditions-de-travail">Conditions de travail</h2>
+<ul>
+<li>Auto-évaluation sur Caseine</li>
+</ul>
+<h2 id="hello--nom">Hello + nom</h2>
+<p>Ecrire un programme qui demande à l&rsquo;utilisateur son nom puis qui affiche &ldquo;Hello&rdquo; suivi de son nom.</p>
+
+
+
+
+
+<pre tabindex="0"><code>nom=input(&#34;Veuillez entrer votre nom:&#34;)
+print(&#34;Hello &#34;, nom, &#34;!&#34;)</code></pre><h2 id="tools-ip---puissance-de-2-variables-es-opérateur">Tools IP - Puissance de 2 (variables, E/S, opérateur)</h2>
+<p>Écrire un programme qui demande à l&rsquo;utilisateur &ldquo;Saisir un entier positif: &quot; et affiche la puissance de 2 dont l&rsquo;exposant correspondant à l&rsquo;entier saisi.</p>
+
+
+
+
+
+<pre tabindex="0"><code>intpos = int(input(&#34;Saisir un entier positif: &#34;))
+print(&#34;2 à la puissance de&#34;,intpos, &#34;=&#34;, 2**intpos)</code></pre><h2 id="afficher-la-somme-et-la-différence-de-deux-entiers">Afficher la somme et la différence de deux entiers</h2>
+<p>Ecrire un programme qui demande à l&rsquo;utilisateur deux entiers successivement, puis qui affiche la somme de ces deux entiers, puis qui affiche la différence entre le premier entier et le deuxième entier.</p>
+
+
+
+
+
+<pre tabindex="0"><code>int1 = int(input(&#34;Premier entier: &#34;))
+int2 = int(input(&#34;Deuxième entier: &#34;))
+print(&#34;Somme :&#34;, int1+int2,&#34;.&#34;)
+print(&#34;Différence :&#34;, int1-int2,&#34;.&#34;)</code></pre>]]></content:encoded>
+    </item>
+    <item>
+      <title>TP2</title>
+      <link>http://localhost:1313/cours/02---tc2-1/tp2/barroca--paccard_evan_1sioa_tc2-1_tp2/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/02---tc2-1/tp2/barroca--paccard_evan_1sioa_tc2-1_tp2/</guid>
+      <description>Version PDF&#xA;Compte-rendu du TP 2 : Jointures et Agregats Objectifs Comprendre le principe des jointures Savoir realiser des requetesutilisant des fonctions d&amp;rsquo;agregats, de regroupement Req 01 SELECT HABITANT.NOM FROM HABITANT INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT WHERE AN.POIDS = 10 ORDER BY HABITANT.NOM ASC ;&#xA;Req 02 SELECT HABITANT.NOM, F.LIBELLE FROM HABITANT INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT INNER JOIN FUNCTION F ON HABITANT.IDFONCTION = F.</description>
+      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
+<h1 id="compte-rendu-du-tp-2--jointures-et-agregats">Compte-rendu du TP 2 : Jointures et Agregats</h1>
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Comprendre le principe des jointures</li>
+<li>Savoir realiser des requetesutilisant des fonctions d&rsquo;agregats, de regroupement</li>
+</ul>
+<h2 id="req-01">Req 01</h2>
+<p>SELECT HABITANT.NOM
+FROM HABITANT
+INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT
+WHERE AN.POIDS = 10
+ORDER BY HABITANT.NOM ASC ;</p>
+<h2 id="req-02">Req 02</h2>
+<p>SELECT HABITANT.NOM, F.LIBELLE
+FROM HABITANT
+INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT
+INNER JOIN FUNCTION F ON HABITANT.IDFONCTION = F.ID
+WHERE AN.POIDS = 10
+ORDER BY HABITANT.NOM ASC ;</p>
+<h2 id="req-03">Req 03</h2>
+<p>SELECT SUM(PRIX)
+FROM ACHAT_MENHIR
+WHERE IDHABITANT IS NOT NULL</p>
+<h2 id="req-04">Req 04</h2>
+<p>W</p>
+<h2 id="req-05">Req 05</h2>
+
+
+
+
+
+<pre tabindex="0"><code></code></pre>]]></content:encoded>
+    </item>
+    <item>
+      <title>TP2</title>
+      <link>http://localhost:1313/cours/09---tc1/ch1/tp2/barroca--paccard_evan_1sioa_tc1_tp2/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/09---tc1/ch1/tp2/barroca--paccard_evan_1sioa_tc1_tp2/</guid>
       <description>Version PDF&#xA;Compte-rendu du TP 2 : Commandes de Base Sous Linux Objectifs Découvrir le Système de Gestion de Fichiers Linux et ses commandes de base. Partie 1 : utilisation de la commande ls Quelles sont les informations affichées dans l’invite de commandes (le prompt) ? L&amp;rsquo;utilisateur, la machine et le repertoire actuel.&#xA;Exécutez la commande ls . Quel est le résultat de cette commande ? Cette commande ne renvoie rien.</description>
       <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
 <h1 id="compte-rendu-du-tp-2--commandes-de-base-sous-linux">Compte-rendu du TP 2 : Commandes de Base Sous Linux</h1>
@@ -974,94 +1966,10 @@ Date et heure de la derniere modification : Sep 27 15:21</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>TP2</title>
-      <link>http://localhost:1313/cours/tc2-1/tp2/barroca--paccard_evan_1sioa_tc2-1_tp2/</link>
-      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc2-1/tp2/barroca--paccard_evan_1sioa_tc2-1_tp2/</guid>
-      <description>Version PDF&#xA;Compte-rendu du TP 2 : Jointures et Agregats Objectifs Comprendre le principe des jointures Savoir realiser des requetesutilisant des fonctions d&amp;rsquo;agregats, de regroupement Req 01 SELECT HABITANT.NOM FROM HABITANT INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT WHERE AN.POIDS = 10 ORDER BY HABITANT.NOM ASC ;&#xA;Req 02 SELECT HABITANT.NOM, F.LIBELLE FROM HABITANT INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT INNER JOIN FUNCTION F ON HABITANT.IDFONCTION = F.</description>
-      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
-<h1 id="compte-rendu-du-tp-2--jointures-et-agregats">Compte-rendu du TP 2 : Jointures et Agregats</h1>
-<h2 id="objectifs">Objectifs</h2>
-<ul>
-<li>Comprendre le principe des jointures</li>
-<li>Savoir realiser des requetesutilisant des fonctions d&rsquo;agregats, de regroupement</li>
-</ul>
-<h2 id="req-01">Req 01</h2>
-<p>SELECT HABITANT.NOM
-FROM HABITANT
-INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT
-WHERE AN.POIDS = 10
-ORDER BY HABITANT.NOM ASC ;</p>
-<h2 id="req-02">Req 02</h2>
-<p>SELECT HABITANT.NOM, F.LIBELLE
-FROM HABITANT
-INNER JOIN ACHAT_MENHIR AN ON HABITANT.ID = AN.IDHABITANT
-INNER JOIN FUNCTION F ON HABITANT.IDFONCTION = F.ID
-WHERE AN.POIDS = 10
-ORDER BY HABITANT.NOM ASC ;</p>
-<h2 id="req-03">Req 03</h2>
-<p>SELECT SUM(PRIX)
-FROM ACHAT_MENHIR
-WHERE IDHABITANT IS NOT NULL</p>
-<h2 id="req-04">Req 04</h2>
-<p>W</p>
-<h2 id="req-05">Req 05</h2>
-
-
-
-
-
-<pre tabindex="0"><code></code></pre>]]></content:encoded>
-    </item>
-    <item>
-      <title>TP2</title>
-      <link>http://localhost:1313/cours/tc2-2/tp2/barroca--paccard_evan_1sioa_tc2-2_tp2/</link>
-      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc2-2/tp2/barroca--paccard_evan_1sioa_tc2-2_tp2/</guid>
-      <description>Version PDF&#xA;Compte-rendu du TP 2 : Variables, affectations, Entrées et Sorties standard Objectifs Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3) Conditions de travail Auto-évaluation sur Caseine Hello + nom Ecrire un programme qui demande à l&amp;rsquo;utilisateur son nom puis qui affiche &amp;ldquo;Hello&amp;rdquo; suivi de son nom.&#xA;nom=input(&amp;#34;Veuillez entrer votre nom:&amp;#34;) print(&amp;#34;Hello &amp;#34;, nom, &amp;#34;!&amp;#34;)Tools IP - Puissance de 2 (variables, E/S, opérateur) Écrire un programme qui demande à l&amp;rsquo;utilisateur &amp;ldquo;Saisir un entier positif: &amp;quot; et affiche la puissance de 2 dont l&amp;rsquo;exposant correspondant à l&amp;rsquo;entier saisi.</description>
-      <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
-<h1 id="compte-rendu-du-tp-2--variables-affectations-entrées-et-sorties-standard">Compte-rendu du TP 2 : Variables, affectations, Entrées et Sorties standard</h1>
-<h2 id="objectifs">Objectifs</h2>
-<ul>
-<li>Comprendre et utiliser des schémas algorithmique en utilisant le langage Python (version 3)</li>
-</ul>
-<h2 id="conditions-de-travail">Conditions de travail</h2>
-<ul>
-<li>Auto-évaluation sur Caseine</li>
-</ul>
-<h2 id="hello--nom">Hello + nom</h2>
-<p>Ecrire un programme qui demande à l&rsquo;utilisateur son nom puis qui affiche &ldquo;Hello&rdquo; suivi de son nom.</p>
-
-
-
-
-
-<pre tabindex="0"><code>nom=input(&#34;Veuillez entrer votre nom:&#34;)
-print(&#34;Hello &#34;, nom, &#34;!&#34;)</code></pre><h2 id="tools-ip---puissance-de-2-variables-es-opérateur">Tools IP - Puissance de 2 (variables, E/S, opérateur)</h2>
-<p>Écrire un programme qui demande à l&rsquo;utilisateur &ldquo;Saisir un entier positif: &quot; et affiche la puissance de 2 dont l&rsquo;exposant correspondant à l&rsquo;entier saisi.</p>
-
-
-
-
-
-<pre tabindex="0"><code>intpos = int(input(&#34;Saisir un entier positif: &#34;))
-print(&#34;2 à la puissance de&#34;,intpos, &#34;=&#34;, 2**intpos)</code></pre><h2 id="afficher-la-somme-et-la-différence-de-deux-entiers">Afficher la somme et la différence de deux entiers</h2>
-<p>Ecrire un programme qui demande à l&rsquo;utilisateur deux entiers successivement, puis qui affiche la somme de ces deux entiers, puis qui affiche la différence entre le premier entier et le deuxième entier.</p>
-
-
-
-
-
-<pre tabindex="0"><code>int1 = int(input(&#34;Premier entier: &#34;))
-int2 = int(input(&#34;Deuxième entier: &#34;))
-print(&#34;Somme :&#34;, int1+int2,&#34;.&#34;)
-print(&#34;Différence :&#34;, int1-int2,&#34;.&#34;)</code></pre>]]></content:encoded>
-    </item>
-    <item>
       <title>TP3</title>
-      <link>http://localhost:1313/cours/tc2-1/tp3/barroca--paccard_evan_1sioa_tc2-1_tp3/</link>
+      <link>http://localhost:1313/cours/02---tc2-1/tp3/barroca--paccard_evan_1sioa_tc2-1_tp3/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/tc2-1/tp3/barroca--paccard_evan_1sioa_tc2-1_tp3/</guid>
+      <guid>http://localhost:1313/cours/02---tc2-1/tp3/barroca--paccard_evan_1sioa_tc2-1_tp3/</guid>
       <description>Version PDF&#xA;Compte-rendu du TP 3 : Agrégats Objectifs Savoir réaliser des requêtes utilisant des regroupements, des sélections sur les regroupements Req 01 SELECT COUNT(*) AS &amp;ldquo;Nb Equipe&amp;rdquo; FROM EQUIPE ; Req 02 </description>
       <content:encoded><![CDATA[<p><a href="" download>Version PDF</a></p>
 <h1 id="compte-rendu-du-tp-3--agrégats">Compte-rendu du TP 3 : Agrégats</h1>
@@ -1077,11 +1985,292 @@ print(&#34;Différence :&#34;, int1-int2,&#34;.&#34;)</code></pre>]]></content:e
     </item>
     <item>
       <title>Trello</title>
-      <link>http://localhost:1313/cours/x-certification/trello.com/</link>
+      <link>http://localhost:1313/cours/06---parcours-certification/trello.com/</link>
       <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
-      <guid>http://localhost:1313/cours/x-certification/trello.com/</guid>
+      <guid>http://localhost:1313/cours/06---parcours-certification/trello.com/</guid>
       <description>lien vers le Trello</description>
       <content:encoded><![CDATA[<p><a href="https://trello.com/invite/b/66e18e5c8636a57b9f483c9b/ATTI222f9d252d03118692967783a380a0dfD9733852/barroca-paccardevan1siopacec2023-2025">lien vers le Trello</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cours/02---ateliers-professionalisants/300---html-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cours/02---ateliers-professionalisants/300---html-css/</guid>
+      <description>&lt;!DOCTYPE html&gt; Blog d&#39;Evan Mon blog de BTS SIO Présentation Compétences Projets Contact Présentation Bonjour, je suis actuellement étudiant en BTS SIO et j&#39;apprends la programmation afin de devenir développeur web. J&#39;ai une passion pour les technologies et je suis particulièrement intéressé par l&#39;utilisation créative des nouvelles technologies. Compétences HTML 95% CSS 60% Python 65% SQL 75% Projets Projet 1: Mon Premier Projet Photo de mon projet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog d'Evan</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Si vous avez un fichier CSS -->
+</head>
+<body>
+
+    <!-- En-tête de la page -->
+    <header>
+        <h1 style="font-size: 40px;">Mon blog de BTS SIO</h1>
+        <nav>
+            <ul>
+                <li><a href="#presentation">Présentation</a></li>
+                <li><a href="#competences">Compétences</a></li>
+                <li><a href="#projets">Projets</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <br></br><br></br>
+
+    <!-- Section Présentation -->
+   
+    <section id="presentation">
+        <img src="profile.jpg" alt="Image de profil" width="450" height="450">
+        <h2>Présentation</h2>
+        <p>
+            Bonjour, je suis actuellement étudiant en BTS SIO et j'apprends la programmation 
+            afin de devenir développeur web. J'ai une passion pour les technologies et je suis particulièrement
+            intéressé par l'utilisation créative des nouvelles technologies.
+        </p>
+        
+    <br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+
+    <!-- Section Compétences -->
+    <section id="competences">
+        <h2>Compétences</h2>
+
+        <ul>
+            <li>HTML<div class="circle per-95">
+                <div class="inner">95%</div>
+              </div></li>
+          <li>CSS<div class="circle per-60">
+            <div class="inner">60%</div>
+          </div></li>
+          <li>Python<div class="circle per-65">
+            <div class="inner">65%</div>
+        </div></li>
+        <li>SQL<div class="circle per-75">
+        <div class="inner">75%</div>
+      </div></li>
+        </ul>
+    </section>
+
+    <br></br><br></br><br></br>
+
+    <!-- Section Projets -->
+    <section id="projets">
+        <h2>Projets</h2>
+        <article>
+            <h3 style="font-size: 35px;">Projet 1: Mon Premier Projet</h3>
+            
+            <p style=" text-align: left;"> 
+                <figure>
+                    <img src="projet1.jpg" alt="Capture d'écran du projet" width="300">
+                    <figcaption>Photo de mon projet.</figcaption>
+                </figure>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis neque purus, ut cursus risus mattis eu. Vestibulum sodales nec mauris quis imperdiet. Vestibulum venenatis enim eu ex cursus rhoncus. In hac habitasse platea dictumst. Aenean quis eleifend sapien. Donec ut ultricies augue. Praesent vulputate, leo ut rutrum aliquet, velit libero ultrices erat, vel faucibus libero urna at dolor. Nam eleifend odio risus, semper iaculis ex porttitor ac. Nulla nec sem eu purus ullamcorper ultrices. Fusce rhoncus dapibus mi.
+
+                Cras tempus ante id ligula faucibus rhoncus. Fusce at fringilla nunc. Etiam ut imperdiet urna. Nunc vel ultricies turpis. Donec ultricies magna sed eros viverra convallis. Pellentesque rutrum velit ut sapien egestas convallis. Aenean aliquam mattis est, vitae pellentesque dui euismod ut. Phasellus pretium ornare metus id ullamcorper. Mauris pulvinar id diam rutrum placerat. Phasellus ut orci ullamcorper, porta ipsum eu, commodo massa. Fusce auctor justo sapien, non malesuada quam dictum id. 
+                <a style="background-color: #283618;
+                border-radius: 5px;
+                color: rgb(255, 255, 255);
+                font-size: 25px; text-align: center;" href="https://github.com/monprofil/mon-portfolio" target="_blank">Voir le code source</a>
+            </p>
+        </article>
+    </section>
+
+    <br></br><br></br>
+
+    <!-- Section Contact -->
+    <section id="contact">
+        <h1 style="font-size: 65px; margin-left: 150px;">Contact</h1>
+        <p></p><p></p><p></p><p></p>
+        <form style="float: center;"action="#" method="POST">
+            <label for="name">Nom :</label>
+            <input type="text" id="name" name="name" required><br>
+            
+            <label for="email">E-mail :</label>
+            <input type="email" id="email" name="email" required><br>
+            
+            <label for="subject">Sujet :</label>
+            <input type="text" id="subject" name="subject" required><br>
+            
+            <label for="message">Message :</label><br>
+            <textarea id="message" name="message" rows="4" required></textarea><br>
+            
+            <button type="submit">Envoyer</button>
+        </form>
+    </section>
+
+    <!-- Pied de page -->
+    <footer style="background-color: #606c38;">
+        <small>Suivez-moi sur mes réseaux !</small>
+        <a href="https://www.linkedin.com/in/evanbarrocapaccard" target="_blank">
+            <img src="linkedin.png" alt="LinkedIn" width="50">
+        </a>
+        <a href="https://github.com/vayki716" target="_blank">
+            <img src="github.png" alt="GitHub" width="50">
+        </a>
+    </footer>
+
+</body>
+</html>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cours/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cours/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/image/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xD;</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="fr">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="css.css">
+
+<body> 
+  <!-- Section CV -->
+ <div class = "Curriculum">
+    <img src ="CV.png" alt = "Image de mon CV"> 
+
+
+
+
+ </div>
+
+
+
+
+</body>]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cours/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cours/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/web/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xD;Mon Portfolio&#xD;Charly Gallais&#xD;Présentation&#xD;Compétences&#xD;Projets&#xD;Contact&#xD;Curriculum Vitae&#xD;Linktree&#xD;Présentation&#xD;Bonjour, je me nomme Charly Gallais, je suis un apprenant passionné par le développement web. J&#39;ai commencé à&#xD;apprendre la programmation durant mon adolescence et j&#39;espère pouvoir en acquérir d&#39;avantages lors de mon BTS SIO :3.&#xA;Compétences&#xD;HTML CSS JavaScript Python Motivation Projets&#xD;Projet réalisé lors de mon parcours scolaire :&#xD;J&#39;ai pu réalisé plusieurs projets en NSI, que ce soir des petits jeux en python ou des sites web personalisés .</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Portfolio</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <!-- En-tête de la page -->
+    <header>
+        <h1><a class="lightning"> <span> Charly Gallais</span></h1></a>
+        
+        <nav>
+            <ul>
+                <li><a href="#presentation">Présentation</a></li>
+                <li><a href="#competences">Compétences</a></li>
+                <li><a href="#projets">Projets</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#Curriculum Vitae">Curriculum Vitae</a></li>
+                <li><a href="#Linktree">Linktree</a></li>
+            </ul>
+        </nav>
+        <a href="https://www.youtube.com/@Pandorelol"><img src="pandore.jpg.jfif" alt="Image de profil"></a>
+    </header>
+
+    <!-- Section Discours -->
+    <section id="presentation">
+        <h3>Présentation</h3>
+        <p>Bonjour, je me nomme Charly Gallais, je suis un apprenant passionné par le développement web. J'ai commencé à
+            apprendre la programmation durant mon adolescence et j'espère pouvoir en acquérir d'avantages lors de mon BTS SIO :3.</p>
+    </section>
+
+    <!-- Section Compétences -->
+    <section id="competences">
+        <h3>Compétences</h3>
+        <ul>
+            <li>HTML <progress value="50" max="100"></progress></li>
+            <li>CSS <progress value="30" max="100"></progress></li>
+            <li>JavaScript <progress value="0" max="100"></progress></li>
+            <li>Python <progress value="70" max="100"></progress></li>
+            <li>Motivation <progress value="100" max="100"></progress></li>
+        </ul>
+    </section>
+
+    <!-- Section Projets -->
+    <section id="projets">
+        <h3>Projets</h2>
+        <article>
+            <h5>Projet réalisé lors de mon parcours scolaire :</h3>
+            <figure>
+                <div>
+                <img src="Projet.jpg" alt="Image de projet">
+                </figure></div>
+                <figcaption>J'ai pu réalisé plusieurs projets en NSI, que ce soir des petits jeux en python ou des sites web personalisés .</figcaption>
+            </figure>
+            
+            
+        </article>
+    </section>
+
+    <!-- Section Contact -->
+    <section id="contact">
+        <h3>Contact  </h3>
+        
+                
+              
+        </div></h3>
+        <form>
+            <label for="nom">Nom :</label>
+            <input type="text" id="nom" name="nom" required>
+
+            <label for="email">Email :</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="sujet">Sujet :</label>
+            <input type="text" id="sujet" name="sujet">
+
+            <label for="message">Message :</label>
+            <textarea id="message" name="message" required></textarea>
+            
+            <button type="submit">Envoyer </button>
+        </form>
+        <h4>  
+             <a href="https://www.linkedin.com/in/charly-gallais-276535230/" > 
+                <div class="Linkedin"><img src ="R.png" alt = "Image Linkedin "></div> Mon profil Linkedin 
+            </a>
+            
+            
+            
+        </h4>
+        
+    </section>
+    <section id="Curriculum Vitae">
+        <h3>Curriculum Vitae</h3>
+        <h6><a href = "Image.html" > <div class = "Téléchargement">
+            <img src ="[removal.ai]_4268a42a-89ff-403e-8006-e1f0c411819e-telechargement.png" alt = "Image de Téléchargement">
+        </h6>
+
+        </div>
+
+        </a>
+    </section>
+
+    <section id="Linktree">
+        <h3>Linktree</h3>
+        <div class = "Linktree"> <a href="https://charly-gallais.link.cam/#"> <h7> Lintree in one click</h7></a></div>
+    
+    </section>
+
+    <!-- Pied de page -->
+    <footer>
+        <p>Page créée dans le cadre d'un TP en BTS SIO.</p>
+       
+        <small>Gallais Charly</small>
+    </footer>
+</body>
+</html>
+
+
+        
 ]]></content:encoded>
     </item>
   </channel>

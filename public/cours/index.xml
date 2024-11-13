@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Cours on SIOA 2025</title>
+    <title>Cours on </title>
     <link>http://localhost:1313/cours/</link>
-    <description>Recent content in Cours on SIOA 2025</description>
+    <description>Recent content in Cours on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Azamat (CC BY 4.0)</copyright>
+    <copyright>Azamat (2024-2026)</copyright>
     <lastBuildDate>Fri, 13 Sep 2024 22:52:58 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/cours/index.xml" rel="self" type="application/rss+xml" />
   </channel>

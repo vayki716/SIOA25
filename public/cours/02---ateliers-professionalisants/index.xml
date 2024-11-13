@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AP on </title>
+    <link>http://localhost:1313/cours/02---ateliers-professionalisants/</link>
+    <description>Recent content in AP on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Azamat (2024-2026)</copyright>
+    <lastBuildDate>Fri, 13 Sep 2024 22:52:58 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cours/02---ateliers-professionalisants/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 - Tableurs</title>
+      <link>http://localhost:1313/cours/02---ateliers-professionalisants/100---tableur/barroca--paccard_evan_1sioa_ap_tableurs/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/02---ateliers-professionalisants/100---tableur/barroca--paccard_evan_1sioa_ap_tableurs/</guid>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+      <content:encoded><![CDATA[<script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
+
+<style>
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  </style><div class="embed-pdf-container" id="embed-pdf-container-4d9a3fd7">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-4d9a3fd7">
+        <div class="pdf-loading" id="pdf-loading-4d9a3fd7"></div>
+    </div>
+    <div id="overlayText">
+      <a href="/BARROCA--PACCARD_Evan_1SIOA_AP_Tableurs.pdf" aria-label="Download" download>
+        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+            <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+        </svg>
+      </a>
+    </div>
+    <canvas class="pdf-canvas" id="pdf-canvas-4d9a3fd7"></canvas>
+</div>
+
+<div class="pdf-paginator" id="pdf-paginator-4d9a3fd7">
+    <button id="pdf-prev-4d9a3fd7">Previous</button>
+    <button id="pdf-next-4d9a3fd7">Next</button> &nbsp; &nbsp;
+    <span>
+      <span class="pdf-pagenum" id="pdf-pagenum-4d9a3fd7"></span> / <span class="pdf-pagecount" id="pdf-pagecount-4d9a3fd7"></span>
+    </span>
+    <a class="pdf-source" id="pdf-source-4d9a3fd7" href="/BARROCA--PACCARD_Evan_1SIOA_AP_Tableurs.pdf">[pdf]</a>
+</div>
+
+<noscript>
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-4d9a3fd7" href="/BARROCA--PACCARD_Evan_1SIOA_AP_Tableurs.pdf">here</a>.
+</noscript>
+
+<script type="text/javascript">
+    (function(){
+    var url = '\/BARROCA--PACCARD_Evan_1SIOA_AP_Tableurs.pdf';
+
+    var hidePaginator = "" === "true";
+    var hideLoader = "" === "true";
+    var selectedPageNum = parseInt("") || 1;
+
+    
+    var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+      pdfjsLib.GlobalWorkerOptions.workerSrc = "http:\/\/localhost:1313\/" + 'js/pdf-js/build/pdf.worker.js';
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById('pdf-canvas-4d9a3fd7'),
+        ctx = canvas.getContext('2d'),
+        paginator = document.getElementById("pdf-paginator-4d9a3fd7"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-4d9a3fd7');
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById('pdf-pagenum-4d9a3fd7').textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = 'none';
+      canvas.style.display = 'block';
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = 'flex';
+      canvas.style.display = 'none';
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = 'block';
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum <= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-prev-4d9a3fd7').addEventListener('click', onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum >= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-next-4d9a3fd7').addEventListener('click', onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById('pdf-pagecount-4d9a3fd7').textContent = numPages;
+
+      
+      if(pageNum > numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+</script>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>2 - Traitement de Texte</title>
+      <link>http://localhost:1313/cours/02---ateliers-professionalisants/200---editeur-de-texte/barroca--paccard_evan_1sioa_ap_traitement_de_texte/</link>
+      <pubDate>Fri, 13 Sep 2024 22:52:58 +0200</pubDate>
+      <guid>http://localhost:1313/cours/02---ateliers-professionalisants/200---editeur-de-texte/barroca--paccard_evan_1sioa_ap_traitement_de_texte/</guid>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+      <content:encoded><![CDATA[<script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
+
+<style>
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  </style><div class="embed-pdf-container" id="embed-pdf-container-ab719d59">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-ab719d59">
+        <div class="pdf-loading" id="pdf-loading-ab719d59"></div>
+    </div>
+    <div id="overlayText">
+      <a href="/BARROCA--PACCARD_Evan_1SIOA_AP_Traitement_de_Texte.pdf" aria-label="Download" download>
+        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+            <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+        </svg>
+      </a>
+    </div>
+    <canvas class="pdf-canvas" id="pdf-canvas-ab719d59"></canvas>
+</div>
+
+<div class="pdf-paginator" id="pdf-paginator-ab719d59">
+    <button id="pdf-prev-ab719d59">Previous</button>
+    <button id="pdf-next-ab719d59">Next</button> &nbsp; &nbsp;
+    <span>
+      <span class="pdf-pagenum" id="pdf-pagenum-ab719d59"></span> / <span class="pdf-pagecount" id="pdf-pagecount-ab719d59"></span>
+    </span>
+    <a class="pdf-source" id="pdf-source-ab719d59" href="/BARROCA--PACCARD_Evan_1SIOA_AP_Traitement_de_Texte.pdf">[pdf]</a>
+</div>
+
+<noscript>
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-ab719d59" href="/BARROCA--PACCARD_Evan_1SIOA_AP_Traitement_de_Texte.pdf">here</a>.
+</noscript>
+
+<script type="text/javascript">
+    (function(){
+    var url = '\/BARROCA--PACCARD_Evan_1SIOA_AP_Traitement_de_Texte.pdf';
+
+    var hidePaginator = "" === "true";
+    var hideLoader = "" === "true";
+    var selectedPageNum = parseInt("") || 1;
+
+    
+    var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+      pdfjsLib.GlobalWorkerOptions.workerSrc = "http:\/\/localhost:1313\/" + 'js/pdf-js/build/pdf.worker.js';
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById('pdf-canvas-ab719d59'),
+        ctx = canvas.getContext('2d'),
+        paginator = document.getElementById("pdf-paginator-ab719d59"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-ab719d59');
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById('pdf-pagenum-ab719d59').textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = 'none';
+      canvas.style.display = 'block';
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = 'flex';
+      canvas.style.display = 'none';
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = 'block';
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum <= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-prev-ab719d59').addEventListener('click', onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum >= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-next-ab719d59').addEventListener('click', onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById('pdf-pagecount-ab719d59').textContent = numPages;
+
+      
+      if(pageNum > numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+</script>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cours/02---ateliers-professionalisants/300---html-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cours/02---ateliers-professionalisants/300---html-css/</guid>
+      <description>&lt;!DOCTYPE html&gt; Blog d&#39;Evan Mon blog de BTS SIO Présentation Compétences Projets Contact Présentation Bonjour, je suis actuellement étudiant en BTS SIO et j&#39;apprends la programmation afin de devenir développeur web. J&#39;ai une passion pour les technologies et je suis particulièrement intéressé par l&#39;utilisation créative des nouvelles technologies. Compétences HTML 95% CSS 60% Python 65% SQL 75% Projets Projet 1: Mon Premier Projet Photo de mon projet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog d'Evan</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Si vous avez un fichier CSS -->
+</head>
+<body>
+
+    <!-- En-tête de la page -->
+    <header>
+        <h1 style="font-size: 40px;">Mon blog de BTS SIO</h1>
+        <nav>
+            <ul>
+                <li><a href="#presentation">Présentation</a></li>
+                <li><a href="#competences">Compétences</a></li>
+                <li><a href="#projets">Projets</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <br></br><br></br>
+
+    <!-- Section Présentation -->
+   
+    <section id="presentation">
+        <img src="profile.jpg" alt="Image de profil" width="450" height="450">
+        <h2>Présentation</h2>
+        <p>
+            Bonjour, je suis actuellement étudiant en BTS SIO et j'apprends la programmation 
+            afin de devenir développeur web. J'ai une passion pour les technologies et je suis particulièrement
+            intéressé par l'utilisation créative des nouvelles technologies.
+        </p>
+        
+    <br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+
+    <!-- Section Compétences -->
+    <section id="competences">
+        <h2>Compétences</h2>
+
+        <ul>
+            <li>HTML<div class="circle per-95">
+                <div class="inner">95%</div>
+              </div></li>
+          <li>CSS<div class="circle per-60">
+            <div class="inner">60%</div>
+          </div></li>
+          <li>Python<div class="circle per-65">
+            <div class="inner">65%</div>
+        </div></li>
+        <li>SQL<div class="circle per-75">
+        <div class="inner">75%</div>
+      </div></li>
+        </ul>
+    </section>
+
+    <br></br><br></br><br></br>
+
+    <!-- Section Projets -->
+    <section id="projets">
+        <h2>Projets</h2>
+        <article>
+            <h3 style="font-size: 35px;">Projet 1: Mon Premier Projet</h3>
+            
+            <p style=" text-align: left;"> 
+                <figure>
+                    <img src="projet1.jpg" alt="Capture d'écran du projet" width="300">
+                    <figcaption>Photo de mon projet.</figcaption>
+                </figure>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis neque purus, ut cursus risus mattis eu. Vestibulum sodales nec mauris quis imperdiet. Vestibulum venenatis enim eu ex cursus rhoncus. In hac habitasse platea dictumst. Aenean quis eleifend sapien. Donec ut ultricies augue. Praesent vulputate, leo ut rutrum aliquet, velit libero ultrices erat, vel faucibus libero urna at dolor. Nam eleifend odio risus, semper iaculis ex porttitor ac. Nulla nec sem eu purus ullamcorper ultrices. Fusce rhoncus dapibus mi.
+
+                Cras tempus ante id ligula faucibus rhoncus. Fusce at fringilla nunc. Etiam ut imperdiet urna. Nunc vel ultricies turpis. Donec ultricies magna sed eros viverra convallis. Pellentesque rutrum velit ut sapien egestas convallis. Aenean aliquam mattis est, vitae pellentesque dui euismod ut. Phasellus pretium ornare metus id ullamcorper. Mauris pulvinar id diam rutrum placerat. Phasellus ut orci ullamcorper, porta ipsum eu, commodo massa. Fusce auctor justo sapien, non malesuada quam dictum id. 
+                <a style="background-color: #283618;
+                border-radius: 5px;
+                color: rgb(255, 255, 255);
+                font-size: 25px; text-align: center;" href="https://github.com/monprofil/mon-portfolio" target="_blank">Voir le code source</a>
+            </p>
+        </article>
+    </section>
+
+    <br></br><br></br>
+
+    <!-- Section Contact -->
+    <section id="contact">
+        <h1 style="font-size: 65px; margin-left: 150px;">Contact</h1>
+        <p></p><p></p><p></p><p></p>
+        <form style="float: center;"action="#" method="POST">
+            <label for="name">Nom :</label>
+            <input type="text" id="name" name="name" required><br>
+            
+            <label for="email">E-mail :</label>
+            <input type="email" id="email" name="email" required><br>
+            
+            <label for="subject">Sujet :</label>
+            <input type="text" id="subject" name="subject" required><br>
+            
+            <label for="message">Message :</label><br>
+            <textarea id="message" name="message" rows="4" required></textarea><br>
+            
+            <button type="submit">Envoyer</button>
+        </form>
+    </section>
+
+    <!-- Pied de page -->
+    <footer style="background-color: #606c38;">
+        <small>Suivez-moi sur mes réseaux !</small>
+        <a href="https://www.linkedin.com/in/evanbarrocapaccard" target="_blank">
+            <img src="linkedin.png" alt="LinkedIn" width="50">
+        </a>
+        <a href="https://github.com/vayki716" target="_blank">
+            <img src="github.png" alt="GitHub" width="50">
+        </a>
+    </footer>
+
+</body>
+</html>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cours/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cours/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/image/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xD;</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="fr">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="css.css">
+
+<body> 
+  <!-- Section CV -->
+ <div class = "Curriculum">
+    <img src ="CV.png" alt = "Image de mon CV"> 
+
+
+
+
+ </div>
+
+
+
+
+</body>]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cours/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cours/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/web/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xD;Mon Portfolio&#xD;Charly Gallais&#xD;Présentation&#xD;Compétences&#xD;Projets&#xD;Contact&#xD;Curriculum Vitae&#xD;Linktree&#xD;Présentation&#xD;Bonjour, je me nomme Charly Gallais, je suis un apprenant passionné par le développement web. J&#39;ai commencé à&#xD;apprendre la programmation durant mon adolescence et j&#39;espère pouvoir en acquérir d&#39;avantages lors de mon BTS SIO :3.&#xA;Compétences&#xD;HTML CSS JavaScript Python Motivation Projets&#xD;Projet réalisé lors de mon parcours scolaire :&#xD;J&#39;ai pu réalisé plusieurs projets en NSI, que ce soir des petits jeux en python ou des sites web personalisés .</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Portfolio</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <!-- En-tête de la page -->
+    <header>
+        <h1><a class="lightning"> <span> Charly Gallais</span></h1></a>
+        
+        <nav>
+            <ul>
+                <li><a href="#presentation">Présentation</a></li>
+                <li><a href="#competences">Compétences</a></li>
+                <li><a href="#projets">Projets</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#Curriculum Vitae">Curriculum Vitae</a></li>
+                <li><a href="#Linktree">Linktree</a></li>
+            </ul>
+        </nav>
+        <a href="https://www.youtube.com/@Pandorelol"><img src="pandore.jpg.jfif" alt="Image de profil"></a>
+    </header>
+
+    <!-- Section Discours -->
+    <section id="presentation">
+        <h3>Présentation</h3>
+        <p>Bonjour, je me nomme Charly Gallais, je suis un apprenant passionné par le développement web. J'ai commencé à
+            apprendre la programmation durant mon adolescence et j'espère pouvoir en acquérir d'avantages lors de mon BTS SIO :3.</p>
+    </section>
+
+    <!-- Section Compétences -->
+    <section id="competences">
+        <h3>Compétences</h3>
+        <ul>
+            <li>HTML <progress value="50" max="100"></progress></li>
+            <li>CSS <progress value="30" max="100"></progress></li>
+            <li>JavaScript <progress value="0" max="100"></progress></li>
+            <li>Python <progress value="70" max="100"></progress></li>
+            <li>Motivation <progress value="100" max="100"></progress></li>
+        </ul>
+    </section>
+
+    <!-- Section Projets -->
+    <section id="projets">
+        <h3>Projets</h2>
+        <article>
+            <h5>Projet réalisé lors de mon parcours scolaire :</h3>
+            <figure>
+                <div>
+                <img src="Projet.jpg" alt="Image de projet">
+                </figure></div>
+                <figcaption>J'ai pu réalisé plusieurs projets en NSI, que ce soir des petits jeux en python ou des sites web personalisés .</figcaption>
+            </figure>
+            
+            
+        </article>
+    </section>
+
+    <!-- Section Contact -->
+    <section id="contact">
+        <h3>Contact  </h3>
+        
+                
+              
+        </div></h3>
+        <form>
+            <label for="nom">Nom :</label>
+            <input type="text" id="nom" name="nom" required>
+
+            <label for="email">Email :</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="sujet">Sujet :</label>
+            <input type="text" id="sujet" name="sujet">
+
+            <label for="message">Message :</label>
+            <textarea id="message" name="message" required></textarea>
+            
+            <button type="submit">Envoyer </button>
+        </form>
+        <h4>  
+             <a href="https://www.linkedin.com/in/charly-gallais-276535230/" > 
+                <div class="Linkedin"><img src ="R.png" alt = "Image Linkedin "></div> Mon profil Linkedin 
+            </a>
+            
+            
+            
+        </h4>
+        
+    </section>
+    <section id="Curriculum Vitae">
+        <h3>Curriculum Vitae</h3>
+        <h6><a href = "Image.html" > <div class = "Téléchargement">
+            <img src ="[removal.ai]_4268a42a-89ff-403e-8006-e1f0c411819e-telechargement.png" alt = "Image de Téléchargement">
+        </h6>
+
+        </div>
+
+        </a>
+    </section>
+
+    <section id="Linktree">
+        <h3>Linktree</h3>
+        <div class = "Linktree"> <a href="https://charly-gallais.link.cam/#"> <h7> Lintree in one click</h7></a></div>
+    
+    </section>
+
+    <!-- Pied de page -->
+    <footer>
+        <p>Page créée dans le cadre d'un TP en BTS SIO.</p>
+       
+        <small>Gallais Charly</small>
+    </footer>
+</body>
+</html>
+
+
+        
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
