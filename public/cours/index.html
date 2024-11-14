@@ -469,10 +469,9 @@
     .card.original .discover-btn:hover .card-container .card .card:hover .title .tag .arrow-btn
     .arrow-btn:hover .card.passionc .discover-btn {
       display: flex;
-      justify-content: center;
-      align-items: center;
+      justify-content: left;
+      align-items: left;
       min-height: 100vh;
-      background-color: #f7f7f7;
       color: #121212;
     }
 
@@ -483,77 +482,67 @@
     a{
       color: #121212;
     }
-    .card-container {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
-      max-width: 1200px;
-      padding: 20px;
-    }
-  
-    .card {
-      position: relative;
-      padding: 20px;
-      border-radius: 25px;
-      color: #121212;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      transition: transform 0.3s;
-      cursor: pointer;
-    }
-  
-    .card:hover {
-      color: #121212;
-    }
-  
-    .title {
-      font-size: 24px;
-      font-weight: bold;
-    }
-  
-     
 
-    .arrow-btn {
-      position: absolute;
-      bottom: 20px;
-      right: 20px;
-      width: 24px;
-      height: 24px;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 18px;
-      color: white;
-      background-color: #3b5dc9;
-      transition: background-color 0.3s;
-    }
-  
-    .arrow-btn:hover {
-      color: #3b5dc9;
-    }
-  
-    .card.passion {
-      background-color: #fff5d6;
-    }
+    .card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  max-width: 1200px;
+  padding: 20px 20px 20px 0px;
+}
+
+.card {
+  position: relative;
+  padding: 20px;
+  border-radius: 25px;
+  color: #121212;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #ececec;
+  cursor: pointer;
+}
+
+.card.original:hover {
+  background-color: #ececec80;  
+  color: #fff;  
+  transition: ease-in 0.1s;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.arrow-btn {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: #ececec;
+  background-color: #3b5dc9;
+  transition: background-color 0.3s ease;
+  transition: ease-out 2s;
+}
+
+.arrow-btn:hover {
+  color: #3b5dc9;  
+  transition: ease-in-out 0.5s;
+}
   
     .card.original {
-      background-color: #dcdcdc;
+      background-color: #ececec;
+      transition: ease-out 0.1s;
     }
   
-    .card.rose {
-      background-color: #fdeae7;
-    }
-  
-    .card.mint {
-      background-color: #e4f2e4;
-    }
-  
-    .card.ginger {
-      background-color: #fdf1de;
-    }
 
+     
   
     .card img {
       width: 80px;
@@ -566,10 +555,19 @@
 </content>
 
   </main>
-  <footer><small>
-  Azamat (2024-2026) - made w/ Hugo
-</small>
-</footer>
+  <footer><small style="color: #121212;
+font-family: Arial, sans-serif;
+font-weight: 500;
+font-style: italic;
+font-size: 10px;
+position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;">
+
+  Azamat (2024-2026)
+
+</small></footer>
 
     
 </body>
