@@ -300,7 +300,7 @@
 
      
     .taskbar-button:hover {
-      background-color: #257179;
+      background-color: #3b5dc9;
       color: #ffffff;
     }
 
@@ -328,6 +328,12 @@
     <a href="/stages" class="taskbar-button">
       Stages
     </a> 
+
+<a href="/online-privacy" class="taskbar-button">
+  News
+</a> 
+
+    
   </div>
 
 </body>
@@ -336,12 +342,6 @@
   <main id="main-content">
 
 <h1>1 - Tableurs</h1>
-<p class="byline">
-  <time datetime='2024-09-13' pubdate>
-    2024-09-13
-  </time>
-  
-</p>
 
 <content>
   <script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
@@ -602,9 +602,32 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-4d9a3fd7" href="
 
 
   </main>
-  <footer><small>
-  Azamat (2024-2026) - made w/ Hugo
+  <footer><small style="
+  font-family: Arial, sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 10px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+" id="copyright-text">
+  Azamat (2024-2026)
 </small>
+
+<style>
+   
+  #copyright-text {
+    color: #121212;
+  }
+
+   
+  @media (prefers-color-scheme: dark) {
+    #copyright-text {
+      color: #ffffff;
+    }
+  }
+</style>
 </footer>
 
     

@@ -1,5 +1,5 @@
 ---
-title: "AP"
+title: "Ateliers de Professionnalisation"
 menu: ""
-weight: 8
+weight: 2
 ---

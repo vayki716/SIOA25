@@ -307,7 +307,7 @@ Compte-rendu du TP 1 : Installer et configurer Visual Studio Code pour le dével
 
      
     .taskbar-button:hover {
-      background-color: #257179;
+      background-color: #3b5dc9;
       color: #ffffff;
     }
 
@@ -335,6 +335,12 @@ Compte-rendu du TP 1 : Installer et configurer Visual Studio Code pour le dével
     <a href="/stages" class="taskbar-button">
       Stages
     </a> 
+
+<a href="/online-privacy" class="taskbar-button">
+  News
+</a> 
+
+    
   </div>
 
 </body>
@@ -343,12 +349,6 @@ Compte-rendu du TP 1 : Installer et configurer Visual Studio Code pour le dével
   <main id="main-content">
 
 <h1>TP1</h1>
-<p class="byline">
-  <time datetime='2024-09-13' pubdate>
-    2024-09-13
-  </time>
-  
-</p>
 
 <content>
   <p><a href="" download>Version PDF</a></p>
@@ -410,9 +410,32 @@ Compte-rendu du TP 1 : Installer et configurer Visual Studio Code pour le dével
 
 
   </main>
-  <footer><small>
-  Azamat (2024-2026) - made w/ Hugo
+  <footer><small style="
+  font-family: Arial, sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 10px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+" id="copyright-text">
+  Azamat (2024-2026)
 </small>
+
+<style>
+   
+  #copyright-text {
+    color: #121212;
+  }
+
+   
+  @media (prefers-color-scheme: dark) {
+    #copyright-text {
+      color: #ffffff;
+    }
+  }
+</style>
 </footer>
 
     

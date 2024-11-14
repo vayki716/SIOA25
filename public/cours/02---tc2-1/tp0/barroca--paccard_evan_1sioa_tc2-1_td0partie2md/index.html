@@ -300,7 +300,7 @@
 
      
     .taskbar-button:hover {
-      background-color: #257179;
+      background-color: #3b5dc9;
       color: #ffffff;
     }
 
@@ -328,6 +328,12 @@
     <a href="/stages" class="taskbar-button">
       Stages
     </a> 
+
+<a href="/online-privacy" class="taskbar-button">
+  News
+</a> 
+
+    
   </div>
 
 </body>
@@ -336,12 +342,6 @@
   <main id="main-content">
 
 <h1>TD0 (Partie 2)</h1>
-<p class="byline">
-  <time datetime='2024-09-13' pubdate>
-    2024-09-13
-  </time>
-  
-</p>
 
 <content>
   <h1 id="compte-rendu-du-td-0--decouverte-de-la-base-de-donnees-de-la-societe-infodev">Compte-rendu du TD 0 : Decouverte de la base de donnees de la societe InfoDev</h1>
@@ -375,9 +375,32 @@ WHERE CP like &lsquo;16%&rsquo;;</p>
 
 
   </main>
-  <footer><small>
-  Azamat (2024-2026) - made w/ Hugo
+  <footer><small style="
+  font-family: Arial, sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 10px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+" id="copyright-text">
+  Azamat (2024-2026)
 </small>
+
+<style>
+   
+  #copyright-text {
+    color: #121212;
+  }
+
+   
+  @media (prefers-color-scheme: dark) {
+    #copyright-text {
+      color: #ffffff;
+    }
+  }
+</style>
 </footer>
 
     
