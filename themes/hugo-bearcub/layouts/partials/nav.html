@@ -1,21 +1,74 @@
-{{ range .Site.Menus.main.ByWeight }}
-  <a href="{{ .URL }}">{{ .Name }}</a>
-{{ end }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
 
-<!-- Convert this page's translations into a dict -->
-{{ $translations := dict }}
-{{ range .Translations }}
-  {{ $translations = merge $translations (dict .Language.Lang .) }}
-{{ end }}
+    /* Main container */
+    .taskbar {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0px;
+      padding: 3px 0px 3px 8px;
+      background-color: #ececec;
+      border-radius: 50px;
+      width: fit-content;
+    }
 
-<!-- Create a link to every translation -->
-{{ range where .Site.Languages "Lang" "!=" .Page.Lang }}
-  {{ with (index $translations .Lang) }}
-    <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
-  {{ else }}
-    <!-- The complicated setup was necessary to make a grayed out link -->
-    {{ if not .Params.hideUntranslated }}
-      <a class="disabled" role="link" aria-disabled="true">{{ .LanguageName }}</a>
-    {{ end }}
-  {{ end }}
-{{ end }}
+    /* Individual button styles */
+    .taskbar-button {
+      position: relative; /* Required for positioning the dot */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: fit-content;
+      height: 30px;
+      padding: 0px 6px 0px 6px; /* Left padding to make space for the dot */
+      border-radius: 50px;
+      text-align: center;
+      background-color: #ffffff00;
+      color: #000;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+      transition: transform 0.2s, background-color 0.2s, color 0.2s;
+    }
+
+
+
+    /* Hover effect */
+    .taskbar-button:hover {
+      background-color: #257179;
+      color: #ffffff;
+    }
+
+ 
+
+  </style>
+</head>
+<body>
+
+  <!-- Taskbar container -->
+  <div class="taskbar">
+    <!-- Button 1 -->
+    <a href="/" class="taskbar-button">
+      Home
+    </a>
+    <!-- Button 2 -->
+    <a href="/cours/" class="taskbar-button">
+      Cours
+    </a>
+    <!-- Button 3 -->
+    <a href="/agenda" class="taskbar-button">
+      Agenda
+    </a>
+    <!-- Button 4 -->
+    <a href="/stages" class="taskbar-button">
+      Stages
+    </a> 
+  </div>
+
+</body>
+</html>

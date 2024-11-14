@@ -1,0 +1,19 @@
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+  icon = "home-outline"  # Custom icon name for Home
+
+[[menu.main]]
+  name = "Cours"
+  url = "/"
+  weight = 1
+  icon = "home-outline"  # Custom icon name for Home
+
+  [[menu.main]]
+  name = "Search"
+  url = "/search"
+  weight = 2
+  icon = "search-outline"  # Custom icon name for Search

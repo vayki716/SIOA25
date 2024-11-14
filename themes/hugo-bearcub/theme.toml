@@ -27,3 +27,9 @@ features = ["favicon", "seo", "no javascript", "rss", "social cards"]
 [module]
   [module.hugoVersion]
     min = "0.90"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+  icon = "home-outline"
