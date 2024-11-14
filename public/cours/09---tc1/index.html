@@ -232,67 +232,287 @@
   <header><a class="skip-link" href="#main-content">Skip to main content</a>
 
 <a href="/" class="title"><h1></h1></a>
-<nav>
-  <a href="/">Home</a>
+<nav><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
 
-  <a href="/cours/">Cours</a>
+     
+    .taskbar {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0px;
+      padding: 3px 0px 3px 8px;
+      background-color: #ececec;
+      border-radius: 50px;
+      width: fit-content;
+    }
 
-  <a href="/agenda/">Agenda</a>
+     
+    .taskbar-button {
+      position: relative;  
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: fit-content;
+      height: 30px;
+      padding: 0px 6px 0px 6px;  
+      border-radius: 50px;
+      text-align: center;
+      background-color: #ffffff00;
+      color: #000;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+      transition: transform 0.2s, background-color 0.2s, color 0.2s;
+    }
 
-  <a href="/stages/">Stages</a>
-
-  <a href="/online-privacy/">Online Privacy</a>
 
 
+     
+    .taskbar-button:hover {
+      background-color: #3b5dc9;
+      color: #ffffff;
+    }
 
+ 
 
+  </style>
+</head>
+<body>
 
+  
+  <div class="taskbar">
+    
+    <a href="/" class="taskbar-button">
+      Home
+    </a>
+    
+    <a href="/cours/" class="taskbar-button">
+      Cours
+    </a>
+    
+    <a href="/agenda" class="taskbar-button">
+      Agenda
+    </a>
+    
+    <a href="/stages" class="taskbar-button">
+      Stages
+    </a> 
+  </div>
 
-
-
-</nav>
+</body>
+</html></nav>
 </header>
   <main id="main-content">
 <content>
+
   
-  <ul class="blog-posts">
+
+
+  <div class="card-container">
+
     
-    <li>
-      
-        <a href="/cours/09---tc1/ch1/cours/cours-1---syst%C3%A8me-dexploitation-se--operating-system-os/">Cours 1 - Système d’Exploitation (SE) &amp; Operating System (OS)</a>
-      
-    </li>
     
-    <li>
       
-        <a href="/cours/09---tc1/ch1/cours/cours-2---d%C3%A9couverte-du-syst%C3%A8me-dexploitation-linux/">Cours 2 - Découverte du Système d’Exploitation Linux</a>
+    <div class="card original">
       
-    </li>
+      <a href="/cours/09---tc1/ch1/cours/cours-1---syst%C3%A8me-dexploitation-se--operating-system-os/" class="discover-btn">
+        
+        <div class="title">Cours 1 - Système d’Exploitation (SE) &amp; Operating System (OS)</div>
+        
+        
+        
+
+          <div class="arrow-btn">→</div>
+      
+      </a>
+     
+      </div>
+
+
     
-    <li>
-      
-        <a href="/cours/09---tc1/ch0/tp0/tp0/">TP0</a>
-      
-    </li>
     
-    <li>
       
-        <a href="/cours/09---tc1/ch1/tp2/barroca--paccard_evan_1sioa_tc1_tp2/">TP2</a>
+    <div class="card original">
       
-    </li>
+      <a href="/cours/09---tc1/ch1/cours/cours-2---d%C3%A9couverte-du-syst%C3%A8me-dexploitation-linux/" class="discover-btn">
+        
+        <div class="title">Cours 2 - Découverte du Système d’Exploitation Linux</div>
+        
+        
+        
+
+          <div class="arrow-btn">→</div>
+      
+      </a>
+     
+      </div>
+
+
     
-  </ul>
+    
+      
+    <div class="card original">
+      
+      <a href="/cours/09---tc1/ch0/tp0/tp0/" class="discover-btn">
+        
+        <div class="title">TP0</div>
+        
+        
+        
+
+          <div class="arrow-btn">→</div>
+      
+      </a>
+     
+      </div>
+
+
+    
+    
+      
+    <div class="card original">
+      
+      <a href="/cours/09---tc1/ch1/tp2/barroca--paccard_evan_1sioa_tc1_tp2/" class="discover-btn">
+        
+        <div class="title">TP2</div>
+        
+        
+        
+
+          <div class="arrow-btn">→</div>
+      
+      </a>
+     
+      </div>
+
+
+    
+  </div>
+
   
     <div>
       
     </div>
   
+
+  <style>
+    .card.original .discover-btn:hover .card-container .card .card:hover .title .tag .arrow-btn
+    .arrow-btn:hover .card.passionc .discover-btn {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+  
+    .card.original .discover-btn:hover .card-container .card .card:hover .title .tag .arrow-btn
+    .arrow-btn:hover .card.passionc .discover-btn {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background-color: #f7f7f7;
+      color: #121212;
+    }
+
+    *{
+      text-decoration: none;
+    }
+  
+    a{
+      color: #121212;
+    }
+    .card-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      max-width: 1200px;
+      padding: 20px;
+    }
+  
+    .card {
+      position: relative;
+      padding: 20px;
+      border-radius: 25px;
+      color: #121212;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: transform 0.3s;
+      cursor: pointer;
+    }
+  
+    .card:hover {
+      color: #121212;
+    }
+  
+    .title {
+      font-size: 24px;
+      font-weight: bold;
+    }
+  
+     
+
+    .arrow-btn {
+      position: absolute;
+      bottom: 20px;
+      right: 20px;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      color: white;
+      background-color: #3b5dc9;
+      transition: background-color 0.3s;
+    }
+  
+    .arrow-btn:hover {
+      color: #3b5dc9;
+    }
+  
+    .card.passion {
+      background-color: #fff5d6;
+    }
+  
+    .card.original {
+      background-color: #dcdcdc;
+    }
+  
+    .card.rose {
+      background-color: #fdeae7;
+    }
+  
+    .card.mint {
+      background-color: #e4f2e4;
+    }
+  
+    .card.ginger {
+      background-color: #fdf1de;
+    }
+
+  
+    .card img {
+      width: 80px;
+      height: auto;
+      margin-top: 20px;
+    }
+   
+  </style>
+
 </content>
 
   </main>
   <footer><small>
   Azamat (2024-2026) - made w/ Hugo
-</small></footer>
+</small>
+</footer>
 
     
 </body>

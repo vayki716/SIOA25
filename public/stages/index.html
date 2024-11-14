@@ -273,7 +273,7 @@
 
      
     .taskbar-button:hover {
-      background-color: #257179;
+      background-color: #3b5dc9;
       color: #ffffff;
     }
 
@@ -308,19 +308,19 @@
 </header>
   <main id="main-content">
 <content>
-  
-  
 
   
-  <ul class="blog-posts">
-    
-    <li>
-      No posts yet
-    </li>
-    
-  </ul>
 
-  
+
+  <div class="card-container">
+
+    
+      <div class="card">
+        <div class="title">No posts yet</div>
+      </div>
+    
+  </div>
+
   
     <div>
       
@@ -343,8 +343,16 @@
       align-items: center;
       min-height: 100vh;
       background-color: #f7f7f7;
+      color: #121212;
+    }
+
+    *{
+      text-decoration: none;
     }
   
+    a{
+      color: #121212;
+    }
     .card-container {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
@@ -357,7 +365,7 @@
       position: relative;
       padding: 20px;
       border-radius: 25px;
-      color: #333;
+      color: #121212;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -366,7 +374,7 @@
     }
   
     .card:hover {
-      transform: scale(1.05);
+      color: #121212;
     }
   
     .title {
@@ -374,12 +382,8 @@
       font-weight: bold;
     }
   
-    .tag {
-      font-size: 14px;
-      margin-top: 5px;
-      color: #666;
-    }
-  
+     
+
     .arrow-btn {
       position: absolute;
       bottom: 20px;
@@ -392,12 +396,12 @@
       justify-content: center;
       font-size: 18px;
       color: white;
-      background-color: #333;
+      background-color: #3b5dc9;
       transition: background-color 0.3s;
     }
   
     .arrow-btn:hover {
-      background-color: #666;
+      color: #3b5dc9;
     }
   
     .card.passion {
@@ -419,82 +423,23 @@
     .card.ginger {
       background-color: #fdf1de;
     }
-  
-    .card.vodka {
-      background-color: #000;
-      color: white;
-    }
+
   
     .card img {
       width: 80px;
       height: auto;
       margin-top: 20px;
     }
-  
-    .discover-btn {
-      position: absolute;
-      bottom: 20px;
-      left: 20px;
-      padding: 6px 12px;
-      background-color: #333;
-      color: #fff;
-      font-size: 14px;
-      border-radius: 15px;
-      text-decoration: none;
-      transition: background-color 0.3s;
-    }
-  
-    .discover-btn:hover {
-      background-color: #666;
-    }
+   
   </style>
 
-  
-  <div class="card-container">
-    <div class="card passion">
-      <div class="title">passion</div>
-      <div class="tag">new and improved recipe</div>
-      <img src="https://via.placeholder.com/80" alt="Mate Libre Passion">
-      <div class="arrow-btn">→</div>
-    </div>
-
-    <div class="card original">
-      <div class="title">original</div>
-      <img src="https://via.placeholder.com/80" alt="Mate Libre Original">
-      <a href="#" class="discover-btn">discover →</a>
-    </div>
-
-    <div class="card rose">
-      <div class="title">rose & hibiscus</div>
-      <img src="https://via.placeholder.com/80" alt="Mate Libre Rose & Hibiscus">
-      <div class="arrow-btn">→</div>
-    </div>
-
-    <div class="card mint">
-      <div class="title">mint & lime</div>
-      <img src="https://via.placeholder.com/80" alt="Mate Libre Mint & Lime">
-      <div class="arrow-btn">→</div>
-    </div>
-
-    <div class="card ginger">
-      <div class="title">ginger</div>
-      <div class="tag">zero sugar</div>
-      <img src="https://via.placeholder.com/80" alt="Mate Libre Ginger">
-      <div class="arrow-btn">→</div>
-    </div>
-
-    <div class="card vodka">
-      <div class="title">mate & vodka</div>
-      <img src="https://via.placeholder.com/80" alt="Mate Libre Vodka">
-      <div class="arrow-btn">→</div>
-    </div>
-  </div>
 </content>
 
   </main>
   <footer><small>
   Azamat (2024-2026) - made w/ Hugo
-</small></footer>
+</small>
+</footer>
 
     
 </body>
