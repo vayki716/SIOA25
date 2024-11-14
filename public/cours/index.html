@@ -310,105 +310,189 @@
   <main id="main-content">
 <content>
   
+  
+
+  
   <ul class="blog-posts">
     
-    <li>
-      <span>
-        <i>
-          <time datetime='2024-09-13' pubdate>
-            2024-09-13
-          </time>
-        </i>
-      </span>
-      
-        <a href="/cours/09---tc1/">TC1</a>
-      
-    </li>
     
-    <li>
-      <span>
-        <i>
-          <time datetime='2024-09-13' pubdate>
-            2024-09-13
-          </time>
-        </i>
-      </span>
-      
-        <a href="/cours/02---tc2-1/">TC2-1</a>
-      
-    </li>
     
-    <li>
-      <span>
-        <i>
-          <time datetime='2024-09-13' pubdate>
-            2024-09-13
-          </time>
-        </i>
-      </span>
-      
-        <a href="/cours/01---tc2-2/">TC2-2</a>
-      
-    </li>
     
-    <li>
-      <span>
-        <i>
-          <time datetime='2024-09-13' pubdate>
-            2024-09-13
-          </time>
-        </i>
-      </span>
-      
-        <a href="/cours/03---tc3/">TC3</a>
-      
-    </li>
     
-    <li>
-      <span>
-        <i>
-          <time datetime='0001-01-01' pubdate>
-            0001-01-01
-          </time>
-        </i>
-      </span>
-      
-        <a href="/cours/04---cult.-eco.-jur.-mana./">CEJM</a>
-      
-    </li>
     
-    <li>
-      <span>
-        <i>
-          <time datetime='2024-09-13' pubdate>
-            2024-09-13
-          </time>
-        </i>
-      </span>
-      
-        <a href="/cours/02---ateliers-professionalisants/">AP</a>
-      
-    </li>
     
-    <li>
-      <span>
-        <i>
-          <time datetime='2024-09-13' pubdate>
-            2024-09-13
-          </time>
-        </i>
-      </span>
-      
-        <a href="/cours/06---parcours-certification/">Certification</a>
-      
-    </li>
     
   </ul>
+
+  
   
     <div>
       
     </div>
   
+
+  <style>
+    .card.original .discover-btn:hover .card-container .card .card:hover .title .tag .arrow-btn
+    .arrow-btn:hover .card.passionc .discover-btn {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+  
+    .card.original .discover-btn:hover .card-container .card .card:hover .title .tag .arrow-btn
+    .arrow-btn:hover .card.passionc .discover-btn {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background-color: #f7f7f7;
+    }
+  
+    .card-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      max-width: 1200px;
+      padding: 20px;
+    }
+  
+    .card {
+      position: relative;
+      padding: 20px;
+      border-radius: 25px;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: transform 0.3s;
+      cursor: pointer;
+    }
+  
+    .card:hover {
+      transform: scale(1.05);
+    }
+  
+    .title {
+      font-size: 24px;
+      font-weight: bold;
+    }
+  
+    .tag {
+      font-size: 14px;
+      margin-top: 5px;
+      color: #666;
+    }
+  
+    .arrow-btn {
+      position: absolute;
+      bottom: 20px;
+      right: 20px;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      color: white;
+      background-color: #333;
+      transition: background-color 0.3s;
+    }
+  
+    .arrow-btn:hover {
+      background-color: #666;
+    }
+  
+    .card.passion {
+      background-color: #fff5d6;
+    }
+  
+    .card.original {
+      background-color: #dcdcdc;
+    }
+  
+    .card.rose {
+      background-color: #fdeae7;
+    }
+  
+    .card.mint {
+      background-color: #e4f2e4;
+    }
+  
+    .card.ginger {
+      background-color: #fdf1de;
+    }
+  
+    .card.vodka {
+      background-color: #000;
+      color: white;
+    }
+  
+    .card img {
+      width: 80px;
+      height: auto;
+      margin-top: 20px;
+    }
+  
+    .discover-btn {
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
+      padding: 6px 12px;
+      background-color: #333;
+      color: #fff;
+      font-size: 14px;
+      border-radius: 15px;
+      text-decoration: none;
+      transition: background-color 0.3s;
+    }
+  
+    .discover-btn:hover {
+      background-color: #666;
+    }
+  </style>
+
+  
+  <div class="card-container">
+    <div class="card passion">
+      <div class="title">passion</div>
+      <div class="tag">new and improved recipe</div>
+      <img src="https://via.placeholder.com/80" alt="Mate Libre Passion">
+      <div class="arrow-btn">→</div>
+    </div>
+
+    <div class="card original">
+      <div class="title">original</div>
+      <img src="https://via.placeholder.com/80" alt="Mate Libre Original">
+      <a href="#" class="discover-btn">discover →</a>
+    </div>
+
+    <div class="card rose">
+      <div class="title">rose & hibiscus</div>
+      <img src="https://via.placeholder.com/80" alt="Mate Libre Rose & Hibiscus">
+      <div class="arrow-btn">→</div>
+    </div>
+
+    <div class="card mint">
+      <div class="title">mint & lime</div>
+      <img src="https://via.placeholder.com/80" alt="Mate Libre Mint & Lime">
+      <div class="arrow-btn">→</div>
+    </div>
+
+    <div class="card ginger">
+      <div class="title">ginger</div>
+      <div class="tag">zero sugar</div>
+      <img src="https://via.placeholder.com/80" alt="Mate Libre Ginger">
+      <div class="arrow-btn">→</div>
+    </div>
+
+    <div class="card vodka">
+      <div class="title">mate & vodka</div>
+      <img src="https://via.placeholder.com/80" alt="Mate Libre Vodka">
+      <div class="arrow-btn">→</div>
+    </div>
+  </div>
 </content>
 
   </main>
