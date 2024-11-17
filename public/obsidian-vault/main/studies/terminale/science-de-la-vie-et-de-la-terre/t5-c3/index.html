@@ -279,6 +279,9 @@ Problématique : Comment s’est réalisée la domestication des plantes ?">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  
   <style>
      
     .taskbar {
@@ -315,12 +318,14 @@ Problématique : Comment s’est réalisée la domestication des plantes ?">
     .taskbar-button:hover {
       background-color: #3b5dc9;
       color: #ffffff;
+      transition: ease-out 1s;
     }
 
      
     .taskbar-button.active {
       background-color: #3b5dc9;
       color: #ffffff;
+      transition: ease-out 1s;
     }
   </style>
 </head>
@@ -328,37 +333,47 @@ Problématique : Comment s’est réalisée la domestication des plantes ?">
 
   
   <div class="taskbar">
+    
     <a href="/" class="taskbar-button">
       Home
     </a>
-    <a href="/cours/" class="taskbar-button">
-      Cours
+    
+    <a href="/projects/" class="taskbar-button">
+      Projects
     </a>
-    <a href="/agenda" class="taskbar-button">
-      Agenda
+    
+    <a href="/blog/" class="taskbar-button">
+      Blog
     </a>
-    <a href="/stages" class="taskbar-button">
-      Stages
-    </a>
-    <a href="/online-privacy" class="taskbar-button">
-      News
-    </a>
+    
+    <a href="/notes.heademptystoragefull.com/" class="taskbar-button">
+      Studies
+    </a> 
+    
+    <a href="/me/" class="taskbar-button">
+      Me
+    </a> 
   </div>
 
   <script>
     
-    const taskbarButtons = document.querySelectorAll('.taskbar-button');
+    document.addEventListener('DOMContentLoaded', () => {
+      
+      const buttons = document.querySelectorAll('.taskbar-button');
 
-    
-    const currentPath = window.location.pathname;
+      
+      const currentPath = window.location.pathname;
 
-    
-    taskbarButtons.forEach(button => {
-      if (button.getAttribute('href') === currentPath) {
-        button.classList.add('active');
-      }
+      
+      buttons.forEach(button => {
+        if (button.getAttribute('href') === currentPath) {
+          button.classList.add('active');
+        }
+      });
     });
-  </script>
+
+  </script> 
+
 
 </body>
 </html>

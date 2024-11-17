@@ -5,90 +5,84 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/01---tc2-2/</loc>
+    <loc>http://localhost:1313/studies/01---tc2-2/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/02---ateliers-professionalisants/</loc>
+    <loc>http://localhost:1313/studies/02---ateliers-professionalisants/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/</loc>
+    <loc>http://localhost:1313/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/02---tc2-1/</loc>
+    <loc>http://localhost:1313/studies/02---tc2-1/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/agenda/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cours/03---tc3/</loc>
+    <loc>http://localhost:1313/studies/03---tc3/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stages/</loc>
-  </url><url>
-    <loc>http://localhost:1313/online-privacy/</loc>
+    <loc>http://localhost:1313/studies/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/09---tc1/</loc>
+    <loc>http://localhost:1313/me/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/09---tc1/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/02---ateliers-professionalisants/100---tableur/barroca--paccard_evan_1sioa_ap_tableurs/</loc>
+    <loc>http://localhost:1313/studies/02---ateliers-professionalisants/100---tableur/barroca--paccard_evan_1sioa_ap_tableurs/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/02---ateliers-professionalisants/200---editeur-de-texte/barroca--paccard_evan_1sioa_ap_traitement_de_texte/</loc>
+    <loc>http://localhost:1313/studies/02---ateliers-professionalisants/200---editeur-de-texte/barroca--paccard_evan_1sioa_ap_traitement_de_texte/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/03---tc3/ch2/mission-2/barroca--paccard_evan_1sioa_tc3_mission2/</loc>
+    <loc>http://localhost:1313/studies/03---tc3/ch2/mission-2/barroca--paccard_evan_1sioa_tc3_mission2/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/online-privacy/colors/</loc>
+    <loc>http://localhost:1313/blog/colors/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/02---tc2-1/cours-sql/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</loc>
+    <loc>http://localhost:1313/studies/02---tc2-1/cours-sql/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/02---tc2-1/cours-sql/cours-1/</loc>
+    <loc>http://localhost:1313/studies/02---tc2-1/cours-sql/cours-1/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/09---tc1/ch1/cours/cours-1---syst%C3%A8me-dexploitation-se--operating-system-os/</loc>
+    <loc>http://localhost:1313/studies/09---tc1/ch1/cours/cours-1---syst%C3%A8me-dexploitation-se--operating-system-os/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/09---tc1/ch1/cours/cours-2---d%C3%A9couverte-du-syst%C3%A8me-dexploitation-linux/</loc>
+    <loc>http://localhost:1313/studies/09---tc1/ch1/cours/cours-2---d%C3%A9couverte-du-syst%C3%A8me-dexploitation-linux/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/online-privacy/pdf/</loc>
+    <loc>http://localhost:1313/blog/pdf/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</loc>
+    <loc>http://localhost:1313/studies/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie1md/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie2md/</loc>
+    <loc>http://localhost:1313/studies/02---tc2-1/tp0/barroca--paccard_evan_1sioa_tc2-1_td0partie2md/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/09---tc1/ch0/tp0/tp0/</loc>
+    <loc>http://localhost:1313/studies/09---tc1/ch0/tp0/tp0/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/01---tc2-2/100---edi-python/001---tp1/barroca--paccard_evan_1sioa_tc2-2_tp1/</loc>
+    <loc>http://localhost:1313/studies/01---tc2-2/100---edi-python/001---tp1/barroca--paccard_evan_1sioa_tc2-2_tp1/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/02---tc2-1/tp1/barroca--paccard_evan_1sioa_tc2-1_tp1/</loc>
+    <loc>http://localhost:1313/studies/02---tc2-1/tp1/barroca--paccard_evan_1sioa_tc2-1_tp1/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/01---tc2-2/200---variables-affectations-entrees--sorties-standard/001---tp2/barroca--paccard_evan_1sioa_tc2-2_tp2/</loc>
+    <loc>http://localhost:1313/studies/01---tc2-2/200---variables-affectations-entrees--sorties-standard/001---tp2/barroca--paccard_evan_1sioa_tc2-2_tp2/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/02---tc2-1/tp2/barroca--paccard_evan_1sioa_tc2-1_tp2/</loc>
+    <loc>http://localhost:1313/studies/02---tc2-1/tp2/barroca--paccard_evan_1sioa_tc2-1_tp2/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/09---tc1/ch1/tp2/barroca--paccard_evan_1sioa_tc1_tp2/</loc>
+    <loc>http://localhost:1313/studies/09---tc1/ch1/tp2/barroca--paccard_evan_1sioa_tc1_tp2/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cours/02---tc2-1/tp3/barroca--paccard_evan_1sioa_tc2-1_tp3/</loc>
+    <loc>http://localhost:1313/studies/02---tc2-1/tp3/barroca--paccard_evan_1sioa_tc2-1_tp3/</loc>
     <lastmod>2024-09-13T22:52:58+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cours/02---ateliers-professionalisants/300---html-css/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cours/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/image/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cours/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/web/</loc>
   </url><url>
     <loc>http://localhost:1313/obsidian-vault/main/home/</loc>
   </url><url>
@@ -145,6 +139,12 @@
     <loc>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t5-c3/</loc>
   </url><url>
     <loc>http://localhost:1313/obsidian-vault/main/studies/windows/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/02---ateliers-professionalisants/300---html-css/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/image/</loc>
+  </url><url>
+    <loc>http://localhost:1313/studies/02---ateliers-professionalisants/400---recherche-de-stage-cv-et-lm/blog-pinox/web/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
