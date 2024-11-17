@@ -1,5 +1,5 @@
 ---
-title: "Stages"
+title: "Studies"
 menu: "main"
 weight: 4
 ---

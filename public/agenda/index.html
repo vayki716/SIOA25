@@ -6,8 +6,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="shortcut icon" href="http://localhost:1313/images/favicon.ico" />
-<title>Agenda | </title>
-<meta name="title" content="Agenda" />
+<title>Projects | </title>
+<meta name="title" content="Projects" />
 <meta name="description" content="" />
 <meta name="author" content="" />
 <meta name="keywords" content="" />
@@ -20,7 +20,7 @@
   
   <meta property="og:url" content="http://localhost:1313/agenda/">
   <meta property="og:site_name" content="SIO 24/26">
-  <meta property="og:title" content="Agenda">
+  <meta property="og:title" content="Projects">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="website">
     <meta property="og:image" content="http://localhost:1313/images/share.webp">
@@ -30,12 +30,12 @@
   
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="http://localhost:1313/images/share.webp">
-  <meta name="twitter:title" content="Agenda">
+  <meta name="twitter:title" content="Projects">
 
 
   
   
-  <meta itemprop="name" content="Agenda">
+  <meta itemprop="name" content="Projects">
   <meta itemprop="image" content="http://localhost:1313/images/share.webp">
 
 <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -236,8 +236,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
 
+
+  
+  <style>
      
     .taskbar {
       display: flex;
@@ -273,36 +275,17 @@
     .taskbar-button:hover {
       background-color: #3b5dc9;
       color: #ffffff;
+      transition: ease-out 1s;
     }
 
-
- 
-
+     
+    .taskbar-button.active {
+      background-color: #3b5dc9;
+      color: #ffffff;
+      transition: ease-out 1s;
+    }
   </style>
-
-<script>
-  
-  const buttons = document.querySelectorAll('.taskbar-button');
-
-  
-  buttons.forEach(button => {
-    button.addEventListener('click', function () {
-      
-      buttons.forEach(btn => btn.classList.remove('active'));
-
-      
-      this.classList.add('active');
-    });
-  });
-
-
-</script>
-
-<script>NekoType="white"</script>
-<script src="https://webneko.net/n20171213.js"></script>
-
 </head>
-
 <body>
 
   
@@ -316,23 +299,42 @@
       Cours
     </a>
     
-    <a href="/agenda" class="taskbar-button">
+    <a href="/agenda/" class="taskbar-button">
       Agenda
     </a>
     
-    <a href="/stages" class="taskbar-button">
+    <a href="/stages/" class="taskbar-button">
       Stages
     </a> 
-
-<a href="/online-privacy" class="taskbar-button">
-  News
-</a> 
-
     
+    <a href="/online-privacy/" class="taskbar-button">
+      News
+    </a> 
   </div>
 
+  <script>
+    
+    document.addEventListener('DOMContentLoaded', () => {
+      
+      const buttons = document.querySelectorAll('.taskbar-button');
+
+      
+      const currentPath = window.location.pathname;
+
+      
+      buttons.forEach(button => {
+        if (button.getAttribute('href') === currentPath) {
+          button.classList.add('active');
+        }
+      });
+    });
+
+  </script> 
+
+
 </body>
-</html></nav>
+</html>
+</nav>
 </header>
   <main id="main-content">
 <content>

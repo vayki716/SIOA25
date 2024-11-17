@@ -248,8 +248,10 @@ The internet has become a bloated mess. Huge JavaScript libraries, countless cli
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
 
+
+  
+  <style>
      
     .taskbar {
       display: flex;
@@ -285,36 +287,17 @@ The internet has become a bloated mess. Huge JavaScript libraries, countless cli
     .taskbar-button:hover {
       background-color: #3b5dc9;
       color: #ffffff;
+      transition: ease-out 1s;
     }
 
-
- 
-
+     
+    .taskbar-button.active {
+      background-color: #3b5dc9;
+      color: #ffffff;
+      transition: ease-out 1s;
+    }
   </style>
-
-<script>
-  
-  const buttons = document.querySelectorAll('.taskbar-button');
-
-  
-  buttons.forEach(button => {
-    button.addEventListener('click', function () {
-      
-      buttons.forEach(btn => btn.classList.remove('active'));
-
-      
-      this.classList.add('active');
-    });
-  });
-
-
-</script>
-
-<script>NekoType="white"</script>
-<script src="https://webneko.net/n20171213.js"></script>
-
 </head>
-
 <body>
 
   
@@ -328,36 +311,76 @@ The internet has become a bloated mess. Huge JavaScript libraries, countless cli
       Cours
     </a>
     
-    <a href="/agenda" class="taskbar-button">
+    <a href="/agenda/" class="taskbar-button">
       Agenda
     </a>
     
-    <a href="/stages" class="taskbar-button">
+    <a href="/stages/" class="taskbar-button">
       Stages
     </a> 
-
-<a href="/online-privacy" class="taskbar-button">
-  News
-</a> 
-
     
+    <a href="/online-privacy/" class="taskbar-button">
+      News
+    </a> 
   </div>
 
+  <script>
+    
+    document.addEventListener('DOMContentLoaded', () => {
+      
+      const buttons = document.querySelectorAll('.taskbar-button');
+
+      
+      const currentPath = window.location.pathname;
+
+      
+      buttons.forEach(button => {
+        if (button.getAttribute('href') === currentPath) {
+          button.classList.add('active');
+        }
+      });
+    });
+
+  </script> 
+
+
 </body>
-</html></nav>
+</html>
+</nav>
 </header>
   <main id="main-content">
-<h1 id="ᕦʕ-ᴥʔᕤ-bear-cub">ᕦʕ •ᴥ•ʔᕤ Bear Cub</h1>
-<p>Today&rsquo;s websites are bloated, slow, and full of scripts, ads, and trackers. This
-became so commonplace that we lost all sense of perspective, to the point that
-we now think multi-megabyte webpages are normal.</p>
-<blockquote>
-<p>The internet has become a bloated mess. Huge JavaScript libraries, countless
-client-side queries and overly complex frontend frameworks are par for the
-course these days.</p>
-<p>&mdash; <a href="https://512kb.club/">Kev Quirk</a></p>
-</blockquote>
+<content>
 
+    <style>
+        .gallery img {
+        }
+      </style>
+
+<h1>back soon.</h1>
+currently giving this website a new look & some new features.
+
+<br></br><br></br><br></br><br>
+  <div class="gallery">
+
+      <img src="/buttons/any2.gif" alt="any2">
+      <img src="/buttons/bob.gif" alt="">
+      <img src="/buttons/firefox1.6c3088df18ce.gif" alt="Firefox">
+      <img src="/buttons/wind_power.gif" alt="">
+      <img src="/buttons/ublockorigin.png" alt="uBlock Origin">
+      <img src="/buttons/queercoded.png" alt="">
+        <img src="/buttons/webdesign.e238b9266e91.png" alt="Web Design">
+
+
+
+
+
+ 
+
+
+
+  </div>
+
+</content>
 
   </main>
   <footer><small style="

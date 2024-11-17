@@ -1,5 +1,5 @@
 ---
-title: "Cours"
+title: "Projects"
 menu: "main"
 weight: 2
 ---

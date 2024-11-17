@@ -3,8 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
 
+
+  
+  <style>
     /* Main container */
     .taskbar {
       display: flex;
@@ -40,36 +42,17 @@
     .taskbar-button:hover {
       background-color: #3b5dc9;
       color: #ffffff;
+      transition: ease-out 1s;
     }
 
-
- 
-
+    /* Active state */
+    .taskbar-button.active {
+      background-color: #3b5dc9;
+      color: #ffffff;
+      transition: ease-out 1s;
+    }
   </style>
-
-<script>
-  // Get all taskbar buttons
-  const buttons = document.querySelectorAll('.taskbar-button');
-
-  // Add event listeners to handle the click
-  buttons.forEach(button => {
-    button.addEventListener('click', function () {
-      // Remove 'active' class from all buttons
-      buttons.forEach(btn => btn.classList.remove('active'));
-
-      // Add 'active' class to the clicked button
-      this.classList.add('active');
-    });
-  });
-
-
-</script>
-
-<script>NekoType="white"</script>
-<script src="https://webneko.net/n20171213.js"></script>
-
 </head>
-
 <body>
 
   <!-- Taskbar container -->
@@ -83,20 +66,38 @@
       Cours
     </a>
     <!-- Button 3 -->
-    <a href="/agenda" class="taskbar-button">
+    <a href="/agenda/" class="taskbar-button">
       Agenda
     </a>
     <!-- Button 4 -->
-    <a href="/stages" class="taskbar-button">
+    <a href="/stages/" class="taskbar-button">
       Stages
     </a> 
-<!-- Button 5 -->
-<a href="/online-privacy" class="taskbar-button">
-  News
-</a> 
-
-    
+    <!-- Button 5 -->
+    <a href="/online-privacy/" class="taskbar-button">
+      News
+    </a> 
   </div>
+
+  <script>
+    // Wait for DOM to load
+    document.addEventListener('DOMContentLoaded', () => {
+      // Get all taskbar buttons
+      const buttons = document.querySelectorAll('.taskbar-button');
+
+      // Get the current URL path
+      const currentPath = window.location.pathname;
+
+      // Add 'active' class to the button whose href matches the current path
+      buttons.forEach(button => {
+        if (button.getAttribute('href') === currentPath) {
+          button.classList.add('active');
+        }
+      });
+    });
+
+  </script> 
+
 
 </body>
 </html>

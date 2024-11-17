@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "studies/Terminale/Science de la Vie et de la Terre/T5-C3.md",
+                "file": "notes/Making the Website.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T5-C3"
+              "title": "Making the Website"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "studies/Terminale/Science de la Vie et de la Terre/T5-C3.md",
+                "file": "notes/Making the Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for T5-C3"
+              "title": "Backlinks for Making the Website"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "studies/Terminale/Science de la Vie et de la Terre/T5-C3.md",
+                "file": "notes/Making the Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from T5-C3"
+              "title": "Outgoing links from Making the Website"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "studies/Terminale/Science de la Vie et de la Terre/T5-C3.md"
+                "file": "notes/Making the Website.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of T5-C3"
+              "title": "Outline of Making the Website"
             }
           },
           {
@@ -177,6 +177,7 @@
   },
   "active": "65e576878823fbe9",
   "lastOpenFiles": [
+    "studies/Terminale/Science de la Vie et de la Terre/T5-C3.md",
     "studies/Terminale/Science de la Vie et de la Terre/T5-C2.md",
     "studies/Terminale/Science de la Vie et de la Terre/T5-C1.md",
     "studies/Terminale/Science de la Vie et de la Terre/T4-C2.md",
@@ -212,7 +213,6 @@
     "studies/Python.md",
     "studies/PHP.md",
     "studies/Linux.md",
-    "studies/JavaScript.md",
     "Untitled.canvas"
   ]
 }
