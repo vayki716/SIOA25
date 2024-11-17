@@ -281,18 +281,40 @@ The internet has become a bloated mess. Huge JavaScript libraries, countless cli
       transition: transform 0.2s, background-color 0.2s, color 0.2s;
     }
 
-
-
      
     .taskbar-button:hover {
       background-color: #3b5dc9;
       color: #ffffff;
     }
 
+
  
 
   </style>
+
+<script>
+  
+  const buttons = document.querySelectorAll('.taskbar-button');
+
+  
+  buttons.forEach(button => {
+    button.addEventListener('click', function () {
+      
+      buttons.forEach(btn => btn.classList.remove('active'));
+
+      
+      this.classList.add('active');
+    });
+  });
+
+
+</script>
+
+<script>NekoType="white"</script>
+<script src="https://webneko.net/n20171213.js"></script>
+
 </head>
+
 <body>
 
   

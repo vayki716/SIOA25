@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Obsidian Vaults on </title>
+    <link>http://localhost:1313/obsidian-vault/</link>
+    <description>Recent content in Obsidian Vaults on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Azamat (2024-2026)</copyright>
+    <atom:link href="http://localhost:1313/obsidian-vault/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/home/</guid>
+      <description>this is a work in progress!</description>
+      <content:encoded><![CDATA[<p>this is a work in progress!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/journal/24-11-17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/journal/24-11-17/</guid>
+      <description>Even if LibreOffice has been working fine for my notes so far, I do think something a little better for file managing and nicer to use wouldn&amp;rsquo;t hurt. Going back to notion will never be an option so I think Obsidian will be perfect.&#xA;I&amp;rsquo;ve also started to work on my website again, mainly because it&amp;rsquo;s due next week but also because it should help me get motivated to take classes on top of the one I go to at uni.</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>Even if LibreOffice has been working fine for my notes so far, I do think something a little better for file managing and nicer to use wouldn&rsquo;t hurt. Going back to notion will never be an option so I think Obsidian will be perfect.</p>
+</blockquote>
+<blockquote>
+<p>I&rsquo;ve also started to work on my website again, mainly because it&rsquo;s due next week but also because it should help me get motivated to take classes on top of the one I go to at uni. At least that&rsquo;s what I say, it&rsquo;s also just a lot of fun to code and work on a personal project like this one :P</p>
+</blockquote>
+<blockquote>
+<p>Hopefully I won&rsquo;t be writing this much every time I come here to talk, will have to figure out if I even keep a journal here or not. Anyway take care!</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/notes/making-the-website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/notes/making-the-website/</guid>
+      <description>A complete mess, guess that&amp;rsquo;s what notes are for right? right???&#xA;Tabs; Home, Projects, Blog, Studies (obsidian), Me&#xA;==Home;== simple page, little introduction or something, buttons&#xA;==Projects;== clean UI showcasing every projects&#xA;==Blog;== News + personal blog&#xA;==Studies;== Obsidian notes mainly&#xA;==Me;== Cute more personal page about me</description>
+      <content:encoded><![CDATA[<p><em>A complete mess, guess that&rsquo;s what notes are for right? right???</em></p>
+<p><strong>Tabs; Home, Projects, Blog, Studies (obsidian), Me</strong></p>
+<p>==<strong>Home;</strong>==
+simple page, little introduction or something, buttons</p>
+<p>==<strong>Projects;</strong>==
+clean UI showcasing every projects</p>
+<p>==<strong>Blog;</strong>==
+News + personal blog</p>
+<p>==<strong>Studies;</strong>==
+Obsidian notes mainly</p>
+<p>==<strong>Me;</strong>==
+Cute more personal page about me</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/css/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/html/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/javascript/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/linux/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/php/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/php/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/python/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/shell/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/sql/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/grand-oral/la-g%C3%A9nomique-reine-du-big-data-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/grand-oral/la-g%C3%A9nomique-reine-du-big-data-/</guid>
+      <description>![[grandoralsujet1.odt]] La génomique, reine du Big data ?&#xA;Introduction&#xA;pbq&#xA;definitions&#xA;Je vais vous presenter mon expose de grand oral sur la problematique «La génomique, reine du Big data ?». Alors pourquoi cette question et pourquoi c’est hypothese, avant d’y repondre il est important de bien comprendre les deux sujets de cette problematique en commenceant par le Big Data.&#xA;Le Big Data&#xA;big data anglais&#xA;concept 2000&#xA;traditionel → moderne</description>
+      <content:encoded><![CDATA[<p>![[grandoralsujet1.odt]]
+<strong>La génomique, reine du Big data ?</strong></p>
+<p><strong>Introduction</strong></p>
+<p><em>pbq</em></p>
+<p><em>definitions</em></p>
+<p>Je vais vous presenter mon expose de grand oral sur la problematique «La génomique, reine du Big data ?». Alors pourquoi cette question et pourquoi c’est hypothese, avant d’y repondre il est important de bien comprendre les deux sujets de cette problematique en commenceant par le Big Data.</p>
+<p><strong>Le Big Data</strong></p>
+<p><em>big data anglais</em></p>
+<p><em>concept 2000</em></p>
+<p><em>traditionel → moderne</em></p>
+<p>Big Data c’est une expression anglophone qui se traduit literallement par Grosses Donnees ou plutot par les megadonnees voir encore les donnees massives. Le Big Data est un concept qui nait environ au debut des annees 2000 a cause d’une situation bien precise.</p>
+<p>En fait, avec la hausse continue de production et de stockage de donnees informatiques, scientifiques et autres il devient impossible de traiter ces donnees de maniere traditionelle, lorsqu’on parle de maniere traditionelle on veut dire par exemple avec un seul ordinateur et un seul disque dur. Comme cela n’etait plus possible de nouvelles facons de reflechir le traitement et le stockage des donnees ont ete mise en place et c’est suite a cela que le concept de Big Data a ete invente.</p>
+<p><strong>Les 5 Grands V</strong></p>
+<p><em>general</em></p>
+<p><em>5 grands V</em></p>
+<p><em>volume</em></p>
+<p><em>velocitee</em></p>
+<p><em>varietee</em></p>
+<p><em>valeur</em></p>
+<p><em>veracitee</em></p>
+<p><em>mini ccl</em></p>
+<p>De facon general ce concept désigne donc d’un cote la production de plus en plus importante de données et de l’autre le développement de technologies capables de les traiter, mais pour mieux comprendre en detail ce qu’il represente vraiment il faut forcement parler des 5 grands V du Big Data. Les trois premiers sont les plus anciens et remontent a 2001;</p>
+<ul>
+<li>
+<p>En premier il y a le <strong>Volume</strong>, c’est l’idee la plus transparente; il y a de plus en plus de donnees et elles representent un volume de plus en plus important.</p>
+</li>
+<li>
+<p>En deuxieme nous avons la <strong>V****elocitee</strong>, c’est a dire que des quantitees enormes de donnes sont generees tres rappidement, on peut penser par exemple a TikTok ou FaceBook ou des millions de personnes like des posts au meme instant pendant toute la journee.</p>
+</li>
+<li>
+<p>Et en troisieme c’est la <strong>Varietee</strong> des donnees, c’est a dire que les informations ne sont plus seulement stockees dans des formats textes ou tableurs mais dans des formats tres variees. On appele ces donnes les donnes non structurees qui peuvent etre par exemple des images des audios ou des videos et qui s’opposent aux donnees structurees plus traditionelles.</p>
+</li>
+</ul>
+<p>Meme si ces trois points pourraient suffir a comprendre le Big Data, les choses changent tres vite et il me semble important aujourdhui de rajouter deux autres grands V a sa definition.</p>
+<ul>
+<li>
+<p>En quatrieme serait donc la <strong>Valeur</strong>; si les megadonnees n’avaient pas de valeurs, toutes les infrastructures materielles mais aussi les projets de recherche et bien d’autres choses ne pourraient pas exister et meme faire des profits. Pour la SNCF par exemple, les donnees sur les positions de leurs trains sont indispensables pour pouvoir organiser et gerer leurs lignes et ca aussi c’est du Big Data.</p>
+</li>
+<li>
+<p>Enfin le cinquieme V n’est autre que la <strong>V****eracitee</strong>, c’est a dire a quel point la donnee est fiable puisque les sources de production de donnees se multiplient il faut faire le tri et ne pas enregistrer de fausses donnees.</p>
+</li>
+</ul>
+<p>Evidement ces 5 V ne sont pas representatifs de l’entieretee du Big Data mais ils permettent de mieux comprendre ce que cela signifie en allant un peu plus loins. Mais alors quel lien faire avec la genomique et puis tout d’abord c’est quoi la genomique ?</p>
+<p><strong>Le genome et l’ADN</strong></p>
+<p><em>intro bases</em></p>
+<p><em>molecule d’ADN</em></p>
+<p><em>genes</em></p>
+<p><em>definition genomique + lien big data</em></p>
+<p><em>transition 5V</em></p>
+<p>Avant d’expliquer ce qu’est vraiment la genomique, il faut d’abord bien comprendre ce qu’est le genome et l’ADN. Comme vous le savez peut etre, les organismes vivants sont composes de cellules, et chaque cellule contient un noyau qui contient son l’ADN (ou acide desoxyribonucleique).</p>
+<p>L’ADN est une molecule et elle a une structure de double brin, chaque brin est compose d’une suite des quattres briques elementaires appelees nucleotides et symbolisees par les lettres ATCG. Les deux brins d’ADN sont complementaires l’un de l’autre. A chaque A d’un brin correspond un T sur l’autre et a chaque C un G.</p>
+<p>Mais ce message est tres long et il est donc organise en differentes parties que l’on appel genes, il y en a au total environ 30000 chez l’etre humain et presque tous contiennent la recette en quelque sorte a la production d’une proteine particulliere. Un gene c’est donc un segment de notre ADN et les genes sont tres importants a notre corps et notre santee, par exemple on dit souvent qu’un gene va determiner la couleur de nos yeux mais il faut faire attention car ce sont en realitee plusieurs genes ensembles qui peuvent affecter la couleurs de nos yeux. Et cela nous ammene au genome, le genome c’est non pas seulement un gene mais l’entieretee du materiel genetique d’un organisme, c’est a dire tout les genes mais aussi le reste de notre ADN.</p>
+<p>Maintenant que cela a ete mis au clair je l’espere, nous pouvons revenir a notre definition de base sur la genomique. La genomique est donc l’etude du fonctionement par exemple d’un organisme a l’echelle du genome entier. C’est a dire qu’on ne s’interesse pas seulement a un gene mais a toute la composition genetique d’un individu et comme vous l’avez surement devine cela fait donc beaucoups de donnees bien plus que lors de comparaison de genes. C’est la qu’est le lien entre genomique et big data, l’ADN est une donnee en soit mais son etude seuls ne releve pas du domaine de la megadonnee c’est l’etude et l’archivage de milliers de genomes qui font entrer l’ADN dans le domaine du Big Data.</p>
+<p>Maintenant que nous avons compris pourquoi la genomique releve bel et bien du domaine du Big Data il est temps de prouver si celle-ci est en est bel et bien la reine ? Pour cela nous allons revenir a nos 5 grands V mais cette fois ci en se penchant sur la genomique.</p>
+<p><strong>Volume</strong></p>
+<p><em>stocker</em></p>
+<p><em>ex : EGA + comparaison biblioteque</em></p>
+<p>Commenceons par le plus transparent, le volume du stockage informatique des genomes. En effet, peut importe ce que nous voullons faire en genomique le stockage des genomes est indispensable. Pour comprendre comment cela marche je vais prendre un exemple tres concret c’est a dire l’EGA qui est entre autre l’archive europeene des genomes humains. Cette archive detient actuelement 13 millions de gigaoctets pour un peu plus de 3 millions de fichiers. Dit comme ca on mesure que c’est une quantite importante mais il faut bien comprendre que ce type d’archive ne peut exister que sur des centaines de disques durs qui occupent des hangards de la taille de terrains de foot aussi appeles data center. Ce qui est surtout impressionant c’est que l’ADN qui est donc une molecule minuscule represente en realitee une quantitee de donnees absurde qui depasse de tres tres loin nos capacitees de stockage actuelles, si on compare par exemple a la place que prennent les 14 millions de livres de la librairie britanique ceux-ci represente environ 14 000 gigaoctets c’est a dire moins de 0.1% de la taille que represente seulement 1 millions de genomes et pourtant dans les deux cas on ne parle que de suites de lettres.</p>
+<p><strong>Velocitee</strong></p>
+<p><em>etudier genomes</em></p>
+<p><em>sequencage d’ADN</em></p>
+<p>A l’inverse lorqu’il s’agit de la velocitee de la genomique les choses sont bien differentes. Concretement pour realiser l’etude d’un genome on peut par exemple le comparer a d’autres genomes comme entre des patients malades et saints pour essayer de reperer a partir des differences entre leurs genomes d’ou pourrait provenir la maladie, mais il va avant tout falloir le lire, et pour lire un genome nous devons sequencer de l’ADN. Le processus de sequencage est une technologie recentes, dans les annees 90 ce processus coutait des centaines de millions d’euros pour un seul genome humain, heureusement les technologies de sequencages d’ADN evoluent a une vitesse sans precedent et aujourdhui le sequencage d’un genome humain ne coute plus que quelques centaines d’euros et se deroule bien plus rappidement qu’il y a a peine 10ans. Mais cela reste un processus long autant dans sa lecture que dans les procedures qui l’entoure. La genomique est donc pour l’instant lente en production et traitement des donnees meme si les choses changent tres vite.</p>
+<p><strong>Varietee</strong></p>
+<p><em>adn variee &amp; conservee</em></p>
+<p><em>almost only adn</em></p>
+<p>Quand a la varietee et bien la encore la genomique n’est certainement pas la plus forte, certe notre ADN est tres variee est c’est encore plus le cas chez les autres etres vivants nous commenceons seulement a s’interesser a l’ADN d’autres especes et apprennons déjà beaucoup. De plus, l’ADN se conserve tres longtemps et aujourdhui encore nous pouvons sequencer des genomes entiers date a plusieurs centaines de milliers d’annees mais il reste important de faire remarquer que la genomique meme s’il est possible d’y lier d’autres domaines scientifiques reste avant tout basee sur le genome et donc des donnees relativement peu variee comparee a tout ce que nous pouvons actuelement stocker informatiquement.</p>
+<p><strong>Valeur</strong></p>
+<p><em>ADN = vie</em></p>
+<p><em>future</em></p>
+<p>Mais il y a bien un domaine ou la genomique est sans aucun doute imbattable et c’est celui de la valeur. Il est difficile de donner un valeur a notre ADN meme tellement elle nous est importante, la genomique s’interesse non seulement a notre ADN mais tente de lui donner un sens et plus enore de venir a bout des maladies les plus grave pour l’etre humain mais aussi pour toute la biodiversitee qui nous entoure. Avec le changement climatique la genomique pourrait permettre de sauver des especes entiere de plantes et d’arbres en comprenant pourquoi certains resistent aux challeurs extremes et d’autres non et en selectionnant petit a petit certains individus des ecosystemes entiers pourraient etre preserver. Alors la valeurs de la genomique est sans aucun doute plus qu’importante mais indispensable et elle le restera aussi longtemps que la vie existera sur terre.</p>
+<p><strong>Veracitee</strong></p>
+<p><em>erreurs humaine + molecule</em></p>
+<p>Enfin, le dernier point est celui de la veracitee et malheureusement la genomique a la encore des proggres a faire. Malgres leurs efforts les sequenceurs actuels par exemple peuvent encore faire des erreurs lors de la lecture, la plupart du temps celles-ci ne sont pas grave et sont meme parfois corrigees mais l’ADN etant une molecule vivante elle est heureusement assez fiable mais reste victime de diverses mutations et autres soucis de fiabilitee au cours de son existence et de sa lecture.</p>
+<p><strong>Conclusion</strong></p>
+<p><em>not reine but important</em></p>
+<p><em>IA + future</em></p>
+<p>Alors certe la genomique n’est pas parfaite et elle n’est pas non plus la reine du big data, il est de toute facon difficile de placer quelque chose en haut de ce domaine recent et en constante evolution. Il est certain que la genomique joue un rôle majeur et participe d’ailleurs toujours a l’evolution du monde du Big Data en ce moment on parle enormement d’IA ces algorithmes complexes font justement partis du future de la genomique et sont déjà un petit peu utilise en recherche pour accelerer et automatiser certaines taches de comparaisons et autre. Finallement la genomique n’est peut etre pas reine de l’entieretee du Big Data mais elle joue certainement un rôle important et qui sait ce que le future peut nous reserver. Merci de m’avoir ecoute!</p>
+<p>Cependant, actuelement le sequencage d’un genome se fait d’une maniere un petit peu particuliere, du entre autre a la faible vitesse de lecture des sequenceurs le genome lu va etre separe en des milliers de petites parties puis va etre reconstitue dans son ensemble a l’aide de programmes informatiques. La lecture d’un genome est donc un processus informatise qui utilise des programmes complexes melants a la fois biologie chimie informatique et mathematiques afin de pouvoir lire et comprendre les genomes. Au dela de la lecture il y a en effet un tout autre processus de classification et de disection du genome pour identifier des parties utiles liees aux systemes de defenses de l’orgnanisme par exemple et aux parties moins utiles par exemples les genes en charge de la couleurs de yeux. Ce processus est long et requiert des systemes et des serveurs d’une certaines puissance et s’entremelle d’ailleurs tres bien avec ce que l’on appelle l’intelligence artificielle qui commence déjà et continuera tres probablement a travailler sur les genomes dans le but de mieux les comprendre et les analyser mais surtout d’augmenter les vitesses des analyses.</p>
+<p>Au dela du volume de l’ADN son stockage fait aussi debat, de nombreuses archives sont semi-publiques ce qui veut dire qu’elles se partagent au seins des scientifiques et chercheurs du monde entier mais aussi qu’il y a des risques de securites avec leur stockage en particuliers lorsque l’on parle d’ADN humaine et c’est la que notre 2eme sujet arrive, l’ADN est certe une donnee importante, volumineuse, dense, variee, produite en continue, en constante evolution depuis des millions d’annees mais qu’en est-il de son utilisation?</p>
+<p>Concretement pour realiser l’etude d’un genome on peut par exemple le comparer a d’autres genomes comme entre des patients malades et saints pour essayer de reperer a partir des differences entre leurs genomes d’ou pourrait provenir la maladie, mais il va avant tout falloir le lire, pour faire cela nous devons sequencer de l’ADN. Ce qui est important a savoir a propos du sequencage c’est que c’est une technologie relativement recente, c’est un projet americain appele the human genome qui marque le tout debut du sequencage d’ADN, a l’epoque ce processus coutait des centaines de millions d’euros pour un seul genome humain, heureusement les technologies de sequencages d’ADN evoluent a une vitesse sans precedent et aujourdhui le sequencage d’un genome humain ne coute plus que quelques centaines d’euros et se deroule bien plus rappidement qu’il y a a peine 10ans. Cependant, actuelement le sequencage d’un genome se fait d’une maniere un petit peu particuliere, du entre autre a la faible vitesse de lecture des sequenceurs le genome lu va etre separe en des milliers de petites parties puis va etre reconstitue dans son ensemble a l’aide de programmes informatiques. La lecture d’un genome est donc un processus informatise qui utilise des programmes complexes melants a la fois biologie chimie informatique et mathematiques afin de pouvoir lire et comprendre les genomes. Au dela de la lecture il y a en effet un tout autre processus de classification et de disection du genome pour identifier des parties utiles liees aux systemes de defenses de l’orgnanisme par exemple et aux parties moins utiles par exemples les genes en charge de la couleurs de yeux. Ce processus est long et requiert des systemes et des serveurs d’une certaines puissance et s’entremelle d’ailleurs tres bien avec ce que l’on appelle l’intelligence artificielle qui commence déjà et continuera tres probablement a travailler sur les genomes dans le but de mieux les comprendre et les analyser mais surtout d’augmenter les vitesses des analyses.</p>
+<p><strong>Critique</strong></p>
+<p>Finallement, c’est interessant d’apporter le sujet des IA car c’est peut etre a cela que se heurte la genomique dans sa course au trone du Big Data. Nous avons vu que ce domaine est imbattable sur plusieurs points mais pas sur tous, la genomique est certe un sujet important a nous tous puisqu’elle concerne la vie tout court mais le Big Data c’est avant tout la quantite certe mais la varietee des donnees et face a des modeles d’IA se basant sur des videos, des photos, tout les ecrits possible de trouver sur internet, la genomique elle n’a que le code source de la vie. La genomique doit prendre en compte</p>
+<p><strong>Conclusion</strong></p>
+<p>Commenceons</p>
+<p><strong>La genomique</strong></p>
+<p>Et c’est la que la genomique entre dans le domaine du Big Data, en effet presque depuis ses debuts la genomique rentre dans presque toutes les cases de ce que l’on appel Big Data. C’est une donnee volumineuse puisque l’ADN a une des densitees de stockage les plus importantes que nous connaissions, elle est bien sur variee, sa valeure est inclassable tant son rôle est indispensable a la survie de notre planete toute entiere, et sa veracitee n’est pas negligeable. Mais finnalement c’est surtout l’evolution des technologies de sequencages d’ADN entre autre qui font peut-etre d’elle la reine du big data ?</p>
+<p>Vous l’avez peut etre devinne cette evolution du coup et du temps de sequencage a permis de sequencer beaucoup plus de genomes qu’ils soient humains ou non et de les etudier puis les archiver dans d’enormes bases de donnees.</p>
+<p>comprendre ce que signifie la big data et pourquoi faire un lien avec la genetique</p>
+<p>expliquer déjà pourquoi l’ADN est une donnee et comment on la lit etc</p>
+<p>montrer la transformation de la genomique en qqc qui releve de la big data</p>
+<p>expliquer les recherches actuels en genomiques</p>
+<p>conclusion; not queen mais certainement un domaine majeur et prometteur de la big data</p>
+<p>key concepts :</p>
+<p>advancement in tech made it possible for dna to join the big data world</p>
+<p>Big Data désigne à la fois la production de</p>
+<p>données massives et le développement de technologies capables de les traiter</p>
+<p>afin d’en extraire des corrélations ou du sens v</p>
+<p>Depuis la fin des années 1990 et le projet « génome humain », les technologies</p>
+<p>de séquençage de l’ADN connaissent une véritable révolution qui fait aujourd’hui</p>
+<p>entrer la génomique dans l’ère du Big Data.</p>
+<p>D epuis une quinzaine d’années, le volume</p>
+<p>des données générées dans le domaine</p>
+<p>de la génomique a crû en proportion</p>
+<p>inverse du coût du séquençage [1] : ainsi,</p>
+<p>le plan France Médecine Génomique 2025, annoncé</p>
+<p>en 2016, prévoit de produire plusieurs dizaines de Po</p>
+<p>de données par an d’ici 5 ans. Leur stockage, leur</p>
+<p>accessibilité et leur exploitation sont donc des</p>
+<p>problématiques à part entière. Trois domaines sont</p>
+<p>particulièrement concernés : l’exploration de la</p>
+<p>diversité du vivant et des écosystèmes complexes, la</p>
+<p>génomique fonctionnelle (voir encadrés) et la méde-</p>
+<p>cine génomique de précision, qui implique la re-</p>
+<p>cherche de biomarqueurs par l’analyse d’ensembles</p>
+<p>de données hétérogènes. La question du volume des</p>
+<p>données est par ailleurs indissociable de celle de leur</p>
+<p>accumulation au cours de projets s’étalant sur plu-</p>
+<p>sieurs années : dans le cas de la médecine de préci-</p>
+<p>sion, c’est l’enrichissement des bases de données,</p>
+<p>avec des données de séquences, phénotypiques,</p>
+<p>environnementales, médicales, et leur confrontation</p>
+<p>permanente avec celles précédemment acquises qui</p>
+<p>permet, par un mécanisme d’auto-apprentissage,</p>
+<p>d’affiner les diagnostics et d’identifier des biomar-</p>
+<p>queurs originaux.</p>
+<p>Pour le traitement des données, deux grands types</p>
+<p>d’usages ont de gros besoins en calcul : l’assemblage</p>
+<p>(la reconstitution de novo de génomes à partir de</p>
+<p>données brutes de séquençage) et la comparaison de</p>
+<p>séquences avec celles déjà connues (Fig. 1). Ces deux</p>
+<p>approches ont en partage l’importante quantité de</p>
+<p>données à manipuler et la quasi-impossibilité de</p>
+<p>calibrer le temps d’exécution. Il s’agit de To de don-</p>
+<p>nées et de fichiers de plusieurs dizaines ou centaines</p>
+<p>de Go, ce qui impose qu’elles soient au plus près des</p>
+<p>moyens de calcul, avec des capacités en lecture/écri-</p>
+<p>ture adaptées [2]. Pour les projets génomiques</p>
+<p>d’envergure, l’utilisation des technologies du cloud</p>
+<p>computing en coordination avec les systèmes HPC</p>
+<p>bien connu du monde de la physique ou plus préci-</p>
+<p>sément leur évolution HTC permettra de bénéficier</p>
+<p>des points forts de ces différents modèles, à savoir</p>
+<p>la performance en termes d’entrées/sorties et de</p>
+<p>calcul pour le HTC, et les caractéristique d’élasticité et</p>
+<p>d’adaptation à la demande du cloud computing [3].</p>
+<p>Pour finir, revenons sur deux enjeux essentiels en</p>
+<p>génomique humaine. En premier lieu, le partage des</p>
+<p>données : étant donnée la rareté des événements</p>
+<p>génétiques, les données générées pour un individu</p>
+<p>ne prennent de sens et de valeur que si elles peuvent</p>
+<p>être croisées avec de nombreuses bases de données,</p>
+<p>idéalement avec l’ensemble des génomes connus [4].</p>
+<p>En second lieu, la confidentialité des données : rien</p>
+<p>n’est plus identifiant que la séquence génomique</p>
+<p>d’un individu qui porte des informations prédictives,</p>
+<p>et même au-delà des informations touchant ses des-</p>
+<p>cendants, ascendants ou sa fratrie. Cet aspect reste</p>
+<p>critique et des solutions élégantes émergent, comme</p>
+<p>le chiffrement homomorphe, qui permet de calculer</p>
+<p>sur une donnée chiffrée et d’obtenir un résultat lui-</p>
+<p>même chiffré.</p>
+<p>BOOM FUSION WSHWSH</p>
+<p>Liens:</p>
+<p><a href="https://www.cea.fr/multimedia/Documents/publications/clefs-cea/CLEFS64-BIGDATA.pdf">https://www.cea.fr/multimedia/Documents/publications/clefs-cea/CLEFS64-BIGDATA.pdf</a></p>
+<p><a href="https://www.pasteur.fr/fr/file/18077/download">https://www.pasteur.fr/fr/file/18077/download</a></p>
+<p><a href="https://theconversation.com/la-genomique-reine-du-big-data-84155">https://theconversation.com/la-genomique-reine-du-big-data-84155</a></p>
+<p><a href="https://www.pasteur.fr/fr/journal-recherche/dossiers/comment-big-data-revolutionne-recherche-sante">https://www.pasteur.fr/fr/journal-recherche/dossiers/comment-big-data-revolutionne-recherche-sante</a></p>
+<p><a href="https://www.youtube.com/watch?v=kyMzPwS88F8">https://www.youtube.com/watch?v=kyMzPwS88F8</a></p>
+<p><a href="https://www.youtube.com/watch?v=UFnoxLN17ko">https://www.youtube.com/watch?v=UFnoxLN17ko</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/grand-oral/pourquoi-se-diriger-vers-des-techniques-biologiques-de-stockage-des-donn%C3%A9es-numeriques-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/grand-oral/pourquoi-se-diriger-vers-des-techniques-biologiques-de-stockage-des-donn%C3%A9es-numeriques-/</guid>
+      <description>![[grandoralsujet2.odt]] Pourquoi se diriger vers des techniques biologiques de stockage des données numeriques ?&#xA;Introduction&#xA;aujourdhui&#xA;more and more data&#xA;Je vais vous presenter mon expose de grand oral sur la problematique «Pourquoi se diriger vers des techniques biologiques de stockage de donnees ? »&#xA;Nous vivons dans une ere plus informatise que jamais ou tout peut sembler etre enregistre et connecte. Que se soit nos photos, nos messages ou encore nos recherches internet nous produisons constament qu’on le veuille ou non des donnees.</description>
+      <content:encoded><![CDATA[<p>![[grandoralsujet2.odt]]
+<strong>Pourquoi se diriger</strong> vers des <strong>techniques biologiques de stockage</strong> des données numeriques ?</p>
+<p><strong>Introduction</strong></p>
+<p><em>aujourdhui</em></p>
+<p><em>more and more data</em></p>
+<p>Je vais vous presenter mon expose de grand oral sur la problematique «Pourquoi se diriger vers des techniques biologiques de stockage de donnees ? »</p>
+<p>Nous vivons dans une ere plus informatise que jamais ou tout peut sembler etre enregistre et connecte. Que se soit nos photos, nos messages ou encore nos recherches internet nous produisons constament qu’on le veuille ou non des donnees. Et ne nous sommes pas les seuls, les chercheurs, le monde du medical ou encore l’industrie, tous stockent des donnes ce qui forme un veritable océan d’informations international.</p>
+<p><strong>Situation actuelle des donnees</strong></p>
+<p><em>augmentation volume</em></p>
+<p><em>data center</em></p>
+<p><em>cold data</em></p>
+<p>Entre 2015 et 2022 le volume des donnes stoques dans le monde a ete multiplie par 16. Ces donnees sont majoritairement stockees dans ce que beaucoup appellent le Cloud ou plus precisement des data center, ces centres de donnees sont grossierement un groupe de disques durs connectes ensembles et accessiblent depuis internet. Mais plus la quantite de donnees produites augmente plus la quantitee de « cold data » c’est a dire les donnes laissees a l’abandon comme par exemple les archives, les mails non lus etc. augmente et represente actuellement 60-70% de la place des data centers.</p>
+<p><strong>Data Centers</strong></p>
+<p><em>taille</em></p>
+<p><em>consomation</em></p>
+<p><em>persistence de la donnee</em></p>
+<p>Justement ces data centers c’est quoi concretement? Et bien ce sont souvent des hangards qui font en moyenne la taille d’un terain de foot et sont constitues de disques durs mais aussi de generateurs, d’ordinateurs etc. Cela consome evidement beaucoup d’energie, si l’on rassemblais tout les centres de donnees en un seul pays celui si serait le 5e pays consommateur d’electricite au monde, entre l’inde et le japon. Malgres leur capacitee de stockage impressionante, ils font face a un probleme de persistance de la donnee, en effet les disques utilises dans ces data center utilisent des technologies sensibles a la degradation et ayant en moyenne une duree de vie de 5 ans par disque.</p>
+<p><strong>Transition sur l’ADN</strong></p>
+<p><em>idee de l’ADN</em></p>
+<p><em>molecule d’ADN</em></p>
+<p>Face a tant de problemes actuels et futurs les scientifiques ont eu l’idee de s’interesser a une solution qui paraît a la fois evidente et etrange c’est a dire l’ADN. L’acide desoxyribonucleique, ou ADN, est une molecule qui existait déjà il y a 4 milliards d’annee et sert déjà de methode de stockage de donnees aux etres vivants. Chaque cellule de notre corps contient notre ADN qui nous permet de stocker notre information genetique, en quelque sorte notre code source.</p>
+<p><strong>Explications de l’ADN</strong></p>
+<p><em>les 4 bases</em></p>
+<p><em>lien avec ordinateurs binaires</em></p>
+<p><em>algorithmes</em></p>
+<p>L’ADN est composee de 4 bases nucleiques ATCG; A pour Adenine, T pour Thymine, G pour Guanine et C pour Cytosine. Ces nucleotides vont en paires c’est a dire A avec T et C avec G et c’est comme ca qu’est code l’information genetique. Pour comparer avec l’informatique actuel qui est en base 2 c’est a dire binaire on donc est ici sur une base 4, c’est particulierement pratique car a l’aide d’algorithmesde convertion, il est possible de faire une correspondance entre nos donnees sous formes binaires de 1 et de 0 sous la forme des bases nucleiques ATCG. Pour faire cela des algorithmes sont en cours de developement mais en prenant le plus simple on peut par exemple faire correspondre A avec 00, T avec 11, C avec 01 et G avec 10.</p>
+<p><strong>Fonctionement du stockage par ADN</strong></p>
+<p><em>2 grandes etapes</em></p>
+<p>Une fois les donnees sous forme nucleique cela reste theorique alors comment fonctionne concretement le stockage par ADN? Et bien tout se deroule comme pour un disque dur en 2 grandes etapes c’est a dire l’ecriture puis la lecture.</p>
+<p>Tout d’abord pour ecrire l’information il faut la traduire, puis faire la synthese de l’ADN avant enfin de la stocker.</p>
+<p>Pour la lecture il faut déjà selectioner les molecules d’ADN souhaitant etre lues avant de les sequencer puis de les retraduire afin de pouvoir les afficher.</p>
+<p><strong>Encodage</strong></p>
+<p><em>encodage forme nucleique</em></p>
+<p><em>proprietees biochimiques ADN</em></p>
+<p><em>suites identiques</em></p>
+<p><em>motifs repetes</em></p>
+<p>La premiere etape de l’ecriture est donc celle de l’encodage de l’information. Les ordinateurs modernes fonctionne sur une base binaire de 1 et de 0 et stockent donc leurs information de cette meme facon. Pour stocker un fichier sous forme nucleique, il faut donc le traduire de la forme binaire a la forme nucleique. Cela peut paraître simple mais il ne faut pas se fier aux apparences, au dela de la traduction ces algorithmes d’encodage doivent egalement prendre en comptes les proprietees bio-chimiques de la molecule d’ADN afin d’encoder l’ADN de facon a eviter les erreurs lors de la lecture.</p>
+<p>C’est a dire eviter par exemple les suites de nucleotides identiques, (on interdit des suites de plus de 3 ou 4 nucleotides identiques). Et les motifs répétés dans les séquences.</p>
+<p>Ainsi, pour prendre en compte les erreurs introduites pendant le processus d’écriture et de lecture il faut mettre au point des mécanismes d’encodage qui supportent les contraintes des molécules d’ADN synthétisées. C’est un sujet difficile, mais qui intéresse un nombre croissant de chercheurs et chercheuses.</p>
+<p><strong>Synthese</strong></p>
+<p><em>synthetiser chaine nucl par nucl</em></p>
+<p><em>lenteur/cout</em></p>
+<p>Vient ensuite la synthèse de l’ADN, c’est un processus purement chimique. Cette synthese consiste à créer petit a petit une chaîne nucléotidique étape par étape via l’ajout sucessif de nucleotides.</p>
+<p>L’étape de synthèse est aujourd’hui le plus grand obstacle au stockage sur ADN. L’ajout d’une base est une opération très lente, entre 100 et 200 secondes, ce qui se traduit par une vitesse d’écriture des données de l’ordre du kilooctet/jour ! Ensuite, les synthétiseurs ne sont capables de produire que de petits brins d’ADN.</p>
+<p>La synthèse d’ADN reste le maillon faible mais il faut tout de meme mettre en parallèle l’évolution excessivement rapide des technologies lie a la synthetisation et au sequencage de l’ADN.</p>
+<p><strong>Stockage</strong></p>
+<p><em>conditions</em></p>
+<p><em>protection physique</em></p>
+<p>Enfin la derniere etape du processus d’ecriture est donc celle du stockage, le stockage a pour but de conserver les molécules d’ADN dans les meilleures conditions possibles. Cette opération doit tenir compte des spécificités de l’ADN qui, par exemple, se dégrade dès qu’il entre en contact avec des petites molécules organiques, des enzymes, des micro-organismes, de l’oxygène, de l’ozone, etc.</p>
+<p>L’ADN doit donc être protégé de tous ces agents perturbateurs pour être conservé des dizaines de milliers d’années. Cette protection peut être réalisée physiquement dans des capsules de quelques millimètres, dont l’extérieur est en acier inoxydable et l’intérieur en verre. Leur durée de conservation est estimée à 50 000 ans.</p>
+<p><strong>Selection</strong></p>
+<p><em>transition</em></p>
+<p><em>indexation</em></p>
+<p><em>amorces</em></p>
+<p>Une fois les donnee ecrite nous allons un jour souhaiter les lire, poure cela le processus se deroule egallement en 3 grandes etapes.</p>
+<p>Compte tenu de sa forte capacite de stockage il semble logique de stocker plusieurs documents au sein d’un même conteneur. Contrairement à un disque dur, les brins d’ADN d’un même document ne sont pas regroupés géographiquement au même endroit, ils sont dispersés dans le conteneur. Pour les extraire, il faut donc un mécanisme d’indexation qui puisse les sélectionner de manière unique.</p>
+<p>Une stratégie simple consiste a ajouter des « amorces » c’est a dire des portions d’ADN au debut et a la fin d’une donnee. Si toutes les séquences d’un même document sont encadrées par les mêmes paires d’amorces et qu’on applique une PCR, alors on dupliquera uniquement les séquences relatives au document recherché.</p>
+<p><strong>Sequencage</strong></p>
+<p><em>sequenceurs moderns</em></p>
+<p><em>erreurs/duplication</em></p>
+<p>Mais une fois les brins localises il faut pouvoir les decripter, dans le monde de l’ADN c’est grace aux séquenceurs que l’on realise cette operation. Avec les sequenceurs les plus recents le débit est important grâce à une miniaturisation poussée et une parallélisation massive et le taux d’erreur est souvent inferieur 0.5 %.</p>
+<p><strong>Traduction</strong></p>
+<p><em>traitements</em></p>
+<p><em>correction des erreurs par algorithmes</em></p>
+<p><em>traduction en donnee originelles</em></p>
+<p>Une fois ces ensembles de fragments avec une forte redondance recuperes. Ils subissent d’abord des traitements inspirés de la bio-informatique pour reconstituer au mieux les textes des séquences. Après ce traitement, les séquences comportent encore quelques erreurs qui sont normalement corrigées par les codes correcteurs d’erreurs. Une correction optimisée résulte d’un compromis entre la puissance des codes mis en jeu et l’effort de séquençage. Plus la couverture de séquençage sera importante, meilleure sera la reconstitution des séquences et plus faible sera le taux d’erreur.</p>
+<p><strong>Avantages</strong></p>
+<p><em>transition pourquoi</em></p>
+<p><em>densitee inouie</em></p>
+<p><em>resistance temps</em></p>
+<p><em>pas d’energie</em></p>
+<p><em>evolution technologique</em></p>
+<p>Maintenant que nous avons compris le fonctionement de ce processus de stockage sur ADN, il semble evident que celui-ci est loin d’etre parfait et qu’il possede malgres sa progression tres rapides dans les dernieres annees, de nombreux defauts. Pourtant, de tres nombreux scientifiques et entreprises s’y interessent tres serieusement et pour des raisons simples.</p>
+<p>Les etudes de l’ADN on montres qu’outre ca taille minuscule, cette molecule a en realitee une capacitee de stockage absolument incroyable. Par exemple avec toute l’ADN d’un corp humain on pourrait stocker autant d’information que 150 000 data center, cela paraît déjà incroyable mais c’est egalement fait en consomant 820 000 fois moins d’energie. Pour faire une comparaison plus raisonable; on peut stocker l’equivalent d’un data center, c’est a dire un enorme hangard de la taille d’une terrain de foot, dans 5 grammes d’ADN et le conserver bien au-delà des 3 ans habituels pour ces geants de la data.</p>
+<p>En effet, les capacitees de l’ADN ne s’arretent pas a sa densite revolutionaire, la majorite des disques durs actuels ont une duree de vie de 3 a 10ans ce qui peut sembler etre peu et ne represente clairement pas une methode de stockage sur le long terme. L’ADN elle resiste tres bien au passage du temps meme dans des conditions naturelles. Recement, le plus vieux genome complet du monde a pu etre recupere et sequence a partir de l’os d’un cheval vieux de 700 000ans, c’est a dire que l’ADN stocke dans la nature se rapproche d’une duree de vie d’un million d’annee, encore une fois ecrasant de tres loins les techniques actuelles de stockage informatique des donnees.</p>
+<p>De plus, l’ADN se conserve sans apport d’energie si l’on ne compte pas le contrôle de la temperature celle-ci peut etre conserves des milliers d’annees sans produire ou consomer de l’energie. Face aux data center toujours plus gourmants en electricitee, cette proprietee de l’ADN vient nous faire repenser</p>
+<p>Et enfin s’il y a bien une chose qu’aucune methode de stockage n’a su proposer c’est sa resistance a l’evolution technologique. De nos jours il est de plus en plus difficile de lire un CD, une technologie pourtant relativement recente. Ce phenomene d’evolution des supports et donc de la difficultees a en lire certain est un chemin que ne prendra jamais l’ADN. Celle-ci est indispensable a la science et a un grand nombre de recherches et nous devrons donc toujours nous y interesser meme alors que toutes les technologies que nous connaissons auront ete remplacees, l’ADN sera toujours analyse et etudiee dans les laboratoires.</p>
+<p><strong>Critique</strong></p>
+<p><em>inutilisable ajd</em></p>
+<p><em>long couteux</em></p>
+<p><em>chimique</em></p>
+<p>Cependant, tout n’est pas positif et cette nouvelle technologie de stockage presente aussi des risques et des inconveniants en commenceant par le fait qu’elle reste encore aujoudrhui inutilisable a grande echelle. Meme s’il est facilement possible de reelement stocker un document sur ADN cela reste tres long et couteux et absolument pas assez pratique pour etre considere par une entreprise ou un particulier.</p>
+<p>De plus comme mentionne avant le processus de stockage par ADN est tres chimique et utilise de nombreuses solutions mauvaises pour l’environement, si l’ADN etait utilisee a grande echelle cela poserait probleme. Heureusement de nouvelles solutions sont déjà utilisees actuellement et commence a obtenir des resultats similaires en remplaceant les solutions chimiques par des enzymes.</p>
+<p><strong>Conclusion</strong></p>
+<p><em>just the beginning</em></p>
+<p><em>solution consideree serieusement</em></p>
+<p>Finallement le stockage d’information sur ADN en est encore à ses prémices il est normal que cette solution ne soit pas encore attrayante pour le grand public. Pour l’instant, la phase critique est la phase de synthèse : elle est trop lente et beaucoup trop couteuse. Mais les années qui viennent pourraient changer la donne grâce à une miniaturisation poussée, un couplage fort avec l’industrie des semi-conducteurs et l’exploitation de nouvelles approches comme la synthèse enzymatique.</p>
+<p>De grands acteurs du monde économique considèrent maintenant sérieusement ce moyen de stockage pour l’archivage de grands volumes de données. Ce qui apparaissait hier encore comme une stratégie de stockage hors de portée, voire du domaine de la science-fiction, devient réalité avec, certes, encore un long chemin à parcourir pour parvenir à une technologie viable et rentable qui pourrait apporter beaucoups d’avantages mais aussi poser de nouvelles questions.</p>
+<p>Comme dit precement les ordinateurs modernes fonctionne sur une base binaire et stockent donc leurs information de cette meme facon. Pour stocker un fichier sous forme nucleique il faut donc le traduire de la forme binaire a la forme nucleique. Ce qui semblerais une operation facile est en fait un casse tete logique complexe qui n’est toujours pas perfectionne. Au dela de la traduction les programmateurs de ces algorithmes doivent egalement prendre en comptes les proprietees bio chimiques de la molecule d’ADN afin d’encoder l’ADN de facon a eviter les erreurs DEVELOPPER</p>
+<p>Puis l’etape de la synthetisation arrive, il faut tout d’abord comprendre que l’ADN qui va etre utilisee n’est pas de l’ADN humaine ou meme naturelle, c’est une ADN synthetique produite en laboratoire. Cette methode est utilise car en realite on ne va pas changer les informations de l’ADN de stockage mais plutot créer un nouveau brin d’ADN qui suivra le code nucleique souhaite. On va ainsi synthetise les molecules d’ADN</p>
+<p>Une fois l’ADN créer il faut maintenant la stocker, l’ADN est apres tout une molecule et en cas d’exposition a la lumiere, a l’humiditee, a l’oxigene ou a la chaleur qui pourrait la destabiliser, y créer des erreurs ou meme la fracturer completement. C’est pour cette raison que l’ADN synthetisee est dehydrater</p>
+<p>L&rsquo;ensemble des données mondiales représente aujourd’hui 45 Zetta-octets1 (Zo), soit 45 milliards de milliards de kilo-octets, et passera d’ici trois ans à 175 Zo. Cette augmentation vertigineuse est liée à la transformation numérique de notre société et notamment à l’émergence de l&rsquo;internet des objets, de l’informatique quantique, des voitures autonomes, de la transformation industrielle et du développement de l’intelligence artificielle. Depuis 2010, nous vivons à crédit, avec une demande de stockage bien supérieure à son offre.</p>
+<p>Si les supports actuels voient leurs capacités de stockage progresser, elles n’augmentent pas aussi vite que la production de données. Ces supports classiques, comme les disques durs, les bandes magnétiques ou les Blu-Ray, restent également fragiles, volumineux et énergivores. Il faut, par exemple, les remplacer tous les cinq à sept ans dans les data centers dont la consommation électrique représente à elle seule 2% de la consommation mondiale et l’empreinte carbone dépasse celle de l&rsquo;aviation civile. Stratégique pour l’économie, la pérennité et la sécurité de nos sociétés, le stockage des données nécessite donc une rupture technologique.</p>
+<p>Liens :</p>
+<p><a href="https://ici.radio-canada.ca/nouvelle/1857352/adn-documents-archives-copies">https://ici.radio-canada.ca/nouvelle/1857352/adn-documents-archives-copies</a></p>
+<p><a href="https://theconversation.com/the-worlds-data-explained-how-much-were-producing-and-where-its-all-stored-159964">https://theconversation.com/the-worlds-data-explained-how-much-were-producing-and-where-its-all-stored-159964</a></p>
+<p><a href="https://www.youtube.com/watch?v=spnCsGX38_w">https://www.youtube.com/watch?v=spnCsGX38_w</a></p>
+<p><a href="https://www.youtube.com/watch?v=Ev0Z7d3f4UY">https://www.youtube.com/watch?v=Ev0Z7d3f4UY</a></p>
+<p><a href="https://www.youtube.com/watch?v=3HqSfIZe5xo">https://www.youtube.com/watch?v=3HqSfIZe5xo</a></p>
+<p><a href="https://www.youtube.com/watch?v=KMg2tQ511d4">https://www.youtube.com/watch?v=KMg2tQ511d4</a></p>
+<p><a href="https://www.youtube.com/watch?v=ZuB3yB7QWCk">https://www.youtube.com/watch?v=ZuB3yB7QWCk</a></p>
+<p><a href="https://www.maddyness.com/2023/06/07/stockage-donnees-adn-biomemory/">https://www.maddyness.com/2023/06/07/stockage-donnees-adn-biomemory/</a></p>
+<p><a href="https://bigmedia.bpifrance.fr/decryptages/ladn-le-futur-durable-du-stockage-de-donnees-numeriques">https://bigmedia.bpifrance.fr/decryptages/ladn-le-futur-durable-du-stockage-de-donnees-numeriques</a></p>
+<p><a href="https://endirect.univ-fcomte.fr/publication/ladn-de-synthese-solution-pour-le-stockage-des-donnees/">https://endirect.univ-fcomte.fr/publication/ladn-de-synthese-solution-pour-le-stockage-des-donnees/</a></p>
+<p><a href="https://www.maddyness.com/2023/06/07/stockage-donnees-adn-biomemory/">https://www.maddyness.com/2023/06/07/stockage-donnees-adn-biomemory/</a></p>
+<p><a href="https://www.cnrs.fr/fr/actualite/stockage-de-donnees-du-data-center-la-capsule-adn">https://www.cnrs.fr/fr/actualite/stockage-de-donnees-du-data-center-la-capsule-adn</a></p>
+<p><a href="https://interstices.info/stocker-les-donnees-la-piste-prometteuse-de-ladn/">https://interstices.info/stocker-les-donnees-la-piste-prometteuse-de-ladn/</a></p>
+<p><a href="https://www.nature.com/articles/s41467-021-21587-5">https://www.nature.com/articles/s41467-021-21587-5</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t1-c1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t1-c1/</guid>
+      <description>![[t1c1.odt]]&#xA;Thème 1: Exploration du passe géologique de la Terre&#xA;Chapitre 1: Le temps et les roches&#xA;Problématique : Comment déterminer l’age d’une roche ou d’un minéral?&#xA;Comment identifier la suite des événements visible sur un affleurement géologique?&#xA;I. Datation relative&#xA;1) Observation sur le terrain&#xA;Dans l’environnement on observe différents indices permettant de reconstituer la chronologie d’événements géologiques ayant eu lieu dans le passe.&#xA;Superposition: l’événement au dessus est toujours plus ancien que celui du dessous (sauf si plis couches).</description>
+      <content:encoded><![CDATA[<p>![[t1c1.odt]]</p>
+<p><strong>Thème 1: Exploration du passe géologique de la Terre</strong></p>
+<p><strong>Chapitre 1: Le temps et les roches</strong></p>
+<p>Problématique : Comment déterminer l’age d’une roche ou d’un minéral?</p>
+<p>Comment identifier la suite des événements visible sur un affleurement géologique?</p>
+<p><strong>I. Datation relative</strong></p>
+<p><strong>1) Observation sur le terrain</strong></p>
+<p>Dans l’environnement on observe différents indices permettant de reconstituer la chronologie d’événements géologiques ayant eu lieu dans le passe.</p>
+<p>Superposition: l’événement au dessus est toujours plus ancien que celui du dessous (sauf si plis couches).</p>
+<p>ex: couches sédimentaires.</p>
+<p>Inclusion: lorsqu’un élément en inclus un autre il est forcement plus ancien que celui qui l’entour.</p>
+<p>ex: galet des conglomérats.</p>
+<p>Recoupement: lorsqu’un élément recoupe un autre il est forcement plus ancien.</p>
+<p>Object non affecte: lorsqu’un objet n’est pas affecte par un evenement geologique il est forcement plus recent que celui-ci.</p>
+<p>En cumulant les observations sur le terrain, on arrive ainsi a reconstituer la chronologie relative des événements avec cependant des limites et parfois une absence de datation.</p>
+<p>*<em>2) Fossiles et datation</em></p>
+<p>Pour dater une couche en chronologie relative, on doit identifier un marqueur temporel: les fossiles (generalement aquatiques).</p>
+<p>Ces derniers doivent posseder 3 caracteristiques essentielles pour etres utilises comme fossiles stratigraphiques</p>
+<ul>
+<li>
+<p>Une grande extension geographique – Ils doivent dont etre retrouves dans de nombreux affleurement sur tous les continents, dans les meme couches sedimentaires.</p>
+</li>
+<li>
+<p>Une courte duree d’existence de l’espece - Pour ne permettre de datter qu’une couche bien precise.</p>
+</li>
+<li>
+<p>Une forte abondance dans l’environement – Afin de les retrouver facilement et en grande quantite au sein de la couche correspondante.</p>
+</li>
+</ul>
+<p>On aboutit au principe d’identite paleontologique qui permet d’affirmer que deux roches qui presentent les meme fossiles stratigraphiques se sont formees au meme moment.</p>
+<p><strong>3) Une premiere echelle des temps</strong></p>
+<p>A la fin du 19e siecle, l’age de la Terre n’est toujours pas determine precisement mais les geologues proposent déjà un decoupage du temps base sur les fossiles.</p>
+<p>Ils utilisent des stratotypes → affleurement caracteristique avec un ensemble de fossiles specifiques associes a une couche precise et/ou a sa limite.</p>
+<p>L’assemblage des differents stratotypes (=1 etage) en periodes (ex Jurassique) puis en eres (ex Secondaire) aboutit a l’echelle stratigraphique internationale, toujours en cours de precision.</p>
+<p><strong>II. La datation absolue</strong></p>
+<p>Permet de dater precisement en Ma l’age d’une roche, d’un mineral, d’un phenomene geologique voir d’un fossile.</p>
+<p><strong>1) Principe</strong></p>
+<p>On utilise la decroissance radioactive de certains isotopes (peres) en mesurant la quantite d’elements fils presents a un moment precis.</p>
+<p>Les isotopes sont des nucléides (noyaux atomiques) partageant le même nombre de protons, mais ayant un nombre de neutrons différent.</p>
+<p>La date obtenue correspond au moment de la fermeture du systeme (confinement de la roche). La mesure ne peut se faire que sur des roches magmatiques et metamorphiques, jamais sedimentaires.</p>
+<p><strong>2) Le radiochronometre potassium (K)/argon (Ar)</strong></p>
+<p>Interval de temps mesure: 1 a 100MMa</p>
+<p>L’element pere est le 40K il peut se desintegrer en 40Ca (90%) ou en 40Ar (10%).</p>
+<p>L’Argon est un gaz qui s’echappe facilement du liquide magmatique au moment du refroidissement donc on utilise le 40Ar residuel pour la datation;</p>
+<p>T = 1,25*109 ans.</p>
+<p><strong>3) Le radiochronometre rubidium (Rb)/strontium (Sr)</strong></p>
+<p>Intervalle de temps mesure: 10Ma a 1Ga</p>
+<p>Lors de la cristallisation d’un magma, les mineraux incorporent des elements Rb et Sr en petite quantite.</p>
+<p>On utilise les rapports 87Rb/86Sr et 87Sr/86Sr et leur evolution au cours du temps.</p>
+<p>Les points formes sont allignes sur une droite isochrone dont la pente est d’autant + forte que le temps depuis la formation de la roche est long.</p>
+<p><strong>4) Le radiochronometre uranium (U)/plomb (Pb)</strong></p>
+<p>Interval de temps mesure: &gt; 1Ga</p>
+<p>Les deux isotopes de l’uranium (235 et 238) se desintegrent en 2 isotopes du plomb (207 et 206) dont on mesure la concentration dans les zircons.</p>
+<p>Ces derniers, au moment de leur formation ne peuvent integrer de Pb donc toute la [Pb] mesuree provient de la desintegration de l’U.</p>
+<p>La datation se fait par simple report des mesures des rapports 206Pb/238U et 207Pb/235U de l’echantillon sur la courbe Concordia.</p>
+<p><strong>Conclusion</strong></p>
+<p>La methode de datation absolue se base sur les variations du rapport isotopique dues a la desintegration radioactive. On utilise divers isotopes en fonction de l’age suppose de l’echantillon et de la nature de la roche. Elle a permis d’attribuer des ages absolus aux etages de l’echelle chronostratigraphique etablie par datation relative.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t1-c2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t1-c2/</guid>
+      <description>![[t1c2.odt]]&#xA;Thème 1: Exploration du passe géologique de la Terre&#xA;Chapitre 2 : La Terre depuis 250Ma&#xA;I. De la Pangée à l’ouverture de l’Atlantique&#xA;Les traces de la Pangée en France La Pangée; bloc continental unique toutes surfaces émergées durant Permien (-290 ; - 245Ma). Sa désagrégation commence début de l’ère secondaire (- 245Ma) jusqu’à nos jours.&#xA;On trouve des roches cristallines magmatiques et métamorphiques et une faible couverture sédimentaire datées de cette époque en France (Bretagne, Massif Central, Ardennes et Vosges) = existence chaîne de montagne a racine crustale profonde à l’origine du métamorphisme.</description>
+      <content:encoded><![CDATA[<p>![[t1c2.odt]]</p>
+<p>Thème 1: Exploration du passe géologique de la Terre</p>
+<p>Chapitre 2 : La Terre depuis 250Ma</p>
+<p>I. De la Pangée à l’ouverture de l’Atlantique</p>
+<ol>
+<li>Les traces de la Pangée en France</li>
+</ol>
+<p>La Pangée; bloc continental unique toutes surfaces émergées durant Permien
+(-290 ; - 245Ma). Sa désagrégation commence début de l’ère secondaire (- 245Ma) jusqu’à nos jours.</p>
+<p>On trouve des roches cristallines magmatiques et métamorphiques et une faible couverture sédimentaire datées de cette époque en France (Bretagne, Massif Central, Ardennes et Vosges) = existence chaîne de montagne a racine crustale profonde à l’origine du métamorphisme.</p>
+<p>Au Permien existait une grande chaîne de collision au nord de la France: la chaîne hercynienne. On devrait alors y trouver des traces de la fermeture de l’océan préexistant.</p>
+<ol start="2">
+<li>Les indices de l’ouverture océanique</li>
+</ol>
+<p>Bordures des océans appelées marges passives; zones sismiquement peu actives avec nombreuses failles normales. Ces structures apparaissent lors de la formation d’un rift au niveau continental qui permet formation d’une lithosphère océanique et contribue à la naissance d’un océan.</p>
+<p>On trouve des blocs basculés granitiques dans les Alpes, entre blocs basculés, sont localisés des sédiments de l’ère secondaire contenant des fossiles marins et a structure éventail = basculement progressif du bloc au cours du temps.</p>
+<p>On décrit les sédiments selon 3 groupes:</p>
+<ul>
+<li>sédiments pré-rift se déposent avant la formation du rift.</li>
+<li>sédiments syn-rift se déposent durant la formation du rift.</li>
+<li>sédiments post-rift se déposent après la formation du rift au stade océan.</li>
+</ul>
+<p>L’Océan Alpin formé fin du Trias (-200 à -180Ma) s’est étendu jusqu’au milieu du Crétacé (-80Ma).
+On observe les mêmes caractéristiques dans le fossé rhénan un rift avorté durant l’Oligocène (-34 à -23Ma).
+L’analyse des sédiments confirme donc l’existence d’un paléo-océan disparu.</p>
+<p>II. Les ophiolites, témoins de la fermeture océanique</p>
+<ol>
+<li>Caractéristiques et localisation</li>
+</ol>
+<p>Les chaînes de montagnes présentent souvent les traces d’un domaine océanique disparu appelées ophiolites.</p>
+<ol start="2">
+<li>Les témoins de la subduction</li>
+</ol>
+<p>Les matériaux océaniques et continentaux montrent les traces d’un métamorphisme à grande profondeur au cours de la subduction.</p>
+<p>Les gabbros formés au niveau de la dorsale subissent une série de transformations que l’on peut classer en 3 faciès à intensité de métamorphisme croissant :</p>
+<ul>
+<li>Le faciès schistes verts (métagabbros à actinote et chlorite) est issu d’une hydratation en s’éloignant de la dorsale, produit de la hornblende puis de la chlorite.
+La formation de ces minéraux est associées à un contexte métamorphique BP-BT.</li>
+<li>Le faciès des schistes bleus (métagabbros à glaucophane) apparaît lorsque la pression augmente. La présence de glaucophane résulte d’une déshydratation dans un contexte HP-BT.</li>
+<li>Le faciès des éclogites est caractérisé par la présence de grenat et de jadéite.
+Ce faciès se rencontre uniquement dans les zones de subduction et ses minéraux sont caractéristiques d’un contexte THP-MT associé également à une déshydratation des minéraux.</li>
+</ul>
+<p>Bilan</p>
+<p>Les ophiolites résultent d’une transformation métamorphique d’intensité croissante du plancher océanique tout au long de la subduction puis d’un retour en surface au gré des mouvements tectoniques de la collision.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t2-c1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t2-c1/</guid>
+      <description>![[t2c1.odt]] Thème 2: Génétique et évolution&#xA;Chapitre 1 : La diversité génétique des individus&#xA;Au sein des différentes espèces peuplant la Terre, les diverses populations qui les composent sont toutes formées d’individus uniques bien que cela soit parfois difficile à identifier par une simple observation visuelle.&#xA;Problématique : Comment aboutit-on à des individus uniques au sein de populations constituées de milliards d’individus ?&#xA;Comment ces populations évoluent-elles au cours du temps ?</description>
+      <content:encoded><![CDATA[<p>![[t2c1.odt]]
+<strong>Thème 2: Génétique et évolution</strong></p>
+<p><strong>Chapitre 1 : La diversité génétique des individus</strong></p>
+<p>Au sein des différentes espèces peuplant la Terre, les diverses populations qui les composent sont toutes formées d’individus uniques bien que cela soit parfois difficile à identifier par une simple observation visuelle.</p>
+<p>Problématique : Comment aboutit-on à des individus uniques au sein de populations constituées de milliards d’individus ?</p>
+<p>Comment ces populations évoluent-elles au cours du temps ?</p>
+<p><strong>I. Stabilité et innovation génétique</strong></p>
+<p>Le caryotype d’une espèce est stable, mais au sein d’une espèce, chaque individu issu de la reproduction sexuée possède des caractéristiques qui lui sont propres.</p>
+<p><strong>1) Génome et production de clones cellulaires</strong></p>
+<p>Au cours de la formation d’un tissus, les cellules subissent des mitoses successives conduisant à la formation d’un clone cellulaire dont tous les représentants sont génétiquement identiques.</p>
+<p>La mitose se déroule toujours en suivant 4 étapes : prophase, métaphase, anaphase et télophase. Elle conserve les caractéristiques chromosomiques des cellules (2n = 46 chrs chez l’Homme).</p>
+<p>Les clones cellulaires peuvent aussi servir à la reproduction asexuée (bactéries, boutures, greffes végétales, …) au renouvellement de tissus lésés par des blessures ou à la production de lymphocytes (B et T) en cas d’agression par un pathogène, …</p>
+<p>Sachant que l’ADN polymérase peut commettre des erreurs lors de la réplication de L’ADN, l’unicité génétique des clones cellulaires issus de la mitose implique l’existence de mécanismes de correction de ces dernières, assurés par des protéines.</p>
+<p>Cependant, aucune entité biologique n’étant parfaite, certaines modifications peuvent être transmises (1 pour 1010 bases répliquées donc 1 pour 33 cellules produites avec un génome de 3.109pdb) aux cellules filles.</p>
+<p><strong>2) Accidents génétiques et générations de cellules</strong></p>
+<p>Les mutations, qu’elles soient de type substitution, délétion ou insertion se produisent inévitablement au cours de la vie de n’importe quel être vivant.</p>
+<p>L’accumulation de ces dernières n’affecte généralement que l’être vivant qu’elles touchent (lignée somatique) à moins qu’elles ne se produisent dans la lignée germinale.</p>
+<p>Du fait de la redondance du code génétique, la majorité d’entre elles ne produisent aucun effet. En revanche, si elles modifient le site actif d’un enzyme par exemple, il est possible qu’elles aient un effet plus ou moins délétère sur l’individu touché (maladie génétique, cancer, …) au fil de leur accumulation.</p>
+<p>Elles peuvent également être à l’origine de l’apparition de nouveaux caractères, susceptibles d’être sélectionnés par l’évolution s’ils sont transmis à la descendance.</p>
+<p><strong>Bilan</strong></p>
+<p>En raison de mécanismes conservateurs très efficaces, les génomes sont particulièrement stables au sein d’une espèce ce qui est indispensable à sa survie dans le temps. On remarque cependant une grande diversité parmi les individus qui la composent.</p>
+<p><strong>II. Génétique mendellienne et brassages</strong></p>
+<p>La découverte des lois régissant la transmission des caractères génétiques sur plusieurs générations revient au moine autrichien Gregor Mendel.</p>
+<p>Durant la seconde moitié du 19ème siècle il réalisa des croisements et étudia notamment les hybrides végétaux. Son modèle d’étude principal, le pois, lui permit de mettre en évidence 3 lois qui portent son nom : l’uniformité des hybrides, la pureté des gamètes (1 seul allèle porté) et la dominance/récessivité des allèles.</p>
+<p>Les principes qu’il énonce sont redécouverts au début du 20ème siècle pour servir de base à la théorie moderne de la biologie évolutive chez l’ensemble des êtres vivants.</p>
+<p><strong>1) La méiose et la production de cellules haploïdes</strong></p>
+<p>Méiose : division cellulaire conduisant à la formation de gamètes haploïdes à partir de cellules germinales diploïdes.</p>
+<p>Chaque méiose produit 4 cellules haploïdes à partir d’une cellule diploïde après une phase de réplication de l’ADN. Elle n’a lieu que pour les cellules germinales des testicules, ovaires et étamines.</p>
+<p>Elle est constituée de 2 divisions successives :</p>
+<ul>
+<li>1ère division : la division réductionnelle :</li>
+</ul>
+<p>Elle débute par la condensation de la chromatine en chromosomes en prophase I.</p>
+<p>Ils s’alignent ensuite sur la plaque équatoriale au niveau de leurs centromères en métaphase I.</p>
+<p>Les chromosomes homologues (de chaque paire) se séparent et migrent vers 2 pôles opposés de la cellule en anaphase I.</p>
+<p>La 1ère division s’achève par la séparation de la cellule mère en deux cellules filles en télophase I et cytodiérèse.</p>
+<p>On passe donc d’une cellule à 2n chrs à 2 chromatides à 2 cellules à n chrs à 2 chromatides. Il s’agit donc bien d’une réduction de moitié du nombre de chrs.</p>
+<ul>
+<li>2ème division : la division équationnelle :</li>
+</ul>
+<p>Elle est rigoureusement identique à la 1ère division sauf pour l’anaphase II au cours de laquelle les chromatides seront séparées.</p>
+<p>Elle ressemble donc en tout point à une mitose classique et on obtient 4 cellules à n chrs à 1 chromatide.</p>
+<p>La méiose produit donc 4 cellules filles haploïdes non identiques à partir d’une cellule mère diploïde.</p>
+<p><strong>2) Les brassages génétiques lors de la méiose</strong></p>
+<p>La génétique s’intéresse à la transmission des gènes et des allèles qui déterminent les caractères. L’identification des génotypes se fait par analyse de croisements ou d’arbres généalogiques.</p>
+<p><strong>a) Rappels</strong></p>
+<p>Les individus homozygotes (= de lignée pure) possèdent 2 allèles identiques pour un gène donné alors que les individus hétérozygotes possèdent 2 allèles différents pour un gène donné.</p>
+<p>Les 2 chromatides d’un même chrs étant identiques, elles portent les mêmes allèles.</p>
+<p>Si les 2 allèles s’expriment, on parle de codominance (ex : groupe sanguin AB), sinon un seul allèle s’exprime, il est dit dominant (ex : A) sur l’autre allèle appelé récessif (ex : O).</p>
+<p><strong>b) L’importance du test-cross (croisement test)</strong></p>
+<p>Test cross : croisement permettant de déterminer le génotype d’un individu et les gamètes qu’il produit.</p>
+<p>On croise un individu à tester (F1) avec un homozygote récessif :</p>
+<ul>
+<li>
+<p>Si F1 est homozygote dominant, le phénotype de la descendance (F2) sera 100% homogène (D//r).</p>
+</li>
+<li>
+<p>Si F1 est hétérozygote, les F2 seront de 2 types : hétérozygotes (D//r) et homozygotes récessif (r//r).</p>
+</li>
+</ul>
+<p><strong>c) Le brassage interchromosomique</strong></p>
+<p>On étudie la transmission de 2 couples d’allèles.</p>
+<p>En anaphase I, les chrs homologues se séparent donc aussi les couples d’allèles. L’analyse statistique montre que les 4 phénotypes attendus sont équiprobables.</p>
+<p>On en conclut que la disjonction des chrs se fait aléatoirement et indépendamment : c’est le brassage interchromosomique.</p>
+<p>Le nombre de gamètes = 2n, n étant le nombre de paires de chrs. Ex : 223 = 8,388M chez H.</p>
+<p>On rassemble les informations d’un croisement dans un échiquier de croisement faisant apparaitre :</p>
+<ul>
+<li>
+<p>Les différents types de gamètes.</p>
+</li>
+<li>
+<p>Les différents génotypes.</p>
+</li>
+<li>
+<p>Les différents phénotypes.</p>
+</li>
+</ul>
+<p><strong>d) Le brassage intrachromosomique</strong></p>
+<p>Tous les cas de dihybridisme ne présentent pas forcément 4 types de descendants équiprobables.</p>
+<p>On observe 4 phénotypes dont 2 sont sur-représentés (parentaux) et 2 sont sous-représentés (recombinés).</p>
+<p>(Lors d’un 2ème test-cross, on n’observe que 2 phénotypes en F2 : les phénotypes parentaux.)</p>
+<p>Ces 2 croisements montrent que les 2 couples d’allèles (gènes) sont liés : les gènes sont placés sur le même chrs.</p>
+<p><strong>e) Brassage intrachromosomique et crossing-over</strong></p>
+<p>En prophase I, les chrs homologues s’apparient et leurs chroma. s’enjambent formant des figures appelées chiasma.</p>
+<p>A ce moment, les 2 chrs s’échangent des fragments de chroma., c’est le crossing-over ce qui crée de nouvelles combinaisons d’allèles = brassage intrachromosomique.</p>
+<p>Les gamètes recombinés sont mis en évidence lors du test-cross. Ce dernier permet donc de déterminer si les gènes sont indépendants (sur 2 chrs différents) ou liés (sur 1 seul chrs).</p>
+<p><strong>Bilan</strong></p>
+<p>Le brassage interchromosomique (anaphase I) combiné aux remaniements intrachromosomiques (prophase I) permettent la formation de gamètes d’une diversité potentiellement infinie.</p>
+<p><strong>3) La fécondation : une nouvelle source de diversité</strong></p>
+<p>Elle correspond chez la plupart des animaux à l’union d’un gamète mâle (n) et d’un gamète femelle (n).</p>
+<p>Elle est suivie de la caryogamie (la fusion des pronucléis mâle et femelle) formant un noyau diploïde constituant un nouvel individu : le zygote.</p>
+<p>La fécondation unit 2 gamètes au hasard et amplifie donc le brassage génétique.</p>
+<p>La diversité génétique des zygotes est immense. Chaque individu de chaque espèce possède donc une combinaison unique et inédite d’allèles.</p>
+<p><em>Seuls peu de zygotes sont viables et se développent en raison d’un fort taux d’échecs lors du développement et des erreurs peuvent se produire.</em></p>
+<p><strong>4) Anomalies de la méiose et conséquences</strong></p>
+<p><strong>a) Des « maladies génétiques »</strong></p>
+<p>On observe des anomalies lors de la migration des chrs ou des chroma. en anaphases I ou II. On parle de non disjonction s’il y a mauvaise séparation.</p>
+<p>On obtient un nombre anormal de chrs dans les gamètes trisomiques ou monosomiques.</p>
+<p>Le caryotype du zygote sera alors également anormal.</p>
+<p>Ex : trisomie 21, syndrome de Klinefelter (XXY), …</p>
+<p><strong>b) Duplication de gènes et conséquences</strong></p>
+<p>La majorité des C-O correspondent à des échanges parfaitement homologues de chroma.</p>
+<p>Rarement, on observe des appariements incorrects donc le C-O est inégal : 1 chroma gagne du matériel génétique et l’autre en perd.</p>
+<p>Les copies de gènes dupliqués peuvent alors subir des mutations et évoluer indépendamment.</p>
+<ul>
+<li>le temps passe, + les mutations s’accumulent donc + les séquences sont génétiquement éloignées, + la duplication est ancienne.</li>
+</ul>
+<p>A terme, de nouveaux gènes peuvent apparaître et coder des protéines différentes du gène initial mais aux rôles très apparentés et constituer alors une famille multigénique. Ex : opsines, globines, …</p>
+<p>Ces copies de gènes peuvent également donner des caractéristiques nouvelles à l’individu (ou la lignée) touché et favoriser son évolution : adaptation à un nouvel environnement, résistance aux pesticides, …</p>
+<p><strong>III. Analyse génétique chez l’Homme</strong></p>
+<p>L’étude de la transmission des caractères chez l’Homme se fait principalement grâce à l’analyse des arbres généalogiques, généralement en lien avec une maladie génétique (mucoviscidose, hémophilie, DT1, …).</p>
+<p>Cela permet au médecin de déterminer le caractère dominant ou récessif de l’allèle considéré ainsi que le type de transmission de ce dernier : autosomique (l’allèle se situe sur un autosome) ou gonosomique (l’allèle est localisé sur un des chrs sexuels).</p>
+<p>L’évolution récente et la baisse des coûts des techniques de séquençage de l’ADN ainsi que la bioinformatique permettent d’accéder au génome de chacun.</p>
+<p>Cela permet la constitution de gigantesques bases de données dont l’analyse est fondamentale pour comprendre les interactions entre gènes ainsi qu’avec l’environnement dans le développement de certaines pathologies.</p>
+<p>L’objectif est alors d’arriver à une médecine personnalisée plus efficace et moins onéreuse. Il ne faut cependant pas négliger le caractère éminemment personnel des données cédées par les patients.</p>
+<p>Il est donc indispensable de bien comprendre et peser la balance bénéfice-risque pour la mise en œuvre future de cette nouvelle médecine et son acceptation par la population dans le respect de l’éthique.</p>
+<p><strong>Conclusion</strong></p>
+<p>L’opposition en apparence contradictoire entre la stabilité du génome et la diversité des individus au sein d’une espèce, permise grâce aux brassages génétiques et leurs implications, a favorisé la diversification du génome des êtres vivants.</p>
+<p>L’évolution très rapide des techniques de pointe en bio-ingénirie ouvre un nouveau champ des possibles en médecine dont la société publique doit impérativement s’emparer.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t2-c2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t2-c2/</guid>
+      <description>![[t2c2.odt]] Thème 2: Génétique et évolution&#xA;Chapitre 2 : Éléments de complexification du génome&#xA;L’évolution des formes de vies au cours du temps a parfois emprunté des chemins originaux et complexes. Certains gènes possédés par une espèces proviennent d’une autre très éloignée sur le buisson évolutif.&#xA;Problématique : Comment est-il possible que des gènes traversent la barrière de l’espèce ? Comment les eucaryotes ont-ils pu acquérir les chloroplastes et mitochondries ?</description>
+      <content:encoded><![CDATA[<p>![[t2c2.odt]]
+Thème 2: Génétique et évolution</p>
+<p>Chapitre 2 : Éléments de complexification
+du génome</p>
+<p>L’évolution des formes de vies au cours du temps a parfois emprunté des chemins originaux et complexes. Certains gènes possédés par une espèces proviennent d’une autre très éloignée sur le buisson évolutif.</p>
+<p>Problématique : Comment est-il possible que des gènes traversent la barrière de l’espèce ? Comment les eucaryotes ont-ils pu acquérir les chloroplastes et mitochondries ?</p>
+<p>I. Les transferts de gènes
+Les études en génétique évolutive expérimentale se font principalement sur des bactéries du genre E. coli. Ces dernières se reproduisent très vite et permettent d’étudier aisément les transferts de gènes.</p>
+<ol>
+<li>Un phénomène fréquent chez les bactéries
+Les bactéries sont capables de gagner de nouveaux caractères à partir de leur environnement en récupérant de l’ADN. Cela peut se faire de 3 manières différentes:</li>
+</ol>
+<ul>
+<li>
+<p>Par transformation: en récupérant de l’ADN libre (issu de cellules mortes) se trouvant à proximité.</p>
+</li>
+<li>
+<p>Par transduction: ce qui implique un vecteur tel qu’un virus (bactériophage) ayant pris de l’ADN à une bactérie «donneuse» au cours de son cycle de vie.</p>
+</li>
+<li>
+<p>Par conjugaison: qui consiste en un pont cytoplasmique entre 2 bactéries permettant le passage d’ADN de l’une à l’autre. Elle se fait généralement entre 2 individus de même espèce et implique l’utilisation d’un plasmide : petite molécule d’ADN circulaire portant quelques gènes, différente du chromosomes de la cellule.</p>
+</li>
+</ul>
+<p>Dans tous les cas, il s’agit d’un transfert horizontal de gènes entre individus n’ayant pas nécessairement de lien de parenté direct par opposition au transfert vertical (par reproduction) des parents aux enfants. Il permet notamment aux bactéries de se transmettre des gènes de résistance.</p>
+<ol start="2">
+<li>Usages et histoire du vivant
+La connaissance de ces mécanismes et leur maîtrise biotechnologique a permis de les détourner afin de mettre au point des OGM par transgenèse.</li>
+</ol>
+<p>L’objectif peut être d’améliorer une culture (golden rice, maïs Bt), de faire produire une molécule d’intérêt aux bactéries comme l’insuline ou aux levures comme le vaccin de l’hépatite B, de contrôler une population de nuisibles en introduisant des mâles stériles, …</p>
+<p>Dans tous les cas, les individus OGM, s’ils se répandent au sein des populations naturelles auront un impact non négligeable sur l’évolution future de ces populations.</p>
+<p>En comparant les séquences de certaines protéines apparentées chez différentes espèces, on observe que de nombreux événements de transferts horizontaux de gènes ont eu lieu dans la plupart des branches au cours de l’histoire du vivant.
+Ex : couleurs des pucerons, capacité des japonais à digérer les parois des algues…</p>
+<p>Les transferts horizontaux de gènes contribuent donc de façon non négligeable à l’évolution des formes de vie sur Terre au même titre que la sélection naturelle et la dérive génétique. Ils ne sont donc que depuis peu utilisés pour établir la phylogénie entre espèces actuelles.</p>
+<p>En plus des gènes, est-il possible de transférer d’autres éléments d’une espèce à l’autre ?</p>
+<p>II. L’origine des organites des eucaryotes
+L’observation au microscope des chloroplastes et mitochondries montre qu’ils possèdent une double membrane, la capacité de se dupliquer et même la présence de matériel génétique (90% de leur génome a été transféré vers le noyau).</p>
+<p>Ils ressemblent donc fortement à des bactéries simplifiées qui auraient perdu une partie de leurs caractéristiques et sont transmis de génération en génération par voie maternelle.</p>
+<p>L’étude de leur génome montre que leur plus proche parent correspond à une protéobactérie pour la mitochondrie et une cyanobactérie pour le chloroplaste. Ils ont donc une origine bactérienne.</p>
+<p>L’association à bénéfice réciproque entre deux individus correspond à une symbiose.</p>
+<p>Dans le cas de ces organites, le partenaire bactérien a été totalement intégré au partenaire eucaryote, a perdu une part importante de ses capacités et ne peut plus exister sans lui. On appelle cela une endosymbiose.</p>
+<p>Ces événements ont eu lieu successivement (mitochondrie puis chloroplaste) et à plusieurs reprises, il y a entre 1 et 2 Ga, et ont conduit à une grande diversification du vivant dans les branches animales et végétales.</p>
+<p>Conclusion</p>
+<p>L’évolution des formes de vie présentes sur Terre ne dépend pas exclusivement de la sélection naturelle et de la dérive génétique.</p>
+<p>La mise en évidence de transferts horizontaux de gènes ainsi que la théorie endosymbiotique des organites eucaryotes nous invite à reconsidérer la construction du buisson du vivant en y intégrant ces phénomènes.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t2-c3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t2-c3/</guid>
+      <description>![[t2c3.odt]] Thème 2: Génétique et évolution&#xA;Chapitre 3 : Biologie évolutive des populations&#xA;La succession des espèces au fil des temps géologiques est contrainte par l’évolution des populations qui les composent. Ces dernières sont soumises aux contraintes d’un environnement changeant et de paramètres génétiques en constante mutation.&#xA;Problématique : Comment peut-on modéliser l’évolution des populations naturelles ?&#xA;Comment définir une espèce et décrire son évolution ?&#xA;I. Modélisation mathématique de l’évolution des espèces</description>
+      <content:encoded><![CDATA[<p>![[t2c3.odt]]
+<strong>Thème 2: Génétique et évolution</strong></p>
+<p><strong>Chapitre 3 : Biologie évolutive des populations</strong></p>
+<p>La <strong>succession des espèces</strong> au fil des temps géologiques est contrainte par l’<strong>évolution des populations qui les composent</strong>. Ces dernières sont soumises aux contraintes d’un <strong>environnement changeant</strong> et de <strong>paramètres génétiques en constante mutation</strong>.</p>
+<p>Problématique : <em>Comment peut-on modéliser l’évolution des populations naturelles ?</em></p>
+<p><em>Comment définir une espèce et décrire son évolution ?</em></p>
+<p><strong>I. Modélisation mathématique de l’évolution des espèces</strong></p>
+<p>A la suite des travaux de Darwin, d’autres scientifiques ont cherché à décrire l’évolution des populations à l’aide d’équations. <strong>Godfrey Harold Hardy</strong> et <strong>Wilhelm Weinberg</strong> décrivent le <strong>principe mathématique de l’évolution génétique des populations</strong> (<em>théoriques</em>) connu sous le nom de <strong>loi de Hardy-Weinberg</strong> qui montre une stabilité appelée <strong>équilibre de Hardy-Weinberg</strong>.</p>
+<p><strong>1) La loi de Hardy-Weinberg</strong></p>
+<p>Le modèle s’applique sur des <strong>populations d’eucaryotes à reproduction sexuée</strong>: <strong>-</strong> <strong>t****aille de population infinie</strong></p>
+<p><strong>- absence de migration,</strong> <strong>de mutation, de sélection</strong></p>
+<p><strong>- panmixie</strong> (<em>reproduction au hasard sans sélection sexuelle</em>)</p>
+<p>Sous ces conditions, il énonce que :</p>
+<ul>
+<li>
+<p>La <strong>fréquence des allèles reste stable</strong> d’une génération à l’autre.</p>
+</li>
+<li>
+<p>La <strong>fréquence des génotypes</strong> se <strong>déduit directement de celle des phénotypes</strong> observés et <strong>demeure constante</strong>.</p>
+</li>
+</ul>
+<p><em>Ex : Pour un gène existant sous 2 allèles A et B</em></p>
+<p>On établit que <strong>f(A) = p et f(B) = q</strong> et comme pour ce gène il n’y a que 2 allèles,</p>
+<p><strong>f(A) + f(B) = 1 donc p + q = 1</strong>.</p>
+<p>En y rajoutant la fréquence des allèles le tableau de croisement des gamètes portant les allèles de ce gène est le suivant :</p>
+<p>Les fréquences des allèles chez les différents zygotes (<em>descendants</em>) possibles sont :</p>
+<ul>
+<li>
+<p><strong>f(A) = f(A // A) + ½ f(A // B) = p² + ½ (2pq) =</strong> <strong>p² + pq</strong></p>
+</li>
+<li>
+<p><strong>f(B) = f(B // B) + ½ f(A // B) = q² + ½ (2pq) =</strong> <strong>q² + pq</strong></p>
+</li>
+</ul>
+<p>Sachant que f**(A) + f(B) = 1**, donc <strong>p + q = 1 =&gt; q = 1 - p et p = 1 – q</strong>.</p>
+<p><strong>f(A) = p² + pq = p² + p(1 - p) = p² + p - p² = p</strong></p>
+<p><strong>f(B) = q² + pq = q² + q(1 - q) = q² + q - q² = q</strong></p>
+<p>On en conclue donc que <strong>les fréquences des allèles A et B chez les descendants</strong> <strong>sont identiques à celles chez les parents</strong>. Cette population est <strong>à l’équilibre de Hardy-Weinberg</strong>.</p>
+<p><strong>2) La théorie et la réalité</strong></p>
+<p>Dans la nature, <strong>trois forces évolutives majeures</strong> s’appliquent aux espèces :</p>
+<p><strong>- les mutations et la sélection naturelle</strong></p>
+<p><strong>- la dérive génétique</strong></p>
+<p><strong>- la sélection sexuelle</strong></p>
+<p>Ainsi, <strong>l’équilibre de Hardy-Weinberg</strong> n’est <strong>quasiment jamais atteint</strong> en pratique ce qui <strong>valide l’existence de l’évolution des espèces</strong>.</p>
+<p><strong>II. L’évolution des populations au cours du temps</strong></p>
+<p><strong>Evolution :</strong> <strong>ensemble des mécanismes</strong> par lesquels les <strong>populations varient</strong>, les <strong>espèces naissent</strong>, se <strong>transforment</strong> et <strong>disparaissent</strong>.</p>
+<p><strong>P****opulation :</strong> un <strong>ensemble d’individus</strong> d’une <strong>même espèce</strong> qui n’ont <strong>pas les mêmes combinaisons alléliques</strong>.</p>
+<p><strong>S****élection naturelle :</strong> l’<strong>évolution</strong> de la <strong>fréquence des allèles</strong> donnant un <strong>avantage (ou désavantage) sélectif</strong>.</p>
+<p><strong>1) La sélection naturelle</strong></p>
+<p>Les fréquences des allèles avantageux augmenteront au fil des générations (dans des</p>
+<p>conditions environnementales fixes) et inversement; concept deDarwin au 19e siecle.</p>
+<p>En effet, les <strong>individus</strong> <strong>au</strong> <strong>phénotype favorisé</strong> auront un <strong>meilleur taux de survie</strong> et un <strong>plus grand nombre de descendants</strong> (<em>meilleure fertilité</em>) et pourront <strong>éventuellement constituer une nouvelle espèce</strong>.</p>
+<p><em>Ex : Les pinsons de Darwin, la phalène du bouleau&hellip;</em></p>
+<p><strong>2) La dérive génétique</strong></p>
+<p><strong>Dérive génétique :</strong> <strong>variations aléatoires</strong> de la <strong>fréquence des allèles neutres</strong> <strong>dans une population ou une espèce</strong>.</p>
+<p>La <strong>dérive génétique</strong> c’est des <strong>v****ariations imprévisibles</strong> et donc <strong>forte****s</strong> <strong>dans les petites populations</strong> isolées du reste de l’espèce. Cela peut conduire à la <strong>disparition ou la fixation de certains allèles</strong>. Cela génère une <strong>diminution de la diversité génétique</strong> et <strong>contrebalance l’effet des mutations</strong>.</p>
+<p>La colonisation d’un milieu par un petit groupe isolé d’individus conduit à la formation rapide d’un ensemble génétiquement unique en raison de la dérive génétique et de l’effet fondateur (sélection au hasard d’un petit groupe avec un pool allélique donné). Cette population pourra, à long terme, évoluer en une nouvelle espèce.</p>
+<p><strong>III. La notion d’espèce</strong></p>
+<p><strong>1) Historique de la notion d’espèce</strong></p>
+<p>L’espèce est un concept dont la <strong>déf****inition</strong> <strong>fait l’objet de nombreux débats</strong>, on compte jusqu’à 22 définitions différentes. On parle donc de <strong>concepts d’espèce</strong> et ceux-ci ne peuvent s’appliquer de façon universelle.</p>
+<p>Voici quelques exemples :</p>
+<p><em>mdr jsp ou sont les exemples y avait rien écris sur les diapos :P</em></p>
+<p><strong>2) Définir le concept d’espèce</strong></p>
+<p>La <strong>diversité du vivant</strong> est décrite comme la <strong>diversité des</strong> <strong>espèces</strong> que l’on définit selon <strong>2 grands critères</strong> :</p>
+<ul>
+<li>La <strong>ressemblance</strong> ou <strong>déf****inition</strong> <strong>typologique de l’espèce</strong> :</li>
+</ul>
+<p>Les <strong>individus d’une même</strong> <strong>espèce</strong> se <strong>ressemblent</strong> <strong>+ entre eux</strong> qu’aux individus d’une autre espèce.</p>
+<p>Limite : <em>dimorphisme sexuel, mimétisme,</em> <em>espèces</em> <em>Jumelles&hellip;</em></p>
+<ul>
+<li>L’<strong>interfécondité</strong> ou <strong>définition biologique de l’espèce</strong> :</li>
+</ul>
+<p>2 individus sont <strong>de la même</strong> <strong>espèce</strong> s’ils <strong>peuvent se reproduire entre eux</strong> si leur <strong>descendance est fertile</strong>.</p>
+<p>Limite : <em>tous les hybrides interspécifiques fertiles</em></p>
+<p>Ces limites montrent qu’il faut inclure <strong>2 éléments supplémentaires dans la notion d’espèce</strong> :</p>
+<ul>
+<li>
+<p>Une <strong>définition écologique</strong> : une <strong>population séparée dans l’espace au sein d’une niche écologique donnée</strong>.</p>
+</li>
+<li>
+<p>Une <strong>définition évolutive</strong> : une <strong>population isolée dans le temps</strong> <strong>assez longtemps</strong> <strong>bien que puissent encore exister des hybrides fertiles ou stériles</strong>.</p>
+</li>
+</ul>
+<p><strong>Une espèce :</strong> est donc une <strong>population d’individus suffisamment isolés génétiquement des autres populations</strong>.</p>
+<p><strong>IV. Séquençage de l’ADN et étude des espèces</strong></p>
+<p>L’application du <strong>séquençage haute fréquence</strong> à un <strong>échantillon prélevé dans un milieu naturel</strong> (flaque d’eau par ex.) permet <strong>d’identifier et regrouper</strong> les <strong>individus possédant des génomes proches</strong>.</p>
+<p>On a ainsi pu identifier des <strong>groupes d’individus assez isolés génétiquement</strong> les uns des autres et constituant donc potentiellement de nouvelles espèces. <strong>D’autres critères sont cependant aussi à considérer</strong> pour parler d’événement de spéciation.</p>
+<p><strong>Spéciation :</strong> <strong>apparition d’une nouvelle</strong> <strong>espèce</strong> <strong>à partir d’une population isolée reproductivement de</strong> l’<strong>espèce Ancestrale</strong>.</p>
+<p><strong>Conclusion</strong></p>
+<p><strong>L’évolution des populations</strong> au <strong>sein des espèces</strong> a lieu <strong>sous la contrainte de l’environnement</strong> et de <strong>facteurs génétiques internes</strong>. Elle ne suit qu’<strong>exceptionnellement la loi de Hardy-Weinberg</strong> tant les contraintes de cette dernière sont fortes. La démocratisation des <strong>techniques de séquençage moderne de l’ADN</strong> ouvre <strong>tout un champ des possibles à l’étude très fine de ces populations</strong>.</p>
+<p><strong>V. Diversification non génétique du vivant</strong></p>
+<p>Le <strong>phénotype des individus</strong> peut être <strong>étendu par des associations</strong> avec d’<strong>autres êtres vivants</strong> selon <strong>2 modalités</strong> :</p>
+<ul>
+<li>
+<p><strong>La symbiose :</strong> <strong>chaque partenaire</strong> <strong>apporte ses gènes et capacités</strong> à l’autre ce qui permet:</p>
+</li>
+<li>
+<p>d’<strong>améliorer leurs capacités de protection</strong> (<em>microbiote</em>)</p>
+</li>
+<li>
+<p>d’<strong>apporter de nouvelles fonctions</strong> (<em>photosynthèse</em> <em>-&gt;</em> <em>ver plat de Roscoff</em>)</p>
+</li>
+<li>
+<p>de <strong>favoriser l’adaptation au milieu</strong> (<em>acacias</em>).</p>
+</li>
+<li>
+<p><strong>Les relations nuisibles :</strong></p>
+</li>
+<li>
+<p><strong>l****e parasitisme</strong> peut <strong>modifier le comportement de certains animaux</strong> (<em>fourmis zombie</em>)</p>
+</li>
+<li>
+<p>une <strong>modification du microbiote</strong> peut <strong>favoriser l’apparition de maladies chroniques et de l’obésité</strong>.</p>
+</li>
+</ul>
+<p>Certains animaux <strong>récupèrent et utilisent</strong> des <strong>éléments de leur environnement</strong> ce qui <strong>modifie leur phénotype</strong> :</p>
+<ul>
+<li>
+<p><strong>construction d’habitat</strong> (<em>fourreaux des trichoptères</em>)</p>
+</li>
+<li>
+<p><strong>parures</strong> (<em>chez l’Homme</em>)</p>
+</li>
+<li>
+<p><strong>parades nuptiales</strong></p>
+</li>
+</ul>
+<p><em>etc&hellip;</em></p>
+<p><strong>Ces comportements favorisent</strong> l’<strong>attractivité sexuelle</strong> (<em>résultat de la</em> <em><strong>sélection sexuelle</strong></em>) ou l’<strong>échappement face aux prédateurs</strong>.</p>
+<p>Le dernier <strong>élément de diversification</strong> est la <strong>transmission culturelle</strong> de génération en génération ou entre contemporains : <em>chant des oiseaux, utilisation d’outils chez les primates, langues humaines…</em></p>
+<p>Leur <strong>évolution</strong> est <strong>spécifique à chaque population</strong>, <strong>suit les mécanismes de la sélection naturelle et la dérive génétique</strong> et <strong>peut contribuer à une limitation des échanges entre populations donc</strong> <em><strong>in fine</strong></em> <strong>leur spéciation</strong>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t3-c1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t3-c1/</guid>
+      <description>![[t3c1.odt]] Thème 3 : Corps humain et santé&#xA;Chapitre 1 : Mouvements et système nerveux&#xA;Rappels :&#xA;Encéphale : le cerveau, le cervelet et le tronc cérébral. Ils constituent les centres nerveux reliés aux organes par des nerfs.&#xA;Nerf : c’est un ensemble de fibres nerveuses appelées neurones.&#xA;Neurone : cellule spécialisée dans la réception, la genèse, la propagation et la transmission d’un message nerveux.&#xA;Les neurones possèdent :&#xA;Des dendrites, ramifications du corps cellulaire responsables de la réception des messages nerveux.</description>
+      <content:encoded><![CDATA[<p>![[t3c1.odt]]
+<strong>Thème 3 : Corps humain et santé</strong></p>
+<p><strong>Chapitre 1 : Mouvements et système nerveux</strong></p>
+<p><strong>Rappels :</strong></p>
+<ul>
+<li>
+<p><strong>Encéphale</strong> : le <strong>cerveau</strong>, le <strong>cervelet</strong> et le <strong>tronc cérébral</strong>. Ils constituent les <strong>centres nerveux</strong> reliés aux organes par des nerfs.</p>
+</li>
+<li>
+<p><strong>Nerf :</strong> c’est un <strong>ensemble de fibres nerveuses</strong> appelées <strong>neurones</strong>.</p>
+</li>
+<li>
+<p><strong>Neurone :</strong> <strong>cellule</strong> <strong>spécialisée</strong> dans la <strong>réception</strong>, la <strong>genèse</strong>, la <strong>propagation</strong> et la <strong>transmission</strong> d’un <strong>message nerveux</strong>.</p>
+</li>
+</ul>
+<p>Les neurones possèdent :</p>
+<ul>
+<li>
+<p>Des <strong>dendrites</strong>, <strong>ramifications</strong> du corps cellulaire responsables de la <strong>réception des messages nerveux</strong>.</p>
+</li>
+<li>
+<p>Un <strong>corps cellulaire</strong> où se trouvent le <strong>noyau</strong> et la <strong>machinerie cellulaire</strong>, lieu d’<strong>intégration</strong> et de <strong>genèse</strong> des <strong>messages nerveux</strong>.</p>
+</li>
+<li>
+<p>Un <strong>axone</strong>, <strong>prolongement principal</strong> du neurone, spécialisé dans la <strong>propagation</strong> du message nerveux. Il se ramifie à son extrémité et <strong>forme l’arborisation terminale</strong>.</p>
+</li>
+<li>
+<p>Des <strong>synapses</strong> qui assurent le <strong>transfert de l’information</strong> entre les neurones et avec d’autres cellules.</p>
+</li>
+</ul>
+<p><img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_231c7f0f.png"> <img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_a14f7196.png"></p>
+<p><img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_ced128d3.png"> <img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_87c841bf.png"></p>
+<p><em>Problématique : Comment fonctionnent les circuits nerveux à l’origine des mouvements involontaires et volontaires ?</em></p>
+<p><em>Comment le cerveau adapte-t-il son fonctionnement aux aléas de la vie ?</em></p>
+<p><strong>I. Fonctionnement de l’arc réflexe</strong></p>
+<p><strong>1) Organisation générale du réflexe myotatique</strong></p>
+<p>Un <strong>réflexe</strong> est une <strong>réaction motrice involontaire et stéréotypée</strong> en <strong>réponse à une stimulation</strong>.</p>
+<p>Le <strong>réflexe myotatique</strong> permet la <strong>contraction d’un muscle</strong> en <strong>réponse à son étirement</strong>.</p>
+<p>Les organes impliqués dans le réflexe sont :</p>
+<ul>
+<li>
+<p>Le <strong>mécanorécepteur</strong>, une <strong>structure</strong> qui <strong>perçoit le stimulus d’étirement</strong> dans le muscle.</p>
+</li>
+<li>
+<p>Les <strong>neurones</strong> qui vont <strong>conduire le message au système nerveux</strong> et <strong>permettre la réponse motrice</strong>.</p>
+</li>
+<li>
+<p>Le <strong>centre nerveux</strong> : la <strong>moelle épinière</strong>.</p>
+</li>
+<li>
+<p>Les <strong>effecteurs</strong> : les <strong>cellules musculaires</strong>.</p>
+</li>
+</ul>
+<p><strong>2) Structure de la moelle épinière</strong></p>
+<p>La <strong>moelle épinière</strong> est composée de <strong>tissu nerveux</strong> dans le <strong>canal interne des vertèbres</strong>.</p>
+<p>On y distingue 3 zones principales :</p>
+<ul>
+<li>
+<p><strong>La substance grise :</strong> située au <strong>centre</strong> et <strong>composée des corps cellulaires des neurones</strong>.</p>
+</li>
+<li>
+<p><strong>La substance blanche :</strong> située <strong>autour de la substance grise</strong>, composée d’<strong>axones</strong> et de <strong>dendrites</strong>.</p>
+</li>
+<li>
+<p><strong>Les ganglions rachidiens :</strong> Placés <strong>sur les racines dorsales de la moelle épinière</strong>. On y trouve les <strong>corps cellulaires des neurones sensoriels</strong>.</p>
+</li>
+</ul>
+<p><img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_af461c76.png"></p>
+<p><strong>3) Le fonctionnement de l’arc réflexe</strong></p>
+<p><strong>Expériences historiques :</strong></p>
+<p>En <strong>sectionnant le ganglion rachidien</strong>, la <strong>zone innervée</strong> par le nerf rachidien <strong>perd sa sensibilité</strong>.</p>
+<p>La <strong>racine dorsale</strong> a donc un <strong>rôle sensitif</strong>.</p>
+<p>En <strong>sectionnant la racine ventrale</strong>, la <strong>zone innervée perd sa motricité</strong>.</p>
+<p>La <strong>racine ventrale</strong> a donc un <strong>rôle moteur</strong>.</p>
+<p>Le <strong>réflexe myotatique</strong> fait donc intervenir un <strong>système nerveux simple à 2 composants</strong> : un <strong>neurone sensitif afférent</strong> et un <strong>neurone moteur efférent</strong> <strong>séparés par une synapse</strong> (réflexe monosynaptique)</p>
+<p><img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_816be3c7.png"></p>
+<p><img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_a43b706e.png"> <em>Schéma fonctionnel de l’arc réflexe</em></p>
+<p><strong>Bilan</strong></p>
+<p>Le <strong>réflexe myotatique</strong> permet la <strong>contraction involontaire</strong> d’un muscle en <strong>réponse à son étirement</strong>. Les réflexes participent donc au maintien de la posture, produisent les mouvements involontaires en situation de danger et permettent la respiration ainsi que le péristaltisme.</p>
+<p>II. Naissance et propagation du message nerveux au sein du neurone</p>
+<ol>
+<li>Nature et origine du potentiel d’action</li>
+</ol>
+<p>Toutes les cellules présentent une répartition des ions différente de part et d’autre de leur membrane. Ceci induit un potentiel de repos ou de membrane.</p>
+<p>On observe une tension de -70mV, le côté intracellulaire est donc chargé – et le côté extracellulaire chargé +. La membrane est polarisée.</p>
+<p><img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_f7f5a8cb.png"></p>
+<ol start="2">
+<li>Le potentiel d’action</li>
+</ol>
+<p>Lors de la stimulation d’un neurone, est créé un message nerveux appelé potentiel d’action. C’est une modification brutale brève (3ms) et locale de la tension de la membrane.</p>
+<p>On observe les modifications suivantes</p>
+<ul>
+<li>
+<p>Une phase de dépolarisation : la polarisation de la membrane s’inverse très rapidement de -70 à +40mV grâce à l’entrée d’ions Na+.</p>
+</li>
+<li>
+<p>Une phase de repolarisation : la polarisation de la membrane revient progressivement au potentiel de repos grâce à la sortie d’ions K+.</p>
+</li>
+<li>
+<p>Une phase d’hyperpolarisation : la face interne de la membrane devient encore plus négative (-90mV) par une sortie excessive d’ions K+.</p>
+</li>
+</ul>
+<ol start="3">
+<li>Codage des messages nerveux</li>
+</ol>
+<p>Les messages sont caractérisés par un train de PA d’amplitude constante.</p>
+<p>Les messages nerveux sont donc stéréotypés (toujours les mêmes), répondent à la loi du tout ou rien et sont codés par la fréquence des PA.</p>
+<p>III. Transmission du message d’un neurone à l’autre : la synapse.</p>
+<ol>
+<li>Structure de la synapse</li>
+</ol>
+<p>La synapse permet de faire passer le message nerveux de façon unidirectionnelle de l’élément présynaptique vers l’élément postsynaptique avec un délai (retard) de 0,5ms.</p>
+<p>La synapse est constituée de 3 éléments :</p>
+<ul>
+<li>
+<p>L’élément présynaptique : le seul à posséder des vésicules synaptiques contenant un neurotransmetteur. C’est là qu’arrive le PA à l’extrémité de l’axone.</p>
+</li>
+<li>
+<p>La fente synaptique : de 20 à 50nm, bloque le PA car les deux membranes ne sont pas en contact direct.</p>
+</li>
+<li>
+<p>L’élément postsynaptique : dépourvu de vésicules synaptiques, ce sont les dendrites ou le corps cellulaire d’un neurone ou une cellule musculaire. Il possède des récepteurs aux neurotransmetteurs.</p>
+</li>
+</ul>
+<ol start="2">
+<li>Les étapes de la transmission synaptique</li>
+</ol>
+<ul>
+<li>
+<p>L’arrivée des PA provoque l’exocytose des vésicules synaptiques et la libération dans la fente synaptique des neurotransmetteurs.</p>
+</li>
+<li>
+<p>Les neurotransmetteurs se fixent sur des récepteurs spécifiques sur la membrane post.</p>
+</li>
+<li>
+<p>L’association neurotransmetteur/récepteur peut provoquer la naissance d’un PA car le récepteur est une molécule canal qui peut s’ouvrir et laisser passer des ions.</p>
+</li>
+<li>
+<p>Les neurotransmetteurs sont dégradés et/ou recapturés par l’élément pré. pour être réutilisés. L’élément post. peut à nouveau répondre à un PA.</p>
+</li>
+</ul>
+<p>N.B. : seul l’élément pré. contient les NT donc la synapse ne peut fonctionner qu’en sens unique de l’élément pré. vers le post.</p>
+<ol start="3">
+<li>Diversité des messages et neurotransmetteurs</li>
+</ol>
+<p>Comme le PA est invariant, la nature et les caractéristiques du message sont conservées au niveau de la synapse. Un message de contraction induit la libération d’un NT excitateur et inversement.</p>
+<p>Ex de NT : acétylcholine, adrénaline, GABA, sérotonine, endorphines, …</p>
+<ol start="4">
+<li>Codage de l’information au niveau de la synapse</li>
+</ol>
+<p>La fréquence des PA est traduite en concentration de NT libérés dans la fente synaptique.</p>
+<p>Toutes les synapses fonctionnent sur ce modèle. La seule différence réside dans les effets des NT sur l’élément post. : on distingue les synapses excitatrices et les synapses inhibitrices selon le type de NT impliqué.</p>
+<p>Ex : Ach = excitateur ; GABA = inhibiteur ; dopamine = excitateur ; …</p>
+<p>Bilan</p>
+<p>L’information nerveuse prend tantôt la forme d’un message « électrique » correspondant à une inversion du potentiel de membrane du neurone, tantôt la forme d’un message chimique au niveau de la synapse.</p>
+<p>Le message véhiculé peut être excitateur ou inhibiteur selon le type de neurotransmetteur impliqué et son intensité ne peut être modulé qu’au niveau de la synapse en fonction de la quantité reçue par la membrane post-synaptique.</p>
+<p><strong>IV. De la synapse à la contraction musculaire</strong></p>
+<p>Lorsqu’un <strong>message excitateur</strong> arrive au niveau d’un muscle, il déclenche la <strong>libération d’Ach au niveau de la synapse appelée plaque motrice</strong>.</p>
+<p>Lorsque ce NT est <strong>capté par le récepteur sur la membrane de la cellule musculaire</strong>, il déclenche une <strong>cascade de réaction</strong>s aboutissant à la <strong>contraction de la cellule</strong> :</p>
+<ul>
+<li>
+<p>Le <strong>potentiel de membrane musculaire</strong> subit une <strong>dépolarisation</strong>.</p>
+</li>
+<li>
+<p>Les <strong>canaux Ca2+ membranaires et du réticulum sarcoplasmique</strong> s’<strong>ouvrent</strong>.</p>
+</li>
+</ul>
+<p><img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_46a41a96.png"></p>
+<ul>
+<li>
+<p>La <strong>concentration intracellulaire (cytoplasmique) en Ca2+</strong> <strong>augmente fortement</strong>.</p>
+</li>
+<li>
+<p>La <strong>cellule</strong> se <strong>contracte localement</strong> et le <strong>phénomène se propage très rapidement tout au long de la fibre musculaire</strong> ce qui entraîne le raccourcissement du muscle entier.</p>
+</li>
+</ul>
+<p>Rq : Chaque <strong>fibre musculaire</strong> du corps ne reçoit les <strong>informations</strong> que <strong>d’un seul neurone</strong>.</p>
+<p>Cependant, un <strong>neurone</strong> peut <strong>innerver de nombreuses fibres si le mouvement est peu précis</strong> (Ex : muscles du squelette) <strong>ou à l’inverse une seule fibre s’il doit être très fin</strong> (Ex : mouvements oculaires).</p>
+<p><img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_5f739545.png"> <img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_83ab0005.png"></p>
+<p><strong>V. De la volonté au mouvement</strong></p>
+<p>Le <strong>cerveau</strong> possède <strong>2 types de cellules</strong> : <strong>20% de neurones</strong> et <strong>80% de cellules gliales</strong> qui <strong>les nourrissent</strong> et <strong>produisent la gaine de myéline</strong>.</p>
+<p>L’étude non invasive de son fonctionnement peut se faire par une <strong>technique d’enregistrement électroencéphalographique</strong> ou par <strong>IRM</strong>.</p>
+<p>L’<strong>IRM fonctionnelle</strong> est basée sur la technique TEP (Tomographie par Emission de Positrons) appelée TEP Scan utilisant des éléments radioactifs (18F).</p>
+<p><img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_a0110a1.png"> En combinaison à l’IRM anatomique, elle permet d’identifier les <strong>zones actives du cerveau</strong> lors de <strong>différentes activités cognitives ou motrices</strong> et de reconstituer une image 3D.</p>
+<p><strong>1) La commande volontaire du mouvement</strong></p>
+<p>On a pu déduire des IRMf que <strong>la commande volontaire des mouvements</strong> est <strong>contrôlée par une région cérébrale</strong> appelée <strong>aire motrice primaire</strong> (M1).</p>
+<p><strong>Chaque zone</strong> de cette aire contrôle <strong>une partie spécifique du corps</strong> et on en a établi une carte appelée <em><strong>homonculus moteur</strong></em>.</p>
+<p>D’autres aires collaborent avec M1 pour former le <strong>complexe moteur</strong> comme les <strong>aires prémotrices</strong> qui ont un <strong>rôle dans la planification et l’organisation du mouvement</strong>.</p>
+<p><img src="file:///tmp/lu1655801g4r4l.tmp/lu1655801g4r6i_tmp_628d7b3d.png"></p>
+<p><strong>2) Les voies motrices : du cortex aux muscles</strong></p>
+<p>Les <strong>neurones du cortex pariétal projettent leurs axones dans le bulbe rachidien</strong> puis <strong>vers la moelle épinière</strong>.</p>
+<p>Comme les nerfs optiques, les <strong>voies motrices vont se croiser</strong>, on parle de <strong>décussation motrice</strong>. Ainsi, l’<strong>hémisphère droit</strong> contrôle la <strong>partie gauche du corps et inversement</strong>.</p>
+<p>Certaines <strong>lésions des aires motrices</strong> (AVC) ou de la moelle entraînent donc des <strong>paralysies partielles ou totales</strong> (hémi-, para-, tétraplégie).</p>
+<p><strong>3) L’intégration des messages</strong></p>
+<p>Les <strong>motoneurones de la moelle épinière</strong> sont <strong>connectés à de nombreux autres neurones du cortex et du SNP</strong>.</p>
+<p><strong>Chaque neurone moteur</strong> intègre toutes ces <strong>informations</strong> en réalisant une <strong>sommation spatiale et/ou temporelle</strong> pour élaborer une <strong>réponse adaptée</strong>.</p>
+<p>La plupart des <strong>troubles de la motricité hors paralysies</strong> sont dus à des <strong>déficiences cérébrales immédiates</strong> (ex : apraxie) ou <strong>progressives</strong> (ex : maladie de Parkinson).</p>
+<p><strong>VI. Plasticité cérébrale et perturbation du fonctionnement</strong></p>
+<p><strong>1) Plasticité et apprentissage</strong></p>
+<p>La comparaison des cartes motrices de plusieurs individus montre des différences qui peuvent être importantes.</p>
+<p>C’est notamment le cas entre les droitiers et les gauchers et en fonction des apprentissages qui permettent de développer plutôt certains territoires de M1 (ex : musique, dessin, …).</p>
+<p>Le cortex moteur possède donc des capacités de remaniement au cours de la vie : c’est la plasticité cérébrale, responsable du processus d’apprentissage.</p>
+<ol start="2">
+<li>Plasticité et récupération</li>
+</ol>
+<p>Chez des patients ayant subi un AVC dans les aires motrices, celles-ci peuvent récupérer progressivement leurs capacités par réparation des zones lésées et recrutement des zones voisines pour la même fonction.</p>
+<p>On peut faire la même observation après une greffe de la main. Les cartes motrices sont modifiées pour compenser les pertes.</p>
+<ol start="3">
+<li>Modifications artificielles du fonctionnement cérébral</li>
+</ol>
+<p>Les différente aires corticales communiquent entre elles par des voies neuronales ce qui implique la présence de synapses.</p>
+<p>Certaines substances exogènes sont capables de perturber la synapse en se fixant sur les récepteurs des NT :</p>
+<ul>
+<li>
+<p>La nicotine est un agoniste de l’acétylcholine et possède donc la même action dans le cerveau mais pas dans les muscles.</p>
+</li>
+<li>
+<p>L’alcool est un agoniste du GABA ce qui prolonge l’entrée des ions Cl- et diminue donc l’excitabilité des neurones.</p>
+</li>
+<li>
+<p>Le THC du cannabis se fixe sur les récepteurs des endorphines (calmants) et au niveau du système de récompense.</p>
+</li>
+</ul>
+<p>La plupart des substances consommées par l’Homme modifiant l’activité du cerveau, en affectant le système de récompense via les neurones dopaminergiques, sont à l’origine d’une addiction plus ou moins rapide.</p>
+<p>Les effets perturbateurs des drogues sont le plus souvent imprévisibles et troublent durablement le fonctionnement cérébral. La sensibilisation aux drogues « dures » comme la cocaïne ou l’héroïne au même titre que drogues « douces » perdure toute la vie.</p>
+<p>Conclusion</p>
+<p>Les mouvements, volontaires ou non, impliquent le fonctionnement de neurones du SNP et du SNC. Leur activité est coordonnée pour aboutir à une action précise mais peut être modifiée par des substances endogènes ou exogènes agissant au niveau des synapses.</p>
+<p>Le cerveau présente la capacité unique de pouvoir réorganiser partiellement son fonctionnement selon les besoins de l’environnement.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t3-c2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t3-c2/</guid>
+      <description>![[t3c2.odt]] Thème 3 : Corps humain et santé&#xA;Chapitre 2 : La mise en œuvre du mouvement&#xA;Lorsqu’un message nerveux moteur arrive au niveau du muscle, ce dernier se contracte et réduit sa longueur. Cependant, pour produire un mouvement de rotation au niveau de l’articulation, d’autres structures doivent intervenir et le muscle doit être correctement alimenté.&#xA;Problématique : Comment la contraction musculaire permet-elle de produire un mouvement ? Comment les muscles s’alimentent-ils en énergie ?</description>
+      <content:encoded><![CDATA[<p>![[t3c2.odt]]
+Thème 3 : Corps humain et santé</p>
+<p>Chapitre 2 : La mise en œuvre du mouvement</p>
+<p>Lorsqu’un message nerveux moteur arrive au niveau du muscle, ce dernier se contracte et réduit sa longueur. Cependant, pour produire un mouvement de rotation au niveau de l’articulation, d’autres structures doivent intervenir et le muscle doit être correctement alimenté.</p>
+<p>Problématique : Comment la contraction musculaire permet-elle de produire un mouvement ?
+Comment les muscles s’alimentent-ils en énergie ?</p>
+<p>I. Mécanique musculo-squelettique</p>
+<p>Il existe 3 grands types de muscles : les muscles lisses de faible puissance localisés surtout dans la paroi des organes (intestin, vaisseaux sanguins, estomac, …), le muscle strié cardiaque à contraction automatique et les muscles striés squelettiques contrôlables volontairement.</p>
+<p>Ces derniers sont fixés sur au moins 2 os du squelette différents par des tendons ce qui permet de réaliser un mouvement de rotation au niveau de l’articulation séparant les 2 os.</p>
+<p>Au niveau des membres, ils fonctionnent en tandem avec un fléchisseur et un extenseur qui se contractent et se relâchent alternativement.</p>
+<p>II. Structure et fonctionnement du myocyte</p>
+<ol>
+<li>Le muscle à différentes échelles</li>
+</ol>
+<p>Chaque muscle strié squelettique est constitué de plusieurs faisceaux musculaires, séparés par du tissus conjonctifs, eux-mêmes constitués de nombreuses fibres musculaires s’étendant sur toute la longueur du muscle.</p>
+<p>Chaque fibre correspond à une seule cellule musculaire présentant de nombreux noyaux. Elle est donc issue de la fusion de centaines ou milliers de cellules, c’est un syncytium.</p>
+<p>Chaque cellule possède des stries à intervalle régulier au niveau de son cytosquelette donnant son nom à ce type de muscle.</p>
+<ol start="2">
+<li>Les myocytes, des cellules contractiles</li>
+</ol>
+<p>L’observation au microscope électronique des stries alternant bandes claires et sombres au sein des myocytes montre que celles-ci sont constituées de 2 types de filaments :</p>
+<ul>
+<li>Des myofilaments fins d’actine.</li>
+<li>Des myofilaments épais de myosine.</li>
+</ul>
+<p>Ces deux filaments du cytosquelette s’associent en myofibrille qui s’organisent en sarcomères reliés les uns aux autres et responsables du raccourcissement de la cellule.</p>
+<p>Cytosquelette : Ensemble de protéines s’associant en filaments et donnant sa forme à la cellule.</p>
+<p>Sarcomère : Unité contractile du myocyte constitué de nombreux filaments d’actine et de myosine.</p>
+<p>La contraction est permise par les mouvements des myofilaments les uns par rapport aux autre :</p>
+<ul>
+<li>La tête de myosine pivote grâce à l’énergie fournie par l’ATP ce qui là rend capable de se fixer sur le filament d’actine.</li>
+<li>Lors de l’augmentation de [Ca2+], les têtes des filaments de myosine associés à de l’ATP se fixent sur les filaments d’actine.</li>
+<li>La tête de myosine libère l’ADP+Pi ce qui là fait pivoter et reprendre son orientation de départ déplaçant ainsi le filament de myosine par rapport au filament d’actine et enfin se sépare de ce dernier en fixant une nouvelle molécule d’ATP.</li>
+<li>Le processus recommence tant que la [Ca2+] est suffisante et qu’il y a de l’ATP dans la cellule.</li>
+</ul>
+<p>La contraction du muscle est donc la conséquence du déplacement des myofilaments les uns par rapport aux autres ce qui aboutit au raccourcissement du myocyte et au mouvement.</p>
+<p>Chez certaines personnes, ce processus ne fonctionne pas, on parle alors de myopathie.</p>
+<ol start="3">
+<li>Origine et conséquences des myopathies</li>
+</ol>
+<p>Myopathie : Pathologie engendrant un dysfonctionnement musculaire.</p>
+<p>La plus connue est la myopathie de Duchenne qui ne touche que les garçons avec une incidence faible (1/2500). Elle a donc une origine génétique et est localisée sur le chrs X.</p>
+<p>Les enfants affectés perdent progressivement leurs capacités de contraction musculaire. Il possèdent une mutation sur un allèle codant une protéine (la dystrophine) permettant la fixation entre l’actine et une protéine membranaire reliée à la matrice extracellulaire.</p>
+<p>Les éléments contractiles (myofilaments) perdent donc progressivement, au fil des cycles de contraction/relâchement, le contact avec les éléments qui entourent la cellule.</p>
+<p>Ainsi, l’intégrité des myocytes se dégrade petit à petit ce qui conduit à des microlésions qui finiront par se rejoindre et aboutiront à la dégénérescence de la cellule.</p>
+<p>Les enfants affectés perdent donc la capacité de marcher vers 12 ans et comme toutes les cellules musculaires sont affectées, par défaillance cardiaque ou respiratoire, leur espérance de vie est réduite entre 20 et 30 ans.</p>
+<p>Bilan</p>
+<p>La contraction musculaire correspond en réalité au déplacement de myofilaments de myosine le long de myofilaments d’actine produisant un raccourcissement.
+Pour cela, il faut une [Ca2+] importante et de l’énergie fournie par l’ATP.
+Certaines mutations peuvent empêcher ce fonctionnement et sont très souvent létales.</p>
+<p>III. Production de l’énergie cellulaire</p>
+<p>ATP : Adénosine TriPhosphate, molécule organique vecteur de l’énergie cellulaire.</p>
+<p>Il y a peu d’ATP dans les cellules musculaires et il doit donc être constamment renouvelé :</p>
+<ul>
+<li>
+<p>La 1ère seconde d’effort consomme le stock d’ATP présent.</p>
+</li>
+<li>
+<p>Les 1ères minutes utilisent surtout des voies anaérobies : l’hydrolyse de la phosphocréatine qui produit rapidement de l’ATP pendant quelques secondes puis la fermentation lactique pendant 2 min.
+Rq : la créatine peut être utilisée comme produit dopant et l’accumulation 	d’acide lactique dans les muscles est responsable des crampes.</p>
+</li>
+<li>
+<p>La respiration cellulaire n’intervient qu’après quelques minutes d’effort pour permettre aux cellules d’être correctement approvisionnée en O2. Elle peut alors fonctionner longtemps et produire beaucoup d’ATP.</p>
+</li>
+</ul>
+<ol>
+<li>Dégradation aérobie</li>
+</ol>
+<p>Toute cellule vivante régénère son ATP en oxydant des molécules organiques par respiration ou fermentation.</p>
+<p>Dans le cas d’une molécule de glucose, le bilan de la respiration est le suivant :
+C6H12O6 + 6 O2 + 6 H2O    6 CO2 + 12 H2O</p>
+<p>La respiration comporte plusieurs réactions chimiques catalysées par des enzymes. Au cours de ces réactions, la matière carbonée est minéralisée sous forme de CO2.</p>
+<ol start="2">
+<li>Dégradation anaérobie</li>
+</ol>
+<p>L’oxydation respiratoire du glucose est complète alors que la fermentation du glucose est incomplète ce qui produit un déchet organique :</p>
+<p>C6H12O6    2 C2H5OH + 2 CO2</p>
+<p>Ce processus permet un renouvellement peu efficace mais réel de l’ATP ce qui autorise malgré tout une vie sans oxygène.</p>
+<p>Il existe 2 principaux types de fermentations :</p>
+<ul>
+<li>
+<p>La fermentation éthylique qui utilise le pyruvate issu de la glycolyse et le dégrade en éthanol couplé à une oxydation des composés R’H2.
+Elle se réalise notamment chez les levures.</p>
+</li>
+<li>
+<p>La fermentation lactique dégrade le pyruvate en acide lactique avec le même couplage.
+Elle existe chez certaines cellules animales et bactériennes.</p>
+</li>
+</ul>
+<p>Les fermentations ne produisent cependant que 2 ATP par réaction.</p>
+<p>IV. Les étapes de la respiration cellulaire</p>
+<ol>
+<li>1ère étape : la glycolyse : (commune à la fermentation)</li>
+</ol>
+<p>La premiere étape correspond à l’oxydation partielle du glucose en pyruvate.</p>
+<p>Elle s’accompagne de la production de 2 composés réduits NADH à partir du NAD.</p>
+<p>Elle se déroule dans le cytoplasme grâce à des enzymes.</p>
+<p>L’énergie libérée permet, par couplage, la synthèse de 2 molécules d’ATP par molécule de glucose oxydé.</p>
+<p>C6H12O6 + 2 NAD+    2 CH3COCOOH + 2 NADH + H+
+2 ADP + 2 Pi    2 ATP</p>
+<ol start="2">
+<li>2ème étape : La dégradation du pyruvate</li>
+</ol>
+<p>La seconde étape se déroule dans la matrice des mitochondries, également grâce à de nombreuses enzymes.</p>
+<p>C’est une série de décarboxylations oxydatives, à partir du pyruvate.</p>
+<p>Qui s’accompagne de la production de composés réduits, de CO2 et d’une synthèse d’ATP (= cycle de KREBS).</p>
+<p>2 CH3COCOOH + 10 NAD+ + 6 H2O    6 CO2 + 10 NADH + H+
+2 ADP + 2 Pi    2 ATP</p>
+<ol start="3">
+<li>3ème étape : La phosphorylation oxydative</li>
+</ol>
+<p>La dernière étape se déroule dans les crêtes de la membrane interne des mitochondries.</p>
+<p>Une chaîne de transport d’électrons couplées à une ATP-synthétase permet l’oxydation par l’O2.</p>
+<p>Des composés réduits produits dans les étapes précédentes libérant de nombreux H+ dont le gradient servira à faire fonctionner l’ATP-synthétase.</p>
+<p>Elle permet la production d’une grande quantité d’ATP.</p>
+<p>12 NADH + H+ + 6 O2    12 H2O + 12 NAD+
+34 ADP + 34 Pi    34 ATP</p>
+<pre><code>Rq : Des substances dopantes exogènes comme les anabolisants ou GAS-6 	augmentent la production d’ATP et la prise de masse mais peuvent avoir des 	conséquences néfastes pour la santé.
+</code></pre>
+<p>Conclusion</p>
+<p>Pour un fonctionnement optimal, le muscle doit continuellement renouveler son stock d’ATP. Cela passe par les voies anaérobies ou aérobies et nécessite une bonne alimentation en glucose et O2 ainsi que le fonctionnement coordonné de nombreuses enzymes.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t3-c3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t3-c3/</guid>
+      <description>![[t3c3.odt]] Thème 3 : Corps humain et santé&#xA;Chapitre 3 : Le contrôle des flux de glucose&#xA;La production d’énergie par le muscle nécessite un apport régulier plus ou moins important en O2 et en glucose. La glycémie est contrainte par la demande énergétique des cellules et les apports issus de l’alimentation. Ceci implique qu’elle soit finement régulée.&#xA;Problématique : Comment se fait la régulation de la glycémie selon les conditions physiologiques ?</description>
+      <content:encoded><![CDATA[<p>![[t3c3.odt]]
+Thème 3 : Corps humain et santé</p>
+<p>Chapitre 3 : Le contrôle des flux de glucose</p>
+<p>La production d’énergie par le muscle nécessite un apport régulier plus ou moins important en O2 et en glucose. La glycémie est contrainte par la demande énergétique des cellules et les apports issus de l’alimentation. Ceci implique qu’elle soit finement régulée.</p>
+<p>Problématique : Comment se fait la régulation de la glycémie selon les conditions physiologiques ?
+Quelles sont les causes et conséquences de son dysfonctionnement ?</p>
+<p>I. La glycémie, un paramètre régulé</p>
+<ol>
+<li>Apports et consommation de glucose</li>
+</ol>
+<p>La glycémie correspond à la concentration sanguine de glucose et elle oscille normalement autour d’une valeur moyenne proche de 1g/L appelée valeur de consigne.</p>
+<p>Chaque repas entraîne systématiquement une hyperglycémie qui revient rapidement autour de cette valeur de consigne. Une activité physique peut entraîne une hypoglycémie passagère.</p>
+<ol start="2">
+<li>Une régulation obligatoire</li>
+</ol>
+<p>En cas d’hypoglycémie (&lt; 0,7g/L), les cellules souffrent d’un manque de glucose, en particulier les cellules nerveuses pour lesquelles il est la seule source d’énergie.</p>
+<p>Une hypoglycémie sévère provoque un coma et peut être mortelle.</p>
+<p>En cas d’hyperglycémie (&gt; 1,2g/L) chronique, de nombreux troubles apparaissent à la longue : sensation de soif, problèmes visuels, fatigue et même coma dans les formes sévères.</p>
+<p>Une hyperglycémie ponctuelle n’a pas de conséquences graves à court terme (sauf si elle est très élevée).</p>
+<p>II. Les organes effecteurs de la régulation</p>
+<ol>
+<li>Consommation et stockage du glucose dans l’organisme</li>
+</ol>
+<p>Il existe 2 formes de stockage du glucose dans l’organisme :</p>
+<ul>
+<li>Le glycogène : polymère de glucose retrouvé essentiellement dans le foie et les muscles squelettiques, en quantité limitée.</li>
+</ul>
+<p>La glycogénogenèse correspond à la polymérisation du glucose en glycogène alors que la glycogénolyse permet d’obtenir du glucose par hydrolyse du glycogène. Ce dernier est utilisé sur place dans le muscle.</p>
+<ul>
+<li>Les triglycérides : graisses constituées de 3 acides gras liés à un glycérol dans les adipocytes, beaucoup moins limitées en quantité (d’où le risque de surcharge pondérale en cas d’excès de sucre et de graisses).</li>
+</ul>
+<p>La lipolyse permet de libérer du glycérol qui gagne le foie par voie sanguine afin d’y être transformé en glucose.</p>
+<ol start="2">
+<li>Le rôle du foie</li>
+</ol>
+<p>Le foie peut libérer du glucose dans le sang en hydrolysant le glycogène de réserve par glycogénolyse. Il peut également en stocker en  prélevant du glucose dans sang.</p>
+<p>Par ailleurs, il peut aussi produire du glucose à partir de certains acides aminés par néoglucogenèse en cas d’extrême nécessité.</p>
+<p>Son rôle est donc central dans la régulation de la glycémie comme organe de stockage du glucose.</p>
+<p>Le second acteur de la régulation glycémique est le pancréas.</p>
+<p>III. L’homéostasie glycémique</p>
+<p>Le pancréas joue un double rôle</p>
+<ul>
+<li>
+<p>Un rôle exocrine grâce aux cellules acineuses qui produisent des sucs digestifs (des lipases notamment) déversées dans l’intestin.</p>
+</li>
+<li>
+<p>Un rôle endocrine grâce aux cellules  des îlots de Langerhans qui produisent 2 hormones : l’insuline à effet hypoglycémiant produit par les cellules β et le glucagon à effet hyperglycémiant produit par les cellules α.</p>
+</li>
+</ul>
+<p>En cas d’hyperglycémie, les cellules β libèrent de l’insuline en concentration variable selon la valeur de glycémie. Transportée par le sang, elle se fixe sur des récepteurs spécifiques au niveau du foie et des muscles faisant entrer du glucose dans les hépatocytes et myocytes et déclenchant la glycogénogenèse.</p>
+<p>En cas d’hypoglycémie, les cellules α libèrent du glucagon. Transporté par le sang, ce dernier se fixe sur des récepteurs spécifiques au niveau du foie provoquant la sortie du glucose des hépatocytes ainsi que la glycogénolyse.</p>
+<p>Bilan</p>
+<p>Schéma de régulation de la glycémie</p>
+<p>Selon l’OMS : + de 450M de personnes sont diabétiques dans le monde. Cette maladie a tué 1,8M de personnes en 2019. Le nombre de décès pourrait doubler entre 2020 et 2040.</p>
+<p>IV. Les deux grands types de diabètes</p>
+<p>Chaque repas entraîne systématiquement une hyperglycémie qui revient rapidement autour de la valeur de consigne de 1g.L-1. Le sport peut entraîner une hypoglycémie passagère, corrigée à son tour.</p>
+<ol>
+<li>Comparaison de 2 cas</li>
+</ol>
+<p>Il existe deux grandes formes de diabète :</p>
+<ul>
+<li>Le diabète de type I ou insulinodépendant (DID), se traduit par l’absence totale d’insuline ou son inefficacité sur les récepteurs hépatiques et apparaît soudainement, généralement avant 15 ans.</li>
+<li>Le diabète de type II ou non insulinodépendant (DNID), se caractérise par un insuffisance et un retard de sécrétion d’insuline et/ou une rareté des récepteurs de l’hormone.</li>
+</ul>
+<p>N.B. : Un troisième type existe également : le diabète gestationnel, spécifique à certaines femmes lors de la grossesse.
+Rq : il existe certains cas de diabète où la glycémie est normale. Le dépistage d’une glycosurie résulte dans ce cas d’une mauvaise réabsorption du glucose au niveau du rein (diabète rénal).</p>
+<ol start="2">
+<li>Les facteurs de déclenchement des diabètes</li>
+</ol>
+<p>Le DT1 résulte de la destruction des cellules béta des îlots de Langerhans du pancréas, produisant l’insuline, par les anticorps : c’est donc une maladie auto-immune. Il se transmet des parents aux enfants et a donc une origine génétique.</p>
+<p>Le DT2 apparaît la plupart du temps après 40 ans et représente 90% des cas de diabète sucré.</p>
+<p>Lié principalement à l’obésité mais les prédispositions héréditaires sont à considérer, il se caractérise par une insulinorésistance progressive.</p>
+<p>V. Des traitements en constante évolution</p>
+<ol>
+<li>Limiter l’hyperglycémie</li>
+</ol>
+<p>Les diabétiques de type1 doivent impérativement s’administrer quotidiennement de l’insuline pour compenser sa non sécrétion.</p>
+<p>Aujourd’hui, des pompes automatisées existent mais le patient doit ajuster la dose selon le repas pris.</p>
+<p>Les diabétiques de type 2 n’ont besoin d’une insulinothérapie qu’à un stade avancé de la maladie.</p>
+<p>Avant cette étape, le régime alimentaire et l’activité physique restent les meilleurs remèdes. Il s’agit donc plutôt de conseils hygiéno-diététiques que de traitements.</p>
+<p>Des médicaments hypoglycémiants comme la metformine peuvent renforcer l’action de l’insuline et ainsi éviter certaines symptômes.</p>
+<ol start="2">
+<li>Perspectives de traitements futurs</li>
+</ol>
+<p>L’automatisation des pompes à insuline améliore la vie des patients mais n’apporte cependant aucun espoir de guérison.</p>
+<p>La recherche explore donc plusieurs pistes :</p>
+<ul>
+<li>Les cellules souches pour remplacer les cellules qui ne fonctionnent pas ou plus.</li>
+<li>La thérapie génique pour soigner le mal à racine et remplacer l’allèle malade par le sain.</li>
+<li>La greffe du pancréas et le pancréas artificiel.</li>
+</ul>
+<p>Conclusion</p>
+<p>La glycémie est un paramètre fondamental de l’homéostasie du corps humain. Sa valeur de consigne d’1g/L est régulée par deux hormones, l’insuline et le glucagon aux effets antagonistes. Lorsque leur production ou fonctionnement est perturbé, le diabète peut s’installer rapidement. Seul le DT2 peut se traiter aisément par une bonne hygiène alimentaire et sportive.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t3-c4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t3-c4/</guid>
+      <description>![[t3c4.odt]] Thème 3 : Corps humain et santé&#xA;Chapitre 4 : Stress et modulation du comportement&#xA;Notre organisme est constamment soumis à des agressions extérieures, qu’elles soient de nature physique, biologique ou psychologique. Des adaptations physiologiques et psychologiques ont donc été sélectionnées par l’évolution pour supporter ces contraintes.&#xA;Problématique : Comment le corps s’adapte-t-il à une situation de stress ? Comment certaines situations peuvent-elles conduire à un stress chronique ?</description>
+      <content:encoded><![CDATA[<p>![[t3c4.odt]]
+Thème 3 : Corps humain et santé</p>
+<p>Chapitre 4 : Stress et modulation du comportement</p>
+<p>Notre organisme est constamment soumis à des agressions extérieures, qu’elles soient de nature physique, biologique ou psychologique.
+Des adaptations physiologiques et psychologiques ont donc été sélectionnées par l’évolution pour supporter ces contraintes.</p>
+<p>Problématique : Comment le corps s’adapte-t-il à une situation de stress ? Comment certaines situations peuvent-elles conduire à un stress chronique ?</p>
+<p>I. Stress aigu et réponse immédiate</p>
+<ol>
+<li>La phase d’alarme</li>
+</ol>
+<p>Stress aigu : Réponses adaptatives rapides et transitoires de l’organisme face aux agent stressants de l’environnement.</p>
+<p>Lors d’une situation de stress physique, psychique ou émotionnel, la réponse du corps est stéréotypée : augmentation des fréquences cardiaques et ventilatoires, libération d’adrénaline et de cortisol.</p>
+<p>Ces différentes réponses sont déclenchées par le système limbique du SNC (hypothalamus, amygdale, hippocampe et cortex préfrontal).</p>
+<p>Physiologie de la phase d’alarme :</p>
+<p>Les neurones de l’hypothalamus, via divers relais synaptique du système nerveux autonome sympathique (SNAS) déclenchent la libération d’adrénaline par la glande médullo-surrénale (au milieu des surrénales).</p>
+<p>L’adrénaline se fixe sur les récepteurs cardiaques et des muscles respiratoires ce qui augmente la FC et la FV ainsi qu’au niveau du foie afin de libérer du glc.</p>
+<p>L’organisme est alors dans un état de vigilance et de réactivité accrue pour pouvoir échapper rapidement à la situation de stress.</p>
+<ol start="2">
+<li>La phase de résistance</li>
+</ol>
+<p>Quelques minutes après la phase d’alarme se met en marche un second mécanisme complémentaire :</p>
+<p>Toujours sous contrôle du système limbique, l’hypothalamus sécrète une neurohormone : la CRH (corticolibérine ou corticotropin releasing hormon). Celle-ci active l’hypophyse qui libère alors une hormone : l’ACTH.</p>
+<p>L’ACTH (Adrénocorticotrophine) stimule la glande corticosurrénale (sur le pourtour des surrénales) ce qui lui fait libérer du cortisol.</p>
+<p>Le cortisol a pour effets principaux d’augmenter la glycémie et d’inhiber le système immunitaire.</p>
+<p>Cette phase dure plus longtemps et, coordonnée à la phase d’alarme, elle permet l’adaptabilité des individus chez de nombreuses espèces selon la situation : fuite, combat, immobilisation, …</p>
+<p>Au bout d’un certain temps, l’organisme revient malgré tout à son état initial, c’est la résilience.</p>
+<ol start="3">
+<li>Résilience et retrocontrôle</li>
+</ol>
+<p>La libération de cortisol est contrôlée par la libération de CRH par l’hypothalamus. Le cortisol exerce à son tour un rétrocontrôle négatif sur la production de CRH et d’ACTH.</p>
+<p>Petit à petit, les taux d’adrénaline et de cortisol sanguins redeviennent normaux ce qui rétablit une FC, une FV et une glycémie normale.
+Schéma du système de régulation</p>
+<p>Ceci caractérise la résilience de l’organisme : sa capacité à revenir à un état normal initial après une perturbation.</p>
+<p>Ainsi, les différentes voies nerveuses et hormonales impliquées agissent en synergie et permettent l’adaptabilité de l’organisme.</p>
+<p>II. Du stress aigu au stress chronique</p>
+<p>Stress chronique : dérèglement (débordement) du système de régulation du stress dû à agents stressants trop intenses ou prolongés. Ex : PTSD</p>
+<ol>
+<li>Une transformation progressive</li>
+</ol>
+<p>A long terme et grâce à la plasticité cérébrale (ici mal-adaptative), le stress chronique provoque une modification du système limbique via la CRH.</p>
+<p>On observe une diminution de l’expression des récepteurs au cortisol et au GABA (NT inhibiteur) au niveau de l’hypothalamus.</p>
+<p>L’effet du rétrocontrôle inhibiteur est donc diminué ce qui réduit la capacité de résilience tout en augmentant la production de CRH et donc l’intensité de la réponse au stress même lorsque ce dernier est faible.</p>
+<p>Cette baisse est à l’origine de troubles du comportement, de l’attention et de la dégradation des performances cognitives.</p>
+<p>Seul le stress chronique peut faire l’objet d’un traitement du fait que lui seul présente une forme de dérèglement.</p>
+<ol start="2">
+<li>Traitements</li>
+</ol>
+<p>Le traitement du stress chronique peut se faire selon 2 types de modalités :</p>
+<ul>
+<li>Par voie médicamenteuse : l’utilisation de benzodiazépines (Xanax, Valium, Lexomil, …) provoque un effet anxiolytique en se fixant et en activant les récepteurs inhibiteurs du GABA.</li>
+</ul>
+<p>Ils s’accompagnent d’un effet myorelaxant et sédatif léger (relaxant) mais leur consommation excessive engendre des effets secondaires :</p>
+<p>Somnolence, troubles de l’attention, du comportement et du sommeil.
+Leur prescription est donc fortement encadrée et nécessite un suivi rigoureux.</p>
+<ul>
+<li>Via un traitement non médicamenteux (médecine alternative) : certaines pratiques comme l’hypnose, la méditation, la respiration profonde ou l’activité physique peuvent favoriser la résilience sans effets secondaires.</li>
+</ul>
+<p>Ils permettent de diminuer les symptômes émotionnels, physiologiques et comportementaux mais ne sont pas efficaces chez tout le monde.</p>
+<p>La variabilité interindividuelle (génétique, sociale, psychologique, …) nous rend plus ou moins sensibles aux agents stressants et donc aussi aux divers traitements. Chacun doit donc trouver celui qui est le mieux adapté.</p>
+<p>Conclusion</p>
+<p>Le stress est un élément présent naturellement dans l’existence de tout être vivant. L’organisme a donc développé au cours de l’évolution des stratégies adaptées à ces situations.
+En étant prolongé ou trop intense, le stress a un effet néfaste important sur le bien être quotidien. Différents traitements adaptés à chacun existent afin de retrouver une résilience normale de l’organisme.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t4-c1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t4-c1/</guid>
+      <description>![[t4c1.odt]] Thème 4 : Les climats de la Terre&#xA;Chapitre 1 : Reconstituer et étudier les climats du passé&#xA;La compréhension de l’évolution rapide du climat actuel ne peut se faire qu’à partir de l’étude des variations climatiques passées sur Terre. Ces modifications ont eu des impacts majeurs sur la biosphère et l’évolution du vivant.&#xA;Problématique : Comment arrive-t-on à reconstituer les climats du passé ? Quels sont les grands mécanismes à l’origine des modifications climatiques ?</description>
+      <content:encoded><![CDATA[<p>![[t4c1.odt]]
+Thème 4 : Les climats de la Terre</p>
+<p>Chapitre 1 : Reconstituer et étudier les climats du passé</p>
+<p>La compréhension de l’évolution rapide du climat actuel ne peut se faire qu’à partir de l’étude des variations climatiques passées sur Terre. Ces modifications ont eu des impacts majeurs sur la biosphère et l’évolution du vivant.</p>
+<p>Problématique : Comment arrive-t-on à reconstituer les climats du passé ?
+Quels sont les grands mécanismes à l’origine des modifications climatiques ?</p>
+<p>I. A grande échelle de temps, du Carbonifère au Crétacé</p>
+<ol>
+<li>Le climat au Paléozoïque (-550 ; -250 Ma)</li>
+</ol>
+<p>Au Carbonifère et au Permien, les continents sont regroupés en Pangée localisée dans l’hémisphère sud.</p>
+<p>Moraines, stries glaciaires et blocs erratiques montrent des glaciers étendus et une vaste calotte polaire sur la partie sud de la Pangée (Am du Sud, Af du Sud, Australie, Inde et Antarctique) augmente l’albédo globale et provoque un refroidissement du climat bien que la partie tropicale demeure chaude et aride (évaporites).</p>
+<p>Les traces fossiles d’arbres de climat tropical dans le charbon et des coraux sont trouvés dans les roches carbonifères en France.</p>
+<p>La France se trouvait donc au niveau de l’équateur sur l’emplacement de la chaîne varisque. Sous ce climat, l’altération est très intense provoquant l’hydrolyse des minéraux silicatés ce qui modifie le cycle géochimique du carbone et piège le CO2 atmosphérique.</p>
+<p>Le climat équatorial a été très favorable au développement végétal qui a piégé une grande quantité de CO2, emprisonné par la suite dans les sédiments détritiques et constituant la base des immenses gisements d’hydrocarbures exploités actuellement.</p>
+<p>La fin du Carbonifère est donc marquée par un refroidissement global entraînant une glaciation provoquée principalement par une baisse de [CO2] atmosphérique malgré un climat contrasté selon les zones géographiques de la Pangée.</p>
+<ol start="2">
+<li>Le climat au Crétacé (-145 ; -65 Ma)</li>
+</ol>
+<p>La Pangée se disloque, les continents actuels commencent à prendre forme, le relief s’aplanit et il y a une transgression marine généralisée.</p>
+<p>On trouve des coraux jusqu’à 40° de latitude, le Groenland et l’Alaska sont couverts d’arbres de climat chaud (palmier, figuiers, …). De vastes marécages bordent les océans ce qui émet de grandes quantités de gaz à effet de serre (GES) : vapeur d’eau, CH4 et CO2.</p>
+<p>Le climat est donc très chaud avec une moyenne des températures supérieure d’environ 7°C à aujourd’hui et la Terre est dépourvue de toute glace.</p>
+<p>La chaîne hercynienne arrive en fin de vie et la dislocation des continents augmente le niveau des océans, il y a donc moins d’altération ce qui pompe - de CO2. Son taux dépasse allègrement les 500ppm.</p>
+<p>Le Crétacé présente une intense activité volcanique au niveau des dorsales et au niveau des points chauds ce qui produit des trapps (ex : trapps du Deccan en Inde), libérant énormément de CO2 stocké dans le manteau.</p>
+<p>Au Crétacé, on assiste à un fort réchauffement du climat provoqué par une augmentation de [CO2] atmosphérique engendré par la dislocation des continents grâce à une activité volcanique et de dorsale très intense.</p>
+<p>Bilan</p>
+<p>Les modifications climatiques à grande échelle sont corrélées aux variations de [CO2] atmosphérique. Altération des silicates, précipitation des carbonates et piégeage organique la diminuent alors que le dégazage volcanique du manteau et la dissolution des carbonates l’augmente.</p>
+<p>II. L’évolution du climat au Cénozoïque (depuis 65Ma)</p>
+<ol>
+<li>A l’échelle du Cénozoïque dans son ensemble</li>
+</ol>
+<p>L’évolution du climat au Cénozoïque s’étudie grâce à l’indice stomatique (rapport nb de stomates sur nb de cellules de surface), l’évolution des différents rapports isotopiques du Sr et du B dans les roches sédimentaires (indices géochimiques) et l’étude de la dégradation des paléosols (intensité de la respiration des microorganismes du sol, sensible à la température).</p>
+<p>On arrive alors à une évaluation de la [CO2] atmosphérique permettant d’en déduire l’effet de serre associé et donc la température moyenne.</p>
+<p>Depuis 30Ma, durant la seconde moitié du Cénozoïque, on observe une augmentation du δ87Sr correspondant à une augmentation de l’altération continentale, une diminution du δ10B indiquant une hausse du pH dans l’eau donc une baisse de [CO2] atmosphérique, une diminution de la dégradation des paléosols et une augmentation du rapport stomatique (besoin de + de stomates pour compenser une baisse de [CO2].</p>
+<p>Ceci s’explique par l’altération progressive de la chaîne alpine qui pompe du CO2, une modification de la circulation océanique (thermohaline) due à la nouvelle position des continents, notamment la séparation entre Antarctique et Australie ouvrant la voie au courant circum-antarctique ainsi que la mise en place d’une grande calotte glaciaire en Antarctique provoquant une régression marine favorisant l’érosion.</p>
+<p>La seconde moitié du Cénozoïque depuis 30Ma est donc caractérisée par une période de refroidissement avec la mise en place d’une calotte antarctique induisant un « âge de glace ».</p>
+<ol start="2">
+<li>Les modifications à petite échelle au Quaternaire (depuis -2,5 Ma)</li>
+</ol>
+<p>On étudie les variations climatiques récentes à partir de carottes de glace des calottes polaires et de carottes de sédiments des fonds océaniques ou lacustres.</p>
+<p>On recherche en particulier les bulles d’air emprisonnées dans la glace depuis 700 000 ans au plus.</p>
+<p>O est un mélange de 3 isotopes naturels : 16O (99,76%), 17O (0,04%) et 18O (0,2%).</p>
+<p>L’isotope lourd (18) se déplace plus difficilement que l’isotope léger (16) lors de l’évaporation alors qu’il tombe plus facilement avec les pluies.</p>
+<p>Les calottes polaires sont donc appauvries en isotope lourd et l’océan enrichi, d’autant plus que le climat est froid.</p>
+<p>La mesure des variations du rapport (18O/16O) permet alors d’avoir une idée du climat régnant lorsque la neige est tombée.</p>
+<p>Cette interprétation du rapport se note δ18O et provient de la formule suivante :</p>
+<p>SMOW = Standard Mean Ocean Water (mesure moyenne dans les océans actuellement)</p>
+<p>L’analyse des carottes de milliers de m de forages donne donc les variations locales de température de l’air au cours des 800 000 dernières années.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t4-c2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t4-c2/</guid>
+      <description>![[t4c2.odt]] Thème 4 : Les climats de la Terre&#xA;Chapitre 2 : Envisager le climat du futur&#xA;Il existe aujourd’hui un consensus scientifique quant à la réalité et l’origine du changement climatique en cours. Il est le fruit de nombreux travaux de recherche menés depuis 30 ans dans différents domaines et nous permet, grâce à des modélisations d’en envisager les conséquences futures.&#xA;Problématique : Comment le changement climatique affectera-t-il le vivant ?</description>
+      <content:encoded><![CDATA[<p>![[t4c2.odt]]
+Thème 4 : Les climats de la Terre</p>
+<p>Chapitre 2 : Envisager le climat du futur</p>
+<p>Il existe aujourd’hui un consensus scientifique quant à la réalité et l’origine du changement climatique en cours. Il est le fruit de nombreux travaux de recherche menés depuis 30 ans dans différents domaines et nous permet, grâce à des modélisations d’en envisager les conséquences futures.</p>
+<p>Problématique : Comment le changement climatique affectera-t-il le vivant ?
+Comment est-il possible d’agir pour en limiter les effets ?</p>
+<p>I. Le réchauffement, un consensus scientifique</p>
+<p>La prise de conscience des modifications climatiques ainsi que de la possible implication de l’Homme date des années 1970.</p>
+<p>Celle-ci a conduit à la création par l’ONU d’un groupe d’experts scientifiques sur le climat en 1988 : le GIEC.
+Il émet un rapport complet tous les 5 à 6 ans sur l’état des connaissances, l’évolution des activités en lien avec le climat, l’évaluation des actions mises en œuvre au niveau mondial et une projection sur l’évolution future du climat selon différentes hypothèses.</p>
+<p>Les travaux des spécialistes de la climatologie ont permis d’aboutir à un consensus scientifique sur l’origine anthropique du réchauffement observé actuellement.</p>
+<p>Les modèles qui découlent de ces connaissances nous font prendre conscience des risques posés par l’anthropisation des écosystèmes et des conséquences possibles pour le futur des activités humaines.</p>
+<p>II. Les conséquences du réchauffement global</p>
+<ol>
+<li>Au niveau des écosystèmes</li>
+</ol>
+<p>La connaissance de la physiologie et des besoins écologiques des EV permet d’envisager les conséquences du réchauffement climatique sur la biodiversité :</p>
+<ul>
+<li>Migration des espèces vers des latitudes plus hautes avec risque de ne pas trouver de territoire adapté.</li>
+<li>Adaptation de la physiologie des animaux qui sont fortement dépendants du climat (hétérothermes terrestres, aquatiques, …)</li>
+<li>Modifications du type de couvert végétal ce qui induit un changement du 1er maillon des réseaux trophiques terrestres (approvisionnement) et perte de diversité d’espèces.</li>
+</ul>
+<ol start="2">
+<li>Impact sur les agrosystèmes</li>
+</ol>
+<p>L’augmentation de la [CO2] favorise la photosynthèse et augmente donc la production de biomasse.</p>
+<p>Cependant, la multiplication des épisodes climatiques extrêmes (sécheresse, inondations, tempêtes) fera diminuer les rendements globaux des cultures, élevages et foresteries sans compter l’arrivée de nouveaux ravageurs.</p>
+<p>L’assèchement des sols peut entraîner une désertification et la montée des eaux peut provoquer leur salinisation. Ces deux phénomènes conduisent à une réduction de la surface des terres cultivables.</p>
+<ol start="3">
+<li>Et l’Homme dans tout ça ?</li>
+</ol>
+<p>Dans son histoire, Homo sapiens a vécu de nombreuses modifications successives du climat, il est donc capable de s’y adapter.
+Il faudra malgré tout faire face à une réduction des ressources alimentaires et des surfaces habitables alors que nous sommes toujours plus nombreux sur Terre.
+Ceci provoquera de nombreux phénomènes migratoires accompagnés de la diffusion de pathogènes vers des latitudes toujours plus hautes.
+L’ensemble de ces phénomènes doivent être anticipés afin de les maîtriser.</p>
+<p>III. Atténuation et adaptation</p>
+<p>Dans la plupart des pays, la prise de conscience des modifications climatiques a conduit à l’élaboration de plans d’action (notamment via les COP) pour renforcer les connaissances, choisir les bonnes stratégies et évaluer leur efficacité. 2 stratégies ont été imaginées :</p>
+<ul>
+<li>L’atténuation : transition énergétique et écologique, stockage des GES, utilisation des GES pour produire de la biomasse.</li>
+<li>L’adaptation : se protéger contre les effets du changement climatique et arriver à s’adapter en modifiant nos comportements de consommation (frugalité, décroissance, réduction de la consommation de viande, …).</li>
+</ul>
+<p>Conclusion</p>
+<p>Le changement climatique actuellement en cours et dont l’origine anthropique font l’objet d’un consensus scientifique, présente un défi majeur pour l’humanité.
+De nombreux changements aussi bien individuels que collectifs devront être mis en œuvre, non pas pour éviter le réchauffement mais pour limiter son ampleur à un niveau supportable pour la biodiversité et notre survie.
+Il n’est pas (encore) trop tard.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t5-c1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t5-c1/</guid>
+      <description>![[t5c1.odt]] Thème 5 : De la plante sauvage à la plante domestiquée&#xA;Chapitre 1 : Organisation fonctionnelle et production de matière organique&#xA;Par leurs caractéristiques intrinsèques, les plantes terrestres sont parfaitement adaptées à la vie fixée et sont soumises aux conditions variables de leur environnement. Leur métabolisme autotrophe leur permet de produire de la matière organique sans en consommer au préalable.&#xA;Problématiques :&#xA;Quelles sont les adaptations des plantes vis-à-vis de la vie fixée</description>
+      <content:encoded><![CDATA[<p>![[t5c1.odt]]
+<strong>Thème 5 : De la plante sauvage à la plante domestiquée</strong></p>
+<p><strong>Chapitre 1 : Organisation fonctionnelle et production de matière organique</strong></p>
+<p>Par leurs <strong>caractéristiques intrinsèques</strong>, <strong>les plantes terrestres</strong> sont <strong>parfaitement adaptées à la vie fixée</strong> et sont <strong>soumises aux conditions variables de leur environnement</strong>. Leur <strong>métabolisme autotrophe</strong> leur permet de <strong>produire de la matière organique sans en consommer au préalable</strong>.</p>
+<p><em>Problématiques :</em></p>
+<p><em>Quelles sont les adaptations des plantes vis-à-vis de la vie fixée</em></p>
+<p><em>Comment arrivent-elles à produire des sucres par photosynthèse ?</em></p>
+<p><em>Quel est le devenir de cette matière organique ?</em></p>
+<p><strong>I. Organisation fonctionnelle des angiospermes</strong></p>
+<p><strong>Angiosperme :</strong> <strong>Famille de végétaux produisant des fleurs pour assurer leur reproduction sexuée.</strong></p>
+<p><strong>1) Appareil végétatif et surfaces d’échanges :</strong></p>
+<p>Chaque <strong>angiosperme terrestre</strong> possède un <strong>appareil végétatif</strong> composé de <strong>racines</strong> en contact avec le sol, <strong>tiges</strong> et <strong>feuilles</strong> en contact avec l’atmosphère.</p>
+<p>Les <strong>appareils racinaires et aériens</strong> possèdent une <strong>surface d’échange</strong> 100 à 1000X plus vaste que les animaux (20 à 150cm²/kg vs. 0,02cm²/kg chez H.) et est la plus vaste pour les racines.</p>
+<p><strong>a) Caractéristiques et fonction des racines</strong></p>
+<p>Ces dernières, très ramifiées et très longues possèdent de <strong>très nombreux poils absorbants</strong> augmentant la surface de contact avec le sol. Les poils ont pour rôle principal d’<strong>absorber l’eau et les sels minéraux de manière active</strong>.</p>
+<p>Chez la plupart des plantes sauvages et toutes les cultivées, les <strong>poils absorbants</strong> ne sont présents que <strong>lors de la germination</strong> puis sont <strong>remplacés par</strong> <strong>un manchon jaune/orangé autour des plus fines racines</strong> : les <strong>mycorhizes</strong>.</p>
+<p>Ce sont des <strong>associations symbiotiques entre racine et champignon</strong> :</p>
+<ul>
+<li>
+<p><strong>Le champignon</strong> <strong>explore</strong> un grand volume de sol, <strong>absorbe l’eau et les sels minéraux</strong> puis en <strong>transfère</strong> une grande partie <strong>à la plante</strong>.</p>
+</li>
+<li>
+<p><strong>La plante</strong> <strong>produit en retour</strong> de la <strong>matière organique</strong> qu’elle <strong>donne en partie</strong> <strong>au champignon</strong>.</p>
+</li>
+</ul>
+<p><strong>b) Caractéristiques et fonctions des feuilles</strong></p>
+<p>Les <strong>feuilles</strong> présentent un <strong>fort rapport surface/volume</strong> grâce à leur forme aplatie.</p>
+<p>Les <strong>coupes transversales de feuilles</strong> montrent :</p>
+<ul>
+<li>
+<p>Un <strong>épiderme supérieur monocouche</strong> <strong>de cellules non chlorophylliennes</strong> <strong>couvertes d’une couches de cires protectrices</strong> (<em>la cuticule</em>) <strong>peu perméable</strong>.</p>
+</li>
+<li>
+<p>Un <strong>parenchyme chlorophyllien palissadique</strong> <strong>de cellules riches en chloroplastes</strong>. C’est la <strong>principale zone de capture de l’énergie lumineuse</strong>.</p>
+</li>
+<li>
+<p>Un <strong>parenchyme chlorophyllien lacuneux</strong> <strong>avec des cellules disjointes</strong> (<em>méats</em>). C’est <strong>principalement une surface d’échange de gaz</strong>.</p>
+</li>
+<li>
+<p>Un <strong>épiderme inférieur non chlorophyllien</strong>, <strong>recouvert de cires</strong> <strong>et régulièrement interrompu par des pores :</strong> <strong>les stomates</strong>.</p>
+</li>
+</ul>
+<p><strong>Les stomates</strong> <strong>permettent</strong> les <strong>échanges d’O2, de CO2 et l’évaporation d’H2O</strong>.</p>
+<p>Ils sont <strong>constitués de 2 cellules de garde (vertes)</strong> <strong>entourant l’orifice appelé ostiole</strong> dont <strong>l’ouverture est variable et contrôlée selon les besoins</strong>.</p>
+<p>Les stomates sont présents essentiellement sur les <strong>faces inférieures des feuilles</strong> pour <strong>économiser l’eau et éviter une trop grande déshydratation</strong>.</p>
+<p><strong>c) Réalisation de la photosynthèse</strong></p>
+<p><strong>Les plantes</strong> sont <strong>autotrophes</strong> pour le C car <strong>réalisent la photosynthèse</strong> pour <strong>produire leur propre matière organique</strong>.</p>
+<p>Elles <strong>capturent l’énergie lumineuse au niveau des</strong> <strong>thylakoïdes des chloroplastes</strong> <strong>grâce à des pigments</strong> dont <strong>la chlorophylle</strong>.</p>
+<p>Ils <strong>transforment</strong> l’<strong>énergie lumineuse</strong> en <strong>énergie chimique</strong> grâce à de nombreuses réactions pour <strong>fixer le CO2 sur des molécules organiques</strong> (<em>glucides</em>).</p>
+<p><em>Remarque : Sachant que le taux de CO2 atmosphérique est de 0,038%, les mécanismes d’absorption doivent être très efficaces !</em></p>
+<p><strong>2) Les échanges au sein du végétal : sèves et vaisseaux</strong></p>
+<p>Les racines prélèvent l’eau et les minéraux qui constitueront la sève brute conduite par les vaisseaux du xylème vers les tiges et feuilles.</p>
+<p>Les vaisseaux du xylème sont de grande taille, constitués de cellules mortes vides renforcées par de la lignine formant des motifs spiralés ou annelés. Ils transportent l’eau et les sels minéraux.</p>
+<p>Les glucides produits par la photosynthèse constituent la sève élaborée conduite par le phloème vers les tiges, racines, bourgeons, fleurs et fruits.</p>
+<p>Ces vaisseaux sont + petits et constitués de cellules vivantes communiquant par des ponctuations.</p>
+<ol start="3">
+<li>Mise en place des organes végétaux</li>
+</ol>
+<p>Le développement de la plante dès la germination passe par une phase de multiplication cellulaire puis de différenciation (organogenèse).</p>
+<p>La production cellulaire se fait au niveau des méristèmes, essentiellement localisés à l’extrémité des tiges et des racines.</p>
+<p>Lorsque les cellules sont produites par mitose, la croissance de la plante se poursuit par allongement des cellules, c’est l’élongation.</p>
+<p>Le méristème apical localisé au sommet de la tige produit une succession de phytomères, tous identiques, constitués d’un fragment de tige, d’une ou plusieurs feuilles et d’un bourgeon.</p>
+<p>La croissance des plantes suit certaines contraintes externes et internes :</p>
+<ul>
+<li>
+<p>Le phototropisme permet d’orienter l’appareil aérien vers le ciel.</p>
+</li>
+<li>
+<p>Le géotropisme permet de diriger le développement des racines vers le sol.</p>
+</li>
+<li>
+<p>Les hormones végétales conduisent à la différenciation des cellules et permettent l’organogenèse : les auxines, cytokinines et gibbérellines selon leur association permettent l’élongation, la multiplication cellulaire ou la différenciation en tissus.</p>
+</li>
+</ul>
+<p>II. Photosynthèse et production primaire</p>
+<p>La présence de stomates en face inférieure permet d’alimenter la feuille en CO2 tandis que le parenchyme palissadique supérieur, riche en chloroplaste, capte l’énergie lumineuse, est le siège de la photosynthèse.</p>
+<p>La photosynthèse est constituée de 2 phases complémentaires simultanées :</p>
+<ul>
+<li>
+<p>La phase photochimique appelée phase « claire ».</p>
+</li>
+<li>
+<p>La phase non photochimique appelée phase « sombre ».</p>
+</li>
+</ul>
+<ol>
+<li>La phase photochimique</li>
+</ol>
+<p>Hill a montré que cette phase se déroule dans les thylakoïdes des chlotoplastes.</p>
+<p>Elle produit de l’O2 en présence d’eau, de lumière et d’un accepteur d’électron (réactif de Hill) mais en absence de CO2.</p>
+<p>C’est l’énergie transmise par les photons aux pigments des photosystèmes (complexe prot.-pigment de la membrane des thylakoïdes) qui déclenche la photolyse (l ’oxydation) de l’eau :</p>
+<p>H2O -&gt; 2H+ + 2e- + ½O2</p>
+<p>Les électrons issus de la réaction sont transmis à un accepteur final R+ grâce aux enzymes de la chaîne photosynthétique de la membrane des thylakoïdes.</p>
+<p>A l’issue de cette chaîne d’oxydoréduction, R+ est réduit en RH2, appelé coenzyme réduit, indispensable à la suite des réactions de la photosynthèse :</p>
+<p>R+ + 2H+ + 2e- -&gt; RH2</p>
+<p>Les protons (H+) issus de l’oxydation de l’eau permettent de produire de l’ATP (adénosine triphosphate) à partir d’ADP et phosphate inorganique grâce à la réaction de phosphorylation :</p>
+<p>ADP + Pi -&gt; ATP</p>
+<p>L’ATP est essentielle aux transferts d’énergie nécessaires aux réactions métaboliques.</p>
+<p>Bilan :</p>
+<p>la phase photochimique est donc un ensemble de réactions d’oxydoréduction couplées à une réaction de phosphorylation.</p>
+<ol start="2">
+<li>La phase non photochimique</li>
+</ol>
+<p>Calvin a montré que la phase non photochimique se déroule dans le stroma et permet l’incorporation cyclique du CO2 dans les molécules carbonées.</p>
+<p>Le CO2 s’associe à du C5P2 (ribulose 1-5 biphosphate) pour former 2 molécules de PGA.</p>
+<p>La réduction du PGA en C3P (triose phosphate) a besoin de l’ATP et du RH2 produits par la phase photochimique.</p>
+<p>Une partie des C3P produits vont servir à régénérer du C5P2 (boucle le cycle) et l’autre part sera convertie en glucides phosphorylés simples, en saccharose puis en glucides complexes comme l’amidon, mais aussi en a-a.</p>
+<p>Bilan</p>
+<p>Les deux phases sont donc intimement liées : bien que la phase non photochimique ne nécessite pas directement de lumière, elle dépend entièrement des produits de la phase photochimique.</p>
+<p>En associant toutes les réactions des deux phases on obtient :</p>
+<p>6 CO2 + 12 H2O -&gt; C6H12O6 + 6 O2 + 6 H2O</p>
+<ol start="3">
+<li>Le devenir des molécules produites par la photosynthèse</li>
+</ol>
+<ul>
+<li>Croissance et port : Les sucres peuvent être convertis en cellulose et pectine retrouvés dans les parois cellulaires.</li>
+</ul>
+<p>Chez les arbres, la paroi intègre de la lignine lui donnant une grande rigidité et permettant un port dressé et une importante hauteur.</p>
+<ul>
+<li>Stockage et reproduction : L’amidon (polymère de glucose), les lipides et certaines protéines sont stockés dans des organes de réserve (tubercules, racines) ou les graines pour assurer la survie de la plante en conditions défavorables ou permettre le développement des descendants (graine) et la reproduction asexuée (tubercule, …).</li>
+</ul>
+<ul>
+<li>aliments potentiels pour certains animaux.</li>
+</ul>
+<ul>
+<li>Les interactions avec d’autres espèces : les tanins (polyphénols) stockés surtout dans l’écorce servent de défense contre les herbivores et les champignons (interaction compétitive).</li>
+</ul>
+<p>Les anthocyanes donnent les couleurs vives aux fleurs (rouge, bleu, jaune selon le pH) favorisant l’attraction des insectes pollinisateurs (interaction mutualiste)</p>
+<p>Conclusion</p>
+<p>Les végétaux chlorophylliens, en étant à la base de tout réseau trophique, présentent de nombreuses adaptations leur permettant de produire très efficacement de la matière organique à partir de matière minérale et d’énergie lumineuse.</p>
+<p>Les sucres, dérivés protéiques et lipidiques produits ont d’innombrables fonctions au sein de la plante comme pour les animaux les consommant.</p>
+<p><strong>Toute cellule vivante</strong> <strong>régénère son ATP</strong> en <strong>oxydant des molécules organiques par respiration ou fermentation</strong>.</p>
+<p><em>Dans le cas d’une molécule de glucose, le bilan de la respiration est le suivant :</em></p>
+<p><em><strong>C<strong><strong>6</strong></strong>H<strong><strong>12</strong></strong>O****6</strong> <strong>+ 6 O****2</strong> <strong>+ 6 H<strong><strong>2</strong></strong>O</strong> <strong></strong> <strong>6 CO****2</strong> <strong>+ 12 H<strong><strong>2</strong></strong>O</strong></em></p>
+<p>La <strong>respiration</strong> comporte <strong>plusieurs réactions chimiques catalysées par des enzymes</strong>. Au cours de ces réactions, la <strong>matière carbonée</strong> est <strong>minéralisée sous forme de CO2</strong>.</p>
+<p><strong>2) Dégradation anaérobie</strong></p>
+<p>L’<strong>oxydation respiratoire du glucose</strong> est <strong>complète</strong> alors que la <strong>fermentation du glucose</strong> est <strong>incomplète</strong> ce qui <strong>produit un déchet organique</strong> :</p>
+<p><strong>C<strong><strong>6</strong></strong>H<strong><strong>12</strong></strong>O****6</strong> <strong></strong> <strong>2 C<strong><strong>2</strong></strong>H<strong><strong>5</strong></strong>OH</strong> <strong>+</strong> <strong>2 CO****2</strong></p>
+<p>Ce processus permet un <strong>renouvellement peu efficace</strong> <strong>mais réel de l’ATP</strong> ce qui <strong>autorise malgré tout une vie sans oxygène</strong>.</p>
+<p>Il existe 2 principaux types de fermentations :</p>
+<ul>
+<li>La <strong>fermentation éthylique</strong> qui <strong>utilise</strong> <strong>le pyruvate issu de la glycolyse</strong> et <strong>le dégrade en éthanol couplé à une oxydation des composés R’H2</strong>.</li>
+</ul>
+<p><em>Elle se réalise notamment chez les levures.</em></p>
+<ul>
+<li>La <strong>fermentation lactique</strong> <strong>dégrade</strong> <strong>le pyruvate</strong> <strong>en</strong> <strong>acide lactique avec le même couplage</strong>.</li>
+</ul>
+<p><em>Elle existe chez certaines cellules animales et bactériennes.</em></p>
+<p><strong>Les fermentations</strong> ne <strong>produisent</strong> cependant que <strong>2 ATP par réaction</strong>.</p>
+<p><strong>IV. Les étapes de la respiration cellulaire</strong></p>
+<p><strong>1) 1ère étape : la glycolyse : (commune à la fermentation)</strong></p>
+<p>La <strong>premiere</strong> <strong>étape</strong> correspond à l’<strong>oxydation partielle du glucose en pyruvate</strong>.</p>
+<p>Elle s’accompagne de la <strong>production de 2 composés réduits NADH à partir du NAD</strong>.</p>
+<p>Elle se déroule <strong>dans le cytoplasme</strong> <strong>grâce à des enzymes</strong>.</p>
+<p>L**’énergie libérée permet**, <strong>par couplage</strong>, <strong>la synthèse de 2 molécules d’ATP par molécule de glucose oxydé</strong>.</p>
+<p><em><strong>C<strong><strong>6</strong></strong>H<strong><strong>12</strong></strong>O****6</strong> <strong>+ 2 NAD</strong>**+** <strong></strong> <strong>2 CH<strong><strong>3</strong></strong>COCOOH + 2 NADH + H</strong>**+**</em></p>
+<p><em><strong>2 ADP + 2 Pi</strong> <strong></strong> <strong>2 ATP</strong></em></p>
+<p><strong>2) 2ème étape : La dégradation du pyruvate</strong></p>
+<p>La <strong>seconde étape</strong> se déroule <strong>dans la matrice des mitochondries</strong>**,** également grâce à de nombreuses enzymes.</p>
+<p>C’est une <strong>série de décarboxylations oxydatives</strong>, <strong>à partir du pyruvate</strong>.</p>
+<p>Qui s’accompagne de la <strong>production de</strong> <strong>composés réduits</strong>, <strong>de CO2</strong> et <strong>d’une synthèse d’ATP</strong> (= cycle de KREBS).</p>
+<p><em><strong>2 CH<strong><strong>3</strong></strong>COCOOH + 10 NAD</strong>**+** <strong>+ 6 H<strong><strong>2</strong></strong>O</strong> <strong></strong> <strong>6 CO****2</strong> <strong>+ 10 NADH + H</strong>**+**</em></p>
+<p><em><strong>2 ADP + 2 Pi</strong></em> <em><strong></strong></em> <em><strong>2 ATP</strong></em></p>
+<p><strong>3) 3ème étape : La phosphorylation oxydative</strong></p>
+<p>La <strong>dernière étape</strong> se déroule <strong>dans les crêtes de la membrane interne des mitochondries</strong>.</p>
+<p>Une <strong>chaîne de transport d’électrons</strong> <strong>couplées à</strong> <strong>une ATP-synthétase</strong> permet <strong>l’oxydation par l’O2</strong>.</p>
+<p>Des <strong>composés réduits produits dans les étapes précédentes</strong> libérant de nombreux H+ dont <strong>le gradient</strong> servira à <strong>faire fonctionner l’ATP-synthétase</strong>.</p>
+<p>Elle permet la <strong>production d’une grande quantité d’ATP</strong>.</p>
+<p><em><strong>12 NADH + H</strong>**+** <strong>+ 6 O****2</strong> <strong></strong> <strong>12 H<strong><strong>2</strong></strong>O + 12 NAD</strong>**+**</em></p>
+<p><em><strong>34 ADP + 34 Pi</strong> <strong></strong> <strong>34 ATP</strong></em></p>
+<p><em>Rq : Des substances dopantes exogènes comme les anabolisants ou GAS-6 augmentent la production d’ATP et la prise de masse mais peuvent avoir des conséquences néfastes pour la santé.</em></p>
+<p><strong>Conclusion</strong></p>
+<p>Pour un <strong>fonctionnement optimal</strong>, le muscle doit <strong>continuellement renouveler son stock d’ATP</strong>. Cela passe par les <strong>voies anaérobies ou aérobies</strong> et nécessite <strong>une bonne alimentation en glucose et O2</strong> ainsi que <strong>le fonctionnement coordonné de nombreuses enzymes</strong>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t5-c2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t5-c2/</guid>
+      <description>![[t5c2.odt]] Thème 5 : De la plante sauvage à la plante domestiquée&#xA;Chapitre 2 : Reproduction des plantes et mobilité&#xA;De par leur mode de vie, les plantes sont contraintes à la fixité dans l’espace. La colonisation de l’ensemble de la planète implique donc la production de structures mobiles associées à la reproduction.&#xA;Problématique : Comment les plantes se reproduisent-elles ?&#xA;Comment sont-elles parvenues à coloniser tous les milieux terrestres ?</description>
+      <content:encoded><![CDATA[<p>![[t5c2.odt]]
+<strong>Thème 5 : De la plante sauvage à la plante domestiquée</strong></p>
+<p><strong>Chapitre 2 : Reproduction des plantes et mobilité</strong></p>
+<p>De par leur <strong>mode de vie</strong>, les plantes sont contraintes à la <strong>fixité dans l’espace</strong>. La <strong>colonisation de l’ensemble de la planète</strong> implique donc la <strong>production de structures mobiles associées à la reproduction</strong>.</p>
+<p><em>Problématique : Comment les plantes se reproduisent-elles ?</em></p>
+<p><em>Comment sont-elles parvenues à coloniser tous les milieux terrestres ?</em></p>
+<p><strong>I. Reproduction asexuée</strong></p>
+<p>L’<strong>analyse génétique</strong> de <strong>nombreux plants de fraisiers sauvages</strong> poussant <strong>côte à côte</strong> montre une <strong>totale uniformité</strong>. Ce sont donc des <strong>clones</strong> <strong>issus d’une reproduction asexuée</strong> <strong>sans gamète ni fécondation</strong>.</p>
+<p>Cette <strong>capacité</strong> est conférée par la <strong>totipotence des cellules végétales</strong> : elles sont capables de se <strong>dédifférencier</strong> <strong>avant de se multiplier</strong> <strong>puis se différencier à nouveau</strong> <strong>en tous les types cellulaires de la plante</strong> grâce aux <strong>hormones végétales</strong> (auxines, gibbérellines, cytokinines, …).</p>
+<p>Certains organes se développent à cette fin : le <strong>tubercule</strong> (<em>pomme de terre</em>), les <strong>stolons</strong> (<em>racine aérienne du fraisier</em>), les <strong>rhizomes</strong> (<em>tige souterraine du bambou</em>), …</p>
+<p>La <strong>compréhension de ce</strong> <strong>mode de reproduction</strong> a permis des <strong>avancées notables en agriculture</strong> : <strong>amélioration de variétés par greffe</strong> (arbres fruitiers), <strong>obtention d’un grand nombre de clones par bouturage ou marcottage</strong>.</p>
+<p><img src="file:///tmp/lu1677751gbxh6.tmp/lu1677751gbxld_tmp_4c99664.png"></p>
+<p><strong>II. Les structures de la reproduction sexuée</strong></p>
+<p><strong>1) Organisation générale de la fleur</strong></p>
+<p>Elle est <strong>présente uniquement chez les</strong> <strong>angiospermes</strong> et est <strong>constituée de</strong> <strong>4 types de pièces florales</strong> :</p>
+<ul>
+<li>
+<p><strong>Les sépales</strong> : <strong>pièces stériles les plus externes</strong>, <strong>souvent chlorophylliens</strong> qui <strong>protègent la fleur</strong>.</p>
+</li>
+<li>
+<p><strong>Les pétales</strong> : <strong>stériles</strong>, <strong>généralement + grands que les sépales</strong>, <strong>très colorés et de structure variée pour attirer les insectes pollinisateurs</strong>.</p>
+</li>
+<li>
+<p><strong>Les étamines</strong> : <strong>pièces fertiles mâles</strong> <strong>formées du filet et des anthères</strong> <strong>contenant les grains de pollen correspondant aux les gamètes mâles</strong>.</p>
+</li>
+<li>
+<p><strong>Le pistil</strong> : <strong>pièce fertile femelle formé du stigmate</strong>, <strong>du style et de l’ovaire contenant les ovules</strong>.</p>
+</li>
+</ul>
+<p><strong>Les fleurs</strong> sont <strong>très souvent hermaphrodites</strong> mais pas exclusivement et <strong>il existe des mécanismes favorisant la fécondation croisée</strong> (incompatibilité spatiale et/ou temporelle, incompatibilité génétique).</p>
+<p>Lorsque le <strong>grain de pollen</strong> <strong>se pose sur</strong> <strong>le stigmate</strong>, <strong>il germe et produit un tube pollinique</strong>. Ce dernier permet le <strong>déplacement des gamètes mâles</strong> j<strong>usqu’aux gamètes femelles</strong> <strong>au sein des ovaires, facilitant la fécondation</strong>.</p>
+<p><strong>2) Le déterminisme génétique de la fleur</strong></p>
+<p>La mise en place des <strong>structures de la fleur</strong> est <strong>contrôlée par un système de</strong> <strong>3 gènes</strong> (ABC). Il a été mis en évidence grâce aux mutants du modèle d’étude végétal Arabidopsis thaliana.</p>
+<p>Ce sont des <strong>gènes homéotiques très conservés</strong> dont <strong>l’expression conditionne la forme de la fleur</strong>.</p>
+<p><strong>III. Vie fixée et transport du pollen et des graines</strong></p>
+<p><strong>1) La dispersion du pollen</strong></p>
+<p>Le <strong>pollen</strong> est <strong>transporté par des agents pollinisateurs</strong> : <strong>le vent</strong> (<em><strong>anémogamie</strong></em>), <strong>l’eau</strong> (<em><strong>hydrogamie</strong></em>) et pour <strong>90% les animaux</strong> (<em><strong>zoogamie</strong></em>).</p>
+<p>Les fleurs présentent de <strong>nombreuses structures attractives pour les insectes</strong> : <strong>nectar, signaux visuels et olfactifs, structures mimétiques</strong>. Celles-ci montrent une <strong>relation évolutive étroite</strong> (<em><strong>mutualisme</strong></em>) <strong>entre la fleur et son pollinisateur</strong>, on parle de <strong>coévolution</strong>.</p>
+<p><img src="file:///tmp/lu1677751gbxh6.tmp/lu1677751gbxld_tmp_f7ef0fe0.png"></p>
+<p>De ce fait, <strong>de nombreuses plantes</strong> sont <strong>dépendantes d’un seul insecte pour leur pollinisation</strong>. <em>Ex : la vanille, le figuier, le yucca…</em></p>
+<p><strong>2) Dissémination des fruits et des graines</strong></p>
+<p><strong>Après fécondation</strong>, la <strong>fleur se transforme en fruit où</strong> <strong>seul l’ovaire est conservé</strong>. Les <strong>ovules vont se transformer en graines</strong>.</p>
+<p><strong>Les graines</strong> <strong>contiennent l’embryon qui</strong> <strong>reformera une plante entière après germination</strong>. Elles <strong>contiennent les réserves nutritives</strong> indispensables au début du développement et <strong>protègent l’embryon grâce au tégument</strong>.</p>
+<p>Très déshydratée, elle peut <strong>survivre longtemps en dormance</strong>. <strong>La germination démarre si</strong> <strong>les conditions spécifiques à chaque espèce sont favorables</strong>.</p>
+<p>La <strong>colonisation du milieu par les plantes</strong> dépend de la <strong>dissémination de fruits et graines par différents moyens</strong> :</p>
+<ul>
+<li>
+<p><strong>Par le vent (anémochorie)</strong>. Ex : le pissenlit</p>
+</li>
+<li>
+<p><strong>Par l’eau (hydrochorie)</strong>. Ex : la noix de coco</p>
+</li>
+<li>
+<p><strong>Par chute gravitaire (barochorie)</strong>. Ex : marron</p>
+</li>
+<li>
+<p><strong>Par les animaux (zoochorie)</strong> : tous les fruits charnus (mangues, pommes, …) et certains fruits s’accrochent au pelage (bardane).</p>
+</li>
+</ul>
+<p><strong>Conclusion</strong></p>
+<p>L’apparent paradoxe entre <strong>vie fixée et dispersion dans l’environnement</strong> trouve sa solution dans plusieurs <strong>mécanismes sophistiqués de dispersion du pollen et des graines/fruits</strong>, sélectionnés par l’évolution.</p>
+<p>Les plus efficaces impliquent <strong>une action coordonnée avec certaines espèces d’insectes</strong>. Cette <strong>relation d’interdépendance doit absolument être préservée pour maintenir une biodiversité forte à court terme</strong>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t5-c3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/terminale/science-de-la-vie-et-de-la-terre/t5-c3/</guid>
+      <description>![[t5c3.odt]] Thème 5 : De la plante sauvage à la plante domestiquée&#xA;***************************************************louis&#xA;Chapitre 3 : La domestication des plantes&#xA;La production végétale est à la base de tout écosystème et de l’alimentation humaine. L’évolution des pratiques culturales depuis 10 000 ans a permis la formidable expansion d’Homo sapiens et constituent aujourd’hui un enjeu majeur pour nourrir une humanité toujours croissante.&#xA;Problématique : Comment s’est réalisée la domestication des plantes ?</description>
+      <content:encoded><![CDATA[<p>![[t5c3.odt]]
+<strong>Thème 5 : De la plante sauvage à la plante domestiquée</strong></p>
+<p>***************************************************<strong>louis</strong></p>
+<p><strong>Chapitre 3 : La domestication des plantes</strong></p>
+<p>La production végétale est à la base de tout écosystème et de l’alimentation humaine. L’évolution des pratiques culturales depuis 10 000 ans a permis la formidable expansion d’Homo sapiens et constituent aujourd’hui un enjeu majeur pour nourrir une humanité toujours croissante.</p>
+<p>Problématique : Comment s’est réalisée la domestication des plantes ?</p>
+<p>Quelles sont les pratiques nouvelles et leurs conséquences ?</p>
+<p><strong>I. Domestication et conséquences</strong></p>
+<p><strong>1) Domestication d’une plante sauvage : une sélection empirique</strong></p>
+<p>En cherchant les origines des plantes cultivées, on observe qu’elles ont toutes un « ancêtre sauvage ».</p>
+<p>Les graines des plantes intéressantes ont donc été sélectionnées de façon empirique par sélection visuelle (stature de la plante, taille des grains, …).</p>
+<p>Les traces fossiles d’arbres de climat tropical dans le charbon et des coraux sont trouvés dans les roches carbonifères en France.</p>
+<p><strong>2) L’appauvrissement de la biodiversité spécifique</strong></p>
+<p>Au fil des générations, la sélection et l’absence de reproduction avec la variété ancestrale modifie lentement le génotype.</p>
+<p>Ceci réduit la biodiversité spécifique de l’espèce : les plantes sont plus semblables, leurs cycles sont plus homogènes pour être rentables pour l’H.</p>
+<p>Cette perte de biodiversité rend l’espèce mal adaptée à la vie sauvage et dépendante de l’H.</p>
+<p>Ex : les épis de maïs sont sélectionnés pour éviter la chute des grains, ils ne peut donc faire germer leurs grains seuls, sensibilité à certains ravageurs, …</p>
+<p>Les variétés cultivées sont toujours interfécondes avec l’ancêtre supposé donc les différences génétiques restent limitées mais témoignent néanmoins d’un appauvrissement allélique.</p>
+<p>L’étude du maïs et de son ancêtre (la téosinte) montre des différences restreintes. L’analyse génétique montre que seuls 4 à 5 groupes de gènes sont différents : ceux qui ont été sélectionnés par la domestication pour leur intérêt agronomique.</p>
+<p><strong>II. Les étapes de la sélection des variétés cultivées</strong></p>
+<p><strong>1) Les apports de la biologie</strong></p>
+<p>Les avancées scientifiques dès le 17ème siècle permettent d’optimiser les qualités agronomiques des plantes :</p>
+<ul>
+<li>
+<p>En 1676, on découvre les rôle sexuel des étamines et du pistil -&gt; croisements contrôlés.</p>
+</li>
+<li>
+<p>De 1880 à 1910, la découverte des lois de Mendel permet de caractériser les gènes d’intérêt portés par les chrs.</p>
+</li>
+<li>
+<p>Depuis 1953, la découverte de l’ADN permet d’envisager de manipuler le génome et produire des OGM.</p>
+</li>
+</ul>
+<p><strong>2) L’obtention de lignées</strong></p>
+<p>Pour obtenir une variété intéressante, on réalise une série d’autofécondations et de tris des plantes produites.</p>
+<p>En une dizaine de générations, on obtient des lignées pures génétiquement homogènes et stables pouvant être commercialisées.</p>
+<p>La production de semences devient alors une activité spécialisée.</p>
+<p><strong>III. L’apport des sciences modernes</strong></p>
+<p><strong>1) Les apports de la culture in vitro</strong></p>
+<p>Grâce à différentes hormones, depuis 100 ans, les chercheurs arrivent à cultiver les plantes dans des milieux artificiels à partir de quelques cellules.</p>
+<p>Ceci a permis de produire des lignées clonales sans reproduction sexuée et de sauver des variétés attaquées par des parasites.</p>
+<p><strong>2) Les apports de la manipulation de l’ADN</strong></p>
+<p>Les chercheurs ont identifié les gènes intéressants chez les plantes cultivées grâce aux expériences de mutagenèse afin d’obtenir de nouvelles variétés possédant les caractères désirés.</p>
+<p>Entre 1950 et 1970, la manipulation de l’ADN progresse et permet de séparer les fragments selon leur taille par électrophorèse pour les sélectionner.</p>
+<p>Tout ceci a conduit à identifier les marqueurs moléculaires associés à un caractère précis.</p>
+<p>Dans les années 1990, les chercheurs développent les techniques de transgénèse et produisent les 1ers OGM.</p>
+<p>Enfin, au début des années 2010, une technique révolutionnaire de manipulation de l’ADN a été développée : Cripr-Cas9.</p>
+<p>Celle-ci permet d’éditer facilement le génome au nucléotide près et ouvre de formidables perspectives de recherche et développement.</p>
+<p><strong>IV. Cultures et évolution humaine</strong></p>
+<p>La sélection opérée au cours du temps a conduit à l’établissement d’une relation mutualiste d’interdépendance entre les plantes cultivées et les humains.</p>
+<p>Celle-ci a eu pour effet de produire une pression de sélection sur certains de nos gènes :</p>
+<ul>
+<li>
+<p>Les populations (H. sapiens) aux régimes riches en amidon possèdent plus de copies du gène de l’amylase par rapport aux populations de chasseurs-cueilleurs (H. neanderthalensis).</p>
+</li>
+<li>
+<p>Selon le type de régime alimentaire, les populations humaines possèdent des adaptations des voies métaboliques des acides gras Ω-3 et Ω-6.</p>
+</li>
+<li>
+<p>La modification du type d’alimentation et notamment la cuisson a conduit à une modification de la mâchoire, de la dentition et de muscles masticateurs par sélection de certains allèles favorables au sein des gènes du développement.</p>
+</li>
+</ul>
+<p><strong>Conclusion</strong></p>
+<p>Lorsque l’Homme choisit de modifier à dessein son environnement, l’évolution des EV est plus profonde et rapide, ce qui a été le cas pour les espèces cultivées et l’Homme en retour.</p>
+<p>Les biotechnologies modernes ont permis d’accroitre de façon spectaculaire les rendements mais l’appauvrissement de la diversité génétiques des variétés cultivées pourrait poser un problème majeur pour la sécurité alimentaire future.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/obsidian-vault/main/studies/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obsidian-vault/main/studies/windows/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+  </channel>
+</rss>

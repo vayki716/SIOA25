@@ -36,18 +36,40 @@
       transition: transform 0.2s, background-color 0.2s, color 0.2s;
     }
 
-
-
     /* Hover effect */
     .taskbar-button:hover {
       background-color: #3b5dc9;
       color: #ffffff;
     }
 
+
  
 
   </style>
+
+<script>
+  // Get all taskbar buttons
+  const buttons = document.querySelectorAll('.taskbar-button');
+
+  // Add event listeners to handle the click
+  buttons.forEach(button => {
+    button.addEventListener('click', function () {
+      // Remove 'active' class from all buttons
+      buttons.forEach(btn => btn.classList.remove('active'));
+
+      // Add 'active' class to the clicked button
+      this.classList.add('active');
+    });
+  });
+
+
+</script>
+
+<script>NekoType="white"</script>
+<script src="https://webneko.net/n20171213.js"></script>
+
 </head>
+
 <body>
 
   <!-- Taskbar container -->

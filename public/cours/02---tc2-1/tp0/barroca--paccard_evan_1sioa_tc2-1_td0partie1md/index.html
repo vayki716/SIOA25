@@ -267,7 +267,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-
      
     .taskbar {
       display: flex;
@@ -299,48 +298,58 @@
       transition: transform 0.2s, background-color 0.2s, color 0.2s;
     }
 
-
-
      
     .taskbar-button:hover {
       background-color: #3b5dc9;
       color: #ffffff;
     }
 
- 
-
+     
+    .taskbar-button.active {
+      background-color: #3b5dc9;
+      color: #ffffff;
+    }
   </style>
 </head>
 <body>
 
   
   <div class="taskbar">
-    
     <a href="/" class="taskbar-button">
       Home
     </a>
-    
     <a href="/cours/" class="taskbar-button">
       Cours
     </a>
-    
     <a href="/agenda" class="taskbar-button">
       Agenda
     </a>
-    
     <a href="/stages" class="taskbar-button">
       Stages
-    </a> 
-
-<a href="/online-privacy" class="taskbar-button">
-  News
-</a> 
-
-    
+    </a>
+    <a href="/online-privacy" class="taskbar-button">
+      News
+    </a>
   </div>
 
+  <script>
+    
+    const taskbarButtons = document.querySelectorAll('.taskbar-button');
+
+    
+    const currentPath = window.location.pathname;
+
+    
+    taskbarButtons.forEach(button => {
+      if (button.getAttribute('href') === currentPath) {
+        button.classList.add('active');
+      }
+    });
+  </script>
+
 </body>
-</html></nav>
+</html>
+</nav>
 </header>
   <main id="main-content">
 
