@@ -69,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,6 +154,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a48f67e68713eb3",
+  "active": "f7cb9c5d79b651b0",
   "lastOpenFiles": []
 }
