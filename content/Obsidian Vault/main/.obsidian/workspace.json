@@ -151,12 +151,22 @@
             "state": {
               "type": "QUICKSHARE_SIDE_VIEW",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9b952edb68944812",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
               "icon": "cloud",
               "title": "QuickShare"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -175,7 +185,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65e576878823fbe9",
+  "active": "9b952edb68944812",
   "lastOpenFiles": [
     "studies/Terminale/Science de la Vie et de la Terre/T5-C3.md",
     "studies/Terminale/Science de la Vie et de la Terre/T5-C2.md",
