@@ -11,13 +11,32 @@
             "id": "3e42352f2b1511a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "main/notes/Festival des 3 continents.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Festival des 3 continents"
+            }
+          },
+          {
+            "id": "1e5f35d2b03aa192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5ab9651ef29a3ffe",
@@ -151,9 +170,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "f7cb9c5d79b651b0",
-  "lastOpenFiles": []
+  "active": "1e5f35d2b03aa192",
+  "lastOpenFiles": [
+    "main/studies/Terminale/Grand Oral/La génomique, reine du Big data ?.md",
+    "main/home.md",
+    "main/notes/Festival des 3 continents.md",
+    "main/notes/Making the Website.md"
+  ]
 }
