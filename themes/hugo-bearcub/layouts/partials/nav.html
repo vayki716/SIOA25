@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  
+  <style>
+    /* Main container */
+    .taskbar {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0px;
+      padding: 3px 0px 3px 8px;
+      background-color: #ececec;
+      border-radius: 50px;
+      width: fit-content;
+    }
+
+    /* Individual button styles */
+    .taskbar-button {
+      position: relative; /* Required for positioning the dot */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: fit-content;
+      height: 30px;
+      padding: 0px 6px 0px 6px; /* Left padding to make space for the dot */
+      border-radius: 50px;
+      text-align: center;
+      background-color: #ffffff00;
+      color: #000;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+      transition: transform 0.2s, background-color 0.2s, color 0.2s;
+    }
+
+    /* Hover effect */
+    .taskbar-button:hover {
+      background-color: #3b5dc9;
+      color: #ffffff;
+    }
+
+    /* Active state */
+    .taskbar-button.active {
+      background-color: #3b5dc9;
+      color: #ffffff;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Taskbar container -->
+  <div class="taskbar">
+    <!-- Button 1 -->
+    <a href="/" class="taskbar-button">
+      Home
+    </a>
+    <!-- Button 2 -->
+    <a href="/projects/" class="taskbar-button">
+      Projects
+    </a>
+    <!-- Button 3 -->
+    <a href="/blog/" class="taskbar-button">
+      Blog
+    </a>
+    <!-- Button 4 -->
+    <a href="https://notes.heademptystoragefull.com/" class="taskbar-button" target="_blank" rel="noopener noreferrer">
+      Studies
+    </a>    
+    <!-- Button 5 -->
+    <a href="/me/" class="taskbar-button">
+      Me
+    </a> 
+  </div>
+
+  <script>
+    // Wait for DOM to load
+    document.addEventListener('DOMContentLoaded', () => {
+      // Get all taskbar buttons
+      const buttons = document.querySelectorAll('.taskbar-button');
+
+      // Get the current URL path
+      const currentPath = window.location.pathname;
+
+      // Add 'active' class to the button whose href matches the current path
+      buttons.forEach(button => {
+        if (button.getAttribute('href') === currentPath) {
+          button.classList.add('active');
+        }
+      });
+    });
+
+  </script> 
+
+ <!-- <script src="./oneko.js"></script> -->
+
+</body>
+</html>

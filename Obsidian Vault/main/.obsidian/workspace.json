@@ -151,22 +151,12 @@
             "state": {
               "type": "QUICKSHARE_SIDE_VIEW",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "9b952edb68944812",
-            "type": "leaf",
-            "state": {
-              "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {},
               "icon": "cloud",
               "title": "QuickShare"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -185,8 +175,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b952edb68944812",
+  "active": "65e576878823fbe9",
   "lastOpenFiles": [
+    "notes/Festival des 3 continents.md",
     "studies/Terminale/Science de la Vie et de la Terre/T5-C3.md",
     "studies/Terminale/Science de la Vie et de la Terre/T5-C2.md",
     "studies/Terminale/Science de la Vie et de la Terre/T5-C1.md",
@@ -222,7 +213,6 @@
     "studies/Shell.md",
     "studies/Python.md",
     "studies/PHP.md",
-    "studies/Linux.md",
     "Untitled.canvas"
   ]
 }
