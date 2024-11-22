@@ -1,5 +1,0 @@
-Vos captures d'écran doivent prouver :
-
-    L'application Keepass doit être installée sur 2 équipements informatiques différents
-    La base de données Keepass doit être stockée dans le dossier partagé d'un stockage Cloud (Dropbox...). Cette bdd doit être visible sur tous les équipements informatiques (par l'application Fichiers ou explorateur de fichiers par exemple).
-    Créer une entrée de mot de passe sur un équipement, sauvegarder puis constater ce changement sur l'autre équipement
